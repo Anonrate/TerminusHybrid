@@ -11,5 +11,8 @@ EndImage
 Fore
 Refer: 119 183 N 1 0 0 1 142 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 119 183 N 1 0 0 1 142 0 2
+Refer: 45 76 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar
