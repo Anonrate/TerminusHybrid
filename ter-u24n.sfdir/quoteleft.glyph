@@ -1,0 +1,27 @@
+StartChar: quoteleft
+Encoding: 8216 8216 410
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"!!!'#"98Q)"98Q)zzzzzzzzz
+EndImage
+Fore
+SplineSet
+140 288 m 6,0,-1
+ 124 288 l 6,1,2
+ 120 288 120 288 120 292 c 6,3,-1
+ 120 348 l 6,4,5
+ 120 376 120 376 148 404 c 4,6,7
+ 152 408 152 408 156 404 c 6,8,-1
+ 164 396 l 6,9,10
+ 168 392 168 392 164 388 c 4,11,12
+ 144 368 144 368 144 348 c 6,13,-1
+ 144 292 l 6,14,15
+ 144 288 144 288 140 288 c 6,0,-1
+EndSplineSet
+Validated: 1
+Colour: 808000
+EndChar

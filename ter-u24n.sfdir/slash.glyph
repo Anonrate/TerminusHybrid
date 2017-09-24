@@ -1,0 +1,25 @@
+StartChar: slash
+Encoding: 47 47 16
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"zz!.Y'"!<<-#!WW9%"98Q)#QP,1&-*7A+93Mazzz
+EndImage
+Fore
+SplineSet
+228 332 m 2,0,-1
+ 84 4 l 2,1,2
+ 84 0 84 0 80 0 c 2,3,-1
+ 64 0 l 2,4,5
+ 60 0 60 0 60 4 c 2,6,-1
+ 204 332 l 2,7,8
+ 204 336 204 336 208 336 c 2,9,-1
+ 224 336 l 2,10,11
+ 228 336 228 336 228 332 c 2,0,-1
+EndSplineSet
+Validated: 1
+Colour: 8000
+EndChar

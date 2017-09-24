@@ -1,0 +1,25 @@
+StartChar: softhyphen
+Encoding: 173 173 109
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"zzzzz5C`_6zzzzzz
+EndImage
+Fore
+SplineSet
+64 192 m 6,0,-1
+ 224 192 l 2,1,2
+ 228 192 228 192 228 188 c 2,3,-1
+ 228 172 l 2,4,5
+ 228 168 228 168 224 168 c 2,6,-1
+ 64 168 l 2,7,8
+ 60 168 60 168 60 172 c 2,9,-1
+ 60 188 l 2,10,11
+ 60 192 60 192 64 192 c 6,0,-1
+EndSplineSet
+Validated: 1
+Colour: 7300
+EndChar

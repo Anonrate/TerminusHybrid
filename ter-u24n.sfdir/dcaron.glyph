@@ -1,0 +1,15 @@
+StartChar: dcaron
+Encoding: 271 271 207
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:J43$312/!!!!a!'gNL!'hXA+@&1W5X7S"5X7S"5X7S"+@%$azzz
+EndImage
+Fore
+Refer: 354 780 S 1 0 0 1 0 0 2
+Refer: 69 100 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

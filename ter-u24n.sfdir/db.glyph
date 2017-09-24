@@ -1,0 +1,10 @@
+StartChar: db
+Encoding: 568 568 1031
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 67 98 S 1 0 0 1 180 0 2
+Refer: 69 100 N 1 0 0 1 -36 0 2
+EndChar

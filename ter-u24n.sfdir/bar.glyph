@@ -1,0 +1,25 @@
+StartChar: bar
+Encoding: 124 124 93
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"z!!!-%"98Q)"98Q)"98Q)"98Q)"98Q)"98Q)"98Q)zzz
+EndImage
+Fore
+SplineSet
+136 360 m 2,0,-1
+ 152 360 l 2,1,2
+ 156 360 156 360 156 356 c 2,3,-1
+ 156 4 l 2,4,5
+ 156 0 156 0 152 0 c 2,6,-1
+ 136 0 l 2,7,8
+ 132 0 132 0 132 4 c 6,9,-1
+ 132 356 l 2,10,11
+ 132 360 132 360 136 360 c 2,0,-1
+EndSplineSet
+Validated: 1
+Colour: 8000
+EndChar

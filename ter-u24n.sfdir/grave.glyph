@@ -1,0 +1,25 @@
+StartChar: grave
+Encoding: 96 96 65
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 36 456 24 24 0
+=]nmXJ:J12#QOu-zzzzzzzzzzz
+EndImage
+Fore
+SplineSet
+128 452 m 6,0,-1
+ 176 404 l 2,1,2
+ 180 400 180 400 176 396 c 2,3,-1
+ 168 388 l 2,4,5
+ 164 384 164 384 160 388 c 2,6,-1
+ 112 436 l 2,7,8
+ 108 440 108 440 112 444 c 2,9,-1
+ 120 452 l 2,10,11
+ 124 456 124 456 128 452 c 6,0,-1
+EndSplineSet
+Validated: 1
+Colour: 8000
+EndChar

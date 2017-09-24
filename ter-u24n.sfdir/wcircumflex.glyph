@@ -1,0 +1,16 @@
+StartChar: wcircumflex
+Encoding: 373 373 309
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"z!!!-%$31Y<!!#8L5X7S"5X7_&6pO.*6pO.*6pNtezzz
+EndImage
+Fore
+Refer: 345 770 S 1 0 0 1 12 -96 2
+Refer: 88 119 N 1 0 0 1 0 0 2
+Validated: 9
+Colour: 6600
+EndChar

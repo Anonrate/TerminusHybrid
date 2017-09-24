@@ -1,0 +1,15 @@
+StartChar: macron
+Encoding: 175 175 111
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"5C`_6zzzzzzzzzzz
+EndImage
+Fore
+Refer: 109 173 N 1 0 0 1 0 240 2
+Validated: 1
+Colour: 7300
+EndChar

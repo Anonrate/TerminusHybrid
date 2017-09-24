@@ -1,0 +1,15 @@
+StartChar: dieresiscmb
+Encoding: 776 776 351
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:J43&HECCzzzzzzzzzzz
+EndImage
+Fore
+Refer: 350 775 S 1 0 0 1 48 0 2
+Refer: 350 775 N 1 0 0 1 -48 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,29 @@
+StartChar: uni2077
+Encoding: 8311 8311 434
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"!!"*k&:ab2!<<-#!WW9%"98Q)zzzzzzz
+EndImage
+Fore
+SplineSet
+72 408 m 25,0,-1
+ 216 408 l 25,1,-1
+ 216 336 l 29,2,-1
+ 144 264 l 29,3,-1
+ 144 192 l 25,4,-1
+ 120 192 l 25,5,-1
+ 120 272 l 29,6,-1
+ 192 344 l 29,7,-1
+ 192 384 l 25,8,-1
+ 96 384 l 25,9,-1
+ 96 360 l 25,10,-1
+ 72 360 l 25,11,-1
+ 72 408 l 25,0,-1
+EndSplineSet
+Validated: 1
+Colour: 800080
+EndChar

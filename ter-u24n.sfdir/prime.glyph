@@ -1,0 +1,25 @@
+StartChar: prime
+Encoding: 8242 8242 423
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"!!!-%"98Q)"98Q)"98E%zzzzzzzz
+EndImage
+Fore
+SplineSet
+136 408 m 2,0,-1
+ 152 408 l 2,1,2
+ 156 408 156 408 156 404 c 2,3,-1
+ 156 268 l 2,4,5
+ 156 264 156 264 152 264 c 2,6,-1
+ 136 264 l 2,7,8
+ 132 264 132 264 132 268 c 2,9,-1
+ 132 404 l 2,10,11
+ 132 408 132 408 136 408 c 2,0,-1
+EndSplineSet
+Validated: 1
+Colour: 808000
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni208D
+Encoding: 8333 8333 456
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"zzzzz!!!'#"98]-#QP,1#QP,1"98K'zz
+EndImage
+Fore
+Refer: 440 8317 N 1 0 0 1 0 -240 2
+Validated: 1
+Colour: 800080
+EndChar

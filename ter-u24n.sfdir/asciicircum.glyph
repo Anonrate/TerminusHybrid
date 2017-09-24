@@ -1,0 +1,29 @@
+StartChar: asciicircum
+Encoding: 94 94 63
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"!!!-%$31Y<+Fl^Bzzzzzzzzz
+EndImage
+Fore
+SplineSet
+148 408 m 6,0,-1
+ 248 308 l 2,1,2
+ 252 304 252 304 248 300 c 2,3,-1
+ 240 292 l 2,4,5
+ 236 288 236 288 232 292 c 2,6,-1
+ 148 376 l 2,7,8
+ 144 380 144 380 140 376 c 2,9,-1
+ 56 292 l 2,10,11
+ 52 288 52 288 48 292 c 2,12,-1
+ 40 300 l 2,13,14
+ 36 304 36 304 40 308 c 2,15,-1
+ 140 408 l 2,16,17
+ 144 412 144 412 148 408 c 6,0,-1
+EndSplineSet
+Validated: 1
+Colour: 8000
+EndChar

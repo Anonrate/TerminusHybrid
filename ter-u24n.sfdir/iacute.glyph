@@ -1,0 +1,16 @@
+StartChar: iacute
+Encoding: 237 237 173
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"z!!!$"!WW?'!!!u="98Q)"98Q)"98Q)"98Q)"99MDzzz
+EndImage
+Fore
+Refer: 241 305 S 1 0 0 1 0 0 2
+Refer: 344 769 N 1 0 0 1 12 -96 2
+Validated: 1
+Colour: 7300
+EndChar

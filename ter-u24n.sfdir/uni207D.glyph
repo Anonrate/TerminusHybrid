@@ -1,0 +1,25 @@
+StartChar: uni207D
+Encoding: 8317 8317 440
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"!!!'#"98]-#QP,1#QP,1"98K'zzzzzzz
+EndImage
+Fore
+SplineSet
+168 392 m 25,0,-1
+ 120 344 l 25,1,-1
+ 120 256 l 25,2,-1
+ 168 208 l 25,3,-1
+ 152 192 l 25,4,-1
+ 96 248 l 25,5,-1
+ 96 352 l 25,6,-1
+ 152 408 l 25,7,-1
+ 168 392 l 25,0,-1
+EndSplineSet
+Validated: 1
+Colour: 800080
+EndChar

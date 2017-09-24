@@ -1,0 +1,21 @@
+StartChar: uniE0B0
+Encoding: 57520 57520 764
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:N.M^]<9mn,W4`quH]rrrE(Ls1nZms7$'Xs5<pms+(+LrW)irp]0d`huLOmJ,fQL
+EndImage
+Fore
+SplineSet
+0 456 m 21,0,-1
+ 284 172 l 6,1,2
+ 288 168 288 168 284 164 c 6,3,-1
+ 0 -120 l 13,4,-1
+ 0 456 l 21,0,-1
+EndSplineSet
+Validated: 1
+Colour: ff00ff
+EndChar

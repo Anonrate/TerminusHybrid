@@ -1,0 +1,16 @@
+StartChar: arrowupdn
+Encoding: 8597 8597 487
+Width: 288
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"z!!!-%%KI4D,_/9J"98Q)"98Q)"9:hT,_-U0%KHV3zzz
+EndImage
+Fore
+Refer: 482 8592 S 0 1 -1 0 312 0 2
+Refer: 482 8592 N 0 -1 1 0 -48 360 2
+Colour: 8080
+EndChar

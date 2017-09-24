@@ -1,0 +1,14 @@
+StartChar: tildecomb
+Encoding: 771 771 346
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:JJe,_.*>zzzzzzzzzzz
+EndImage
+Fore
+Refer: 341 732 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

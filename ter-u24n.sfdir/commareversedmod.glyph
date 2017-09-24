@@ -1,0 +1,26 @@
+StartChar: commareversedmod
+Encoding: 701 701 335
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:Ib&"98Q)!WW3#zzzzzzzzzz
+EndImage
+Fore
+SplineSet
+140 456 m 6,0,1
+ 144 456 144 456 144 452 c 6,2,-1
+ 144 420 l 2,3,4
+ 144 400 144 400 164 380 c 0,5,6
+ 168 376 168 376 164 372 c 2,7,-1
+ 156 364 l 2,8,9
+ 152 360 152 360 148 364 c 0,10,11
+ 120 392 120 392 120 420 c 2,12,-1
+ 120 452 l 6,13,14
+ 120 456 120 456 124 456 c 6,15,-1
+ 140 456 l 6,0,1
+EndSplineSet
+Validated: 1
+EndChar

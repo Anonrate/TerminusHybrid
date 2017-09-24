@@ -1,0 +1,25 @@
+StartChar: horizontalbar
+Encoding: 8213 8213 407
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"zzzzzJ)C;,zzzzzz
+EndImage
+Fore
+SplineSet
+24 172 m 2,0,-1
+ 24 188 l 2,1,2
+ 24 192 24 192 28 192 c 2,3,-1
+ 260 192 l 6,4,5
+ 264 192 264 192 264 188 c 6,6,-1
+ 264 172 l 6,7,8
+ 264 168 264 168 260 168 c 6,9,-1
+ 28 168 l 2,10,11
+ 24 168 24 168 24 172 c 2,0,-1
+EndSplineSet
+Validated: 1
+Colour: 808000
+EndChar

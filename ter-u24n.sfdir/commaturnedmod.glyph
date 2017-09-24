@@ -1,0 +1,14 @@
+StartChar: commaturnedmod
+Encoding: 699 699 333
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:I\$"98Q)"98E%zzzzzzzzzz
+EndImage
+Fore
+Refer: 13 44 S -1 0 0 -1 264 432 2
+Validated: 1
+EndChar

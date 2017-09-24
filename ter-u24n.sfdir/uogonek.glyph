@@ -1,0 +1,14 @@
+StartChar: uogonek
+Encoding: 371 371 307
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"zzz!!#8L5X7S"5X7S"5X7S"5X7S"+@%$a!5JU8!<<,Xz
+EndImage
+Fore
+Refer: 86 117 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

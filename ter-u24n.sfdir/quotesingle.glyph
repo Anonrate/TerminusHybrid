@@ -1,0 +1,25 @@
+StartChar: quotesingle
+Encoding: 39 39 8
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"!!!-%"98Q)"98Q)zzzzzzzzz
+EndImage
+Fore
+SplineSet
+136 408 m 2,0,-1
+ 152 408 l 2,1,2
+ 156 408 156 408 156 404 c 2,3,-1
+ 156 292 l 6,4,5
+ 156 288 156 288 152 288 c 6,6,-1
+ 136 288 l 6,7,8
+ 132 288 132 288 132 292 c 6,9,-1
+ 132 404 l 2,10,11
+ 132 408 132 408 136 408 c 2,0,-1
+EndSplineSet
+Validated: 1
+Colour: 8000
+EndChar

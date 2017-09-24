@@ -1,0 +1,16 @@
+StartChar: second
+Encoding: 8243 8243 424
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 12 456 24 24 0
+=]nmXJ:IV"!!!T2&HECC&HECC&HDe2zzzzzzzz
+EndImage
+Fore
+Refer: 423 8242 S 1 0 0 1 48 0 2
+Refer: 423 8242 N 1 0 0 1 -48 0 2
+Validated: 1
+Colour: 808000
+EndChar

@@ -1,0 +1,15 @@
+StartChar: parenright
+Encoding: 41 41 10
+Width: 288
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"z!!!9)"98K'!WW6$!<<-#!<<-#!<<-#!WW9%"98]-zzz
+EndImage
+Fore
+Refer: 9 40 S -1 0 0 -1 288 360 2
+Colour: 8000
+EndChar

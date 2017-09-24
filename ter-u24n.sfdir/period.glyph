@@ -1,0 +1,25 @@
+StartChar: period
+Encoding: 46 46 15
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IV"zzzzzzz!!!-%"98Q)zzz
+EndImage
+Fore
+SplineSet
+124 72 m 6,0,-1
+ 140 72 l 2,1,2
+ 144 72 144 72 144 68 c 2,3,-1
+ 144 4 l 2,4,5
+ 144 0 144 0 140 0 c 2,6,-1
+ 124 0 l 2,7,8
+ 120 0 120 0 120 4 c 2,9,-1
+ 120 68 l 2,10,11
+ 120 72 120 72 124 72 c 6,0,-1
+EndSplineSet
+Validated: 1
+Colour: 8000
+EndChar

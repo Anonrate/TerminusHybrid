@@ -1,0 +1,25 @@
+StartChar: acute
+Encoding: 180 180 116
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:IY#!WW?'zzzzzzzzzzz
+EndImage
+Fore
+SplineSet
+172 452 m 2,0,1
+ 176 456 176 456 180 452 c 2,2,-1
+ 188 444 l 2,3,4
+ 192 440 192 440 188 436 c 2,5,-1
+ 140 388 l 2,6,7
+ 136 384 136 384 132 388 c 2,8,-1
+ 124 396 l 2,9,10
+ 120 400 120 400 124 404 c 2,11,-1
+ 172 452 l 2,0,1
+EndSplineSet
+Validated: 1
+Colour: 7300
+EndChar

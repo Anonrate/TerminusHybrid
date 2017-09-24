@@ -1,0 +1,16 @@
+StartChar: Tcaron
+Encoding: 356 356 292
+Width: 288
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 12 24 0 2 2 0 0 456 24 24 0
+=]nmXJ:J43$312/!!%Ma"98Q)"98Q)"98Q)"98Q)"98Q)"98Q)"98Q)zzz
+EndImage
+Fore
+Refer: 354 780 S 1 0 0 1 0 0 2
+Refer: 53 84 N 1 0 0 1 0 0 2
+Validated: 9
+Colour: 6600
+EndChar
