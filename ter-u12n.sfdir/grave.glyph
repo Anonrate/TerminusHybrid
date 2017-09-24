@@ -1,0 +1,33 @@
+StartChar: grave
+Encoding: 96 96 65
+Width: 24
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Back
+Image: 6 12 0 1 2 0 0 40 4 4 0
+=]nmXJ:Km-zzz
+EndImage
+Fore
+SplineSet
+7 40 m 25,0,-1
+ 12 35 l 25,1,-1
+ 9 32 l 29,2,-1
+ 4 37 l 25,3,-1
+ 7 40 l 25,0,-1
+EndSplineSet
+Layer: 2
+SplineSet
+4 40 m 29,0,-1
+ 8 40 l 25,1,-1
+ 8 37 l 25,2,-1
+ 9 36 l 25,3,-1
+ 12 36 l 25,4,-1
+ 12 32 l 25,5,-1
+ 8 32 l 25,6,-1
+ 8 35 l 25,7,-1
+ 7 36 l 25,8,-1
+ 4 36 l 25,9,-1
+ 4 40 l 29,0,-1
+EndSplineSet
+EndChar

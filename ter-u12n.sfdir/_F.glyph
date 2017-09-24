@@ -1,0 +1,39 @@
+StartChar: F
+Encoding: 70 70 39
+Width: 24
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Back
+Image: 6 12 0 1 2 0 0 40 4 4 0
+=]nmXJ:IV"pjdnaJ:N0#z
+EndImage
+Fore
+SplineSet
+0 32 m 29,0,-1
+ 20 32 l 25,1,-1
+ 20 28 l 25,2,-1
+ 4 28 l 25,3,-1
+ 4 20 l 25,4,-1
+ 16 20 l 25,5,-1
+ 16 16 l 25,6,-1
+ 4 16 l 25,7,-1
+ 4 0 l 25,8,-1
+ 0 0 l 25,9,-1
+ 0 32 l 29,0,-1
+EndSplineSet
+Layer: 2
+SplineSet
+0 32 m 29,0,-1
+ 20 32 l 25,1,-1
+ 20 28 l 25,2,-1
+ 4 28 l 25,3,-1
+ 4 20 l 25,4,-1
+ 16 20 l 25,5,-1
+ 16 16 l 25,6,-1
+ 4 16 l 25,7,-1
+ 4 0 l 25,8,-1
+ 0 0 l 25,9,-1
+ 0 32 l 29,0,-1
+EndSplineSet
+EndChar

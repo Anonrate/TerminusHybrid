@@ -1,0 +1,27 @@
+StartChar: quotesingle
+Encoding: 39 39 8
+Width: 24
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Back
+Image: 6 12 0 1 2 0 0 40 4 4 0
+=]nmXJ:IVB+<UXazz
+EndImage
+Fore
+SplineSet
+8 36 m 29,0,-1
+ 12 36 l 25,1,-1
+ 12 24 l 25,2,-1
+ 8 24 l 25,3,-1
+ 8 36 l 29,0,-1
+EndSplineSet
+Layer: 2
+SplineSet
+8 36 m 29,0,-1
+ 12 36 l 25,1,-1
+ 12 24 l 25,2,-1
+ 8 24 l 25,3,-1
+ 8 36 l 29,0,-1
+EndSplineSet
+EndChar
