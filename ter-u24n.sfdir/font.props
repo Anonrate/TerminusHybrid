@@ -11,8 +11,8 @@ DefaultBaseFilename: ter-u24n-HY-regular
 ItalicAngle: 0
 UnderlinePosition: -199
 UnderlineWidth: 85
-Ascent: 1621
-Descent: 427
+Ascent: 1664
+Descent: 384
 InvalidEm: 0
 LayerCount: 3
 Layer: 0 1 "Back" 1
@@ -24,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506281168
+ModificationTime: 1506281733
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
