@@ -3,7 +3,7 @@ Encoding: 40 40 9
 Width: 24
 VWidth: 0
 Flags: MW
-LayerCount: 3
+LayerCount: 4
 Back
 Image: 6 12 0 1 2 0 0 40 4 4 0
 =]nmXJ:IV"&0O5'5X6G'z
@@ -55,5 +55,21 @@ SplineSet
  12 29 l 25,26,-1
  12 32 l 25,27,-1
  16 32 l 29,0,-1
+EndSplineSet
+Layer: 3
+SplineSet
+16 28 m 29,0,-1
+ 14 28 l 29,1,-1
+ 8 22 l 29,2,-1
+ 8 10 l 29,3,-1
+ 14 4 l 21,4,-1
+ 16 4 l 5,5,-1
+ 16 0 l 13,6,-1
+ 13 0 l 29,7,-1
+ 4 9 l 29,8,-1
+ 4 23 l 29,9,-1
+ 13 32 l 29,10,-1
+ 16 32 l 29,11,-1
+ 16 28 l 29,0,-1
 EndSplineSet
 EndChar

@@ -55,10 +55,10 @@ DesignSize: 120
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: 512
+DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 30 3 1
+WinInfo: 0 29 13
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
