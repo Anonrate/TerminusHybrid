@@ -1,26 +1,25 @@
 StartChar: arrowleft
 Encoding: 8592 8592 482
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zzz#QPD9+94Y,s56-B+92rQ#QOi)zzzz
 EndImage
 Fore
 SplineSet
-0 180 m 25,0,-1
- 92 272 l 25,1,-1
- 92 236 l 25,2,-1
- 48 192 l 25,3,-1
- 216 192 l 25,4,-1
- 216 168 l 25,5,-1
- 48 168 l 25,6,-1
- 92 124 l 25,7,-1
- 92 88 l 25,8,-1
- 0 180 l 25,0,-1
+0 640 m 25,0,-1
+ 327 967 l 25,1,-1
+ 327 839 l 25,2,-1
+ 171 683 l 25,3,-1
+ 768 683 l 25,4,-1
+ 768 597 l 25,5,-1
+ 171 597 l 25,6,-1
+ 327 441 l 25,7,-1
+ 327 313 l 25,8,-1
+ 0 640 l 25,0,-1
 EndSplineSet
-Validated: 1
 Colour: 8080
 EndChar

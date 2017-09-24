@@ -1,15 +1,15 @@
 StartChar: braceright
 Encoding: 125 125 94
-Width: 288
+Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z!!!i9"98K'!WW9%!WW9%!It4O!WW9%!WW9%"998=zzz
 EndImage
 Fore
-Refer: 92 123 S -1 0 0 -1 288 360 2
+Refer: 92 123 S -1 0 0 -1 1024 1280 2
 Colour: 8000
 EndChar

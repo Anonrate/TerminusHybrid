@@ -1,10 +1,9 @@
 StartChar: uni0245
 Encoding: 581 581 1017
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 55 86 S -1 0 0 -1 264 360 2
-Validated: 1
+Refer: 55 86 S -1 0 0 -1 939 1280 2
 EndChar

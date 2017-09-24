@@ -1,16 +1,15 @@
 StartChar: dblverticalbar
 Encoding: 8214 8214 408
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z!!!<*#lk83#lk83#lk83#lk83#lk83#lk83#lk83zzz
 EndImage
 Fore
-Refer: 93 124 S 1 0 0 1 48 0 2
-Refer: 93 124 N 1 0 0 1 -24 0 2
-Validated: 1
+Refer: 93 124 S 1 0 0 1 171 0 2
+Refer: 93 124 N 1 0 0 1 -85 0 2
 Colour: 808000
 EndChar

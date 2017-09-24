@@ -1,14 +1,12 @@
 StartChar: heart
 Encoding: 9829 9829 752
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zz!!"a(Hbf[>s5<q8s5<q8J&":!*rlcN"98E%zzz
 EndImage
-Fore
-Validated: 1
 Colour: 404080
 EndChar

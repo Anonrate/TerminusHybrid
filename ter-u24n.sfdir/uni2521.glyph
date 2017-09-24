@@ -1,14 +1,12 @@
 StartChar: uni2521
 Encoding: 9505 9505 611
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:Ih("oni-"oni-"oni-"oni-"oni-#Ohuf"98Q)"98Q)"98Q)"98Q)"98Q)"98E%
 EndImage
-Fore
-Validated: 1
 Colour: 40bf
 EndChar

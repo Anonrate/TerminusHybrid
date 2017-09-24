@@ -1,16 +1,15 @@
 StartChar: Ograve
 Encoding: 210 210 146
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:J12#QOu-!!")@+Fl^B5X7S"5X7S"5X7S"5X7S"5X7S"+FkO6zzz
 EndImage
 Fore
-Refer: 343 768 S 1 0 0 1 12 0 2
+Refer: 343 768 S 1 0 0 1 43 0 2
 Refer: 48 79 N 1 0 0 1 0 0 2
-Validated: 1
 Colour: 7300
 EndChar

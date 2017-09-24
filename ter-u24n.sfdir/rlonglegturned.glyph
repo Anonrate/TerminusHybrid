@@ -1,10 +1,9 @@
 StartChar: rlonglegturned
 Encoding: 634 634 988
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 992 636 S -1 0 0 -1 264 264 2
-Validated: 1
+Refer: 992 636 S -1 0 0 -1 939 939 2
 EndChar

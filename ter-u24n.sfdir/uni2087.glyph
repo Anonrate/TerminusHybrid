@@ -1,15 +1,14 @@
 StartChar: uni2087
 Encoding: 8327 8327 450
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zzzzz!!"*k&:ab2!<<-#!WW9%"98Q)zz
 EndImage
 Fore
-Refer: 434 8311 S 1 0 0 1 0 -240 2
-Validated: 1
+Refer: 434 8311 S 1 0 0 1 0 -853 2
 Colour: 800080
 EndChar

@@ -1,10 +1,10 @@
 StartChar: aemacron
 Encoding: 483 483 787
-Width: 288
+Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 166 230 S 1 0 0 1 -39 -24 2
+Refer: 166 230 S 1 0 0 1 -139 -85 2
 EndChar

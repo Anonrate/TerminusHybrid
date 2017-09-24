@@ -1,11 +1,10 @@
 StartChar: lz
 Encoding: 683 683 943
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 77 108 S 1 0 0 1 -84 0 2
-Refer: 91 122 N 1 0 0 1 36 0 2
-Validated: 5
+Refer: 77 108 S 1 0 0 1 -299 0 2
+Refer: 91 122 N 1 0 0 1 128 0 2
 EndChar

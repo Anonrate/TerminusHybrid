@@ -1,11 +1,10 @@
 StartChar: Ycircumflex
 Encoding: 374 374 860
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 345 770 S 1 0 0 1 12 0 2
+Refer: 345 770 S 1 0 0 1 43 0 2
 Refer: 58 89 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar

@@ -1,13 +1,11 @@
 StartChar: null
 Encoding: 0 0 0
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z!!%#S5X7S"5X5;L!!#8L5X7S"z5X7S"5X9>)zzz
 EndImage
-Fore
-Validated: 1
 EndChar

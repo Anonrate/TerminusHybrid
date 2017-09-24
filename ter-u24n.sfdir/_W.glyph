@@ -1,15 +1,14 @@
 StartChar: W
 Encoding: 87 87 56
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 24 456 24 24 0
+Image: 12 24 0 2 2 0 85.3333 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z!!#8,5Ti<75Ti<75Ti<75TiN=7Nb8F:nUXX?sl5Bzzz
 EndImage
 Fore
-Refer: 46 77 N -1 0 0 -1 288 360 2
-Validated: 1
+Refer: 46 77 N -1 0 0 -1 1024 1280 2
 Colour: 8000
 EndChar

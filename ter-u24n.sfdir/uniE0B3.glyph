@@ -1,15 +1,14 @@
 StartChar: uniE0B3
 Encoding: 57523 57523 767
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV2!$D8,!.Y(M!WW?'#QPD9+94Y,J,k*"5QDo,&-)t9"98K'!<<+M!'gN,!"],1
 EndImage
 Fore
-Refer: 765 57521 S -1 0 0 -1 288 336 2
-Validated: 1
+Refer: 765 57521 S -1 0 0 -1 1024 1195 2
 Colour: ff00ff
 EndChar

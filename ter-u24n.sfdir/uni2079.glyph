@@ -1,15 +1,15 @@
 StartChar: uni2079
 Encoding: 8313 8313 436
-Width: 288
+Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"!!!N0&:b=B&:b:A!.Y'"!.YR[zzzzzzz
 EndImage
 Fore
-Refer: 433 8310 S -1 0 0 -1 288 600 2
+Refer: 433 8310 S -1 0 0 -1 1024 2133 2
 Colour: 800080
 EndChar

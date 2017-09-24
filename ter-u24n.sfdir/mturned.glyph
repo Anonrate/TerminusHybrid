@@ -1,10 +1,9 @@
 StartChar: mturned
 Encoding: 623 623 968
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 78 109 S -1 0 0 -1 264 264 2
-Validated: 1
+Refer: 78 109 S -1 0 0 -1 939 939 2
 EndChar

@@ -1,13 +1,11 @@
 StartChar: Omega
 Encoding: 8486 8486 480
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 228 12 12 0
+Image: 12 24 0 2 2 0 0 810.667 42.6667 42.6667 0
 =]nmXJ:IV"z!!")@+Fl^B5X7S"5X7S"5X7S"5X7S"+Fk%(&HHgdzzz
 EndImage
-Fore
-Validated: 1
 EndChar

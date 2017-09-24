@@ -1,16 +1,15 @@
 StartChar: Jcircumflex
 Encoding: 308 308 244
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IWM!C-]/!!!,Z!.Y'"!.Y'"!.Y'"!.Y'"!.[=b5_)+M+TNP`zzz
 EndImage
 Fore
-Refer: 345 770 S 1 0 0 1 72 0 2
+Refer: 345 770 S 1 0 0 1 256 0 2
 Refer: 43 74 N 1 0 0 1 0 0 2
-Validated: 9
 Colour: 6600
 EndChar

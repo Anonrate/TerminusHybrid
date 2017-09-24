@@ -1,15 +1,14 @@
 StartChar: cent
 Encoding: 162 162 98
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zz!!!-%"99MD,_/9J6i]UT6i]UT6i]V?,_-s:"98Q)zz
 EndImage
 Fore
 Refer: 68 99 N 1 0 0 1 0 0 2
-Validated: 1
 Colour: 7300
 EndChar

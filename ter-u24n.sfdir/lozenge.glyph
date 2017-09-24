@@ -1,13 +1,11 @@
 StartChar: lozenge
 Encoding: 9674 9674 740
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zz!!!-%$31Y<+Fl^BJ07*B+Fk%($312/zzzz
 EndImage
-Fore
-Validated: 1
 EndChar

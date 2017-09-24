@@ -1,14 +1,12 @@
 StartChar: SF510000
 Encoding: 9554 9554 656
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zzzz!!!8n"98Q)#Ohir"98Q)"98Q)"98Q)"98Q)"98E%
 EndImage
-Fore
-Validated: 1
 Colour: 40bf
 EndChar

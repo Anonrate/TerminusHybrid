@@ -1,21 +1,20 @@
 StartChar: uni207B
 Encoding: 8315 8315 438
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zz!!#66zzzzzzzzz
 EndImage
 Fore
 SplineSet
-48 312 m 29,0,-1
- 216 312 l 25,1,-1
- 216 288 l 25,2,-1
- 48 288 l 25,3,-1
- 48 312 l 29,0,-1
+171 1109 m 29,0,-1
+ 768 1109 l 25,1,-1
+ 768 1024 l 25,2,-1
+ 171 1024 l 25,3,-1
+ 171 1109 l 29,0,-1
 EndSplineSet
-Validated: 1
 Colour: 800080
 EndChar

@@ -1,14 +1,12 @@
 StartChar: uni240B
 Encoding: 9227 9227 578
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z6i]UT6i\V8-iaeY&-)\1!!!8>!<<-#!<<-#!<<-#zzz
 EndImage
-Fore
-Validated: 1
 Colour: 400040
 EndChar

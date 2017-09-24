@@ -1,14 +1,12 @@
 StartChar: element
 Encoding: 8712 8712 507
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z!!!PF&-*gQ5QF%L5QF%LJ&";L5QF%L5QDo,&-*6Vzzz
 EndImage
-Fore
-Validated: 1
 Colour: 80bf
 EndChar

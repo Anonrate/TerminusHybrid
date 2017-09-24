@@ -1,15 +1,14 @@
 StartChar: Oopen
 Encoding: 390 390 318
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"z!!")@+Fl^B5X5<7!'gNL!'gNL!'gNL5X7S"+FkO6zzz
 EndImage
 Fore
 Refer: 36 67 N 1 0 0 1 0 0 2
-Validated: 1
 Colour: 5900
 EndChar

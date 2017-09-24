@@ -1,14 +1,12 @@
 StartChar: bulletoperator
 Encoding: 8729 8729 518
-Width: 288
+Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Back
-Image: 12 24 0 2 2 0 0 456 24 24 0
+Image: 12 24 0 2 2 0 0 1621.33 85.3333 85.3333 0
 =]nmXJ:IV"zzzz!!!3'%fd+?"onW'zzzzz
 EndImage
-Fore
-Validated: 1
 Colour: 80bf
 EndChar
