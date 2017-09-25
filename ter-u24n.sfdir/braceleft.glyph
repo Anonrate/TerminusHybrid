@@ -45,6 +45,7 @@ SplineSet
  754 1280 l 2,45,46
  768 1280 768 1280 768 1266 c 2,0,-1
 EndSplineSet
+Validated: 3073
 Layer: 2
 SplineSet
 768 1266 m 2,0,-1

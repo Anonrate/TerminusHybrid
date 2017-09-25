@@ -36,6 +36,7 @@ SplineSet
  256 370 l 25,23,-1
  256 512 l 25,0,-1
 EndSplineSet
+Validated: 3073
 Layer: 2
 SplineSet
 256 512 m 25,0,-1

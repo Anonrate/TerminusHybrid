@@ -44,6 +44,7 @@ SplineSet
  441 455 l 2,50,51
  455 470 455 470 441 484 c 2,0,-1
 EndSplineSet
+Validated: 3073
 Layer: 2
 SplineSet
 441 484 m 2,0,-1

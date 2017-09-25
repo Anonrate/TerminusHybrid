@@ -24,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506319061
+ModificationTime: 1506324214
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -749,6 +749,24 @@ BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
 Grid
+-2048 368 m 4
+ 4096 368 l 1028
+848 2688 m 4
+ 848 -1408 l 1028
+944 2688 m 4
+ 944 -1408 l 1028
+-2048 1136 m 4
+ 4096 1136 l 1028
+688 2688 m 4
+ 688 -1408 l 1028
+336 2688 m 4
+ 336 -1408 l 1028
+-2048 720 m 4
+ 4096 720 l 1028
+-2048 560 m 4
+ 4096 560 l 1028
+528 2688 m 4
+ 528 -1408 l 1028
 -2048 624 m 4
  4096 624 l 1028
 816 2688 m 4

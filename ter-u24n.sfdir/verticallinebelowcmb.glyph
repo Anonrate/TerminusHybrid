@@ -20,6 +20,7 @@ SplineSet
  427 -100 l 2,10,11
  427 -85 427 -85 441 -85 c 6,0,-1
 EndSplineSet
+Validated: 3073
 Layer: 2
 SplineSet
 441 -85 m 6,0,-1

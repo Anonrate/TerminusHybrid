@@ -32,6 +32,7 @@ SplineSet
  811 1266 l 2,26,27
  811 1280 811 1280 825 1280 c 2,0,-1
 EndSplineSet
+Validated: 3073
 Layer: 2
 SplineSet
 825 1280 m 2,0,-1
