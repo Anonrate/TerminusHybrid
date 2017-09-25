@@ -2,7 +2,7 @@ StartChar: plusminus
 Encoding: 177 177 113
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

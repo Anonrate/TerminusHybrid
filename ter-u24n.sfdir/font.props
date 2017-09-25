@@ -24,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506308502
+ModificationTime: 1506319061
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -728,11 +728,12 @@ MUL
 SWAP
 ENDF
 EndTTInstrs
-ShortTable: cvt  4
+ShortTable: cvt  5
   -341
   0
   939
   1280
+  135
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Dimitar Toshkov Zhekov" "Terminus Moderinsed" "" "http://terminus-font.sourceforge.net/" "SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
@@ -748,6 +749,36 @@ BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
 Grid
+-2048 624 m 4
+ 4096 624 l 1028
+816 2688 m 4
+ 816 -1408 l 1028
+-2048 1168 m 4
+ 4096 1168 l 1028
+-2048 240 m 4
+ 4096 240 l 1028
+-2048 944 m 4
+ 4096 944 l 1028
+-2048 944 m 4
+ 4096 944 l 1028
+-2048 816 m 4
+ 4096 816 l 1028
+368 2688 m 4
+ 368 -1408 l 1028
+-2048 336 m 4
+ 4096 336 l 1028
+656 2688 m 4
+ 656 -1408 l 1028
+-2048 432 m 4
+ 4096 432 l 1028
+784 2688 m 4
+ 784 -1408 l 1028
+624 2688 m 4
+ 624 -1408 l 1028
+400 2688 m 4
+ 400 -1408 l 1028
+-2048 464 m 4
+ 4096 464 l 1028
 -2048 1040 m 4
  4096 1040 l 1028
 -2048 1392 m 4
