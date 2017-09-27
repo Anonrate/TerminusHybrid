@@ -1,13 +1,13 @@
 StartChar: dzaltone
-Encoding: 675 675 940
+Encoding: 675 675 924
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
-Refer: 939 499 S 1 0 0 1 0 0 2
+Refer: 923 499 S 1 0 0 1 0 0 2
 Layer: 2
-Refer: 939 499 S 1 0 0 1 0 0 2
+Refer: 923 499 S 1 0 0 1 0 0 2
 Layer: 3
-Refer: 939 499 S 1 0 0 1 0 0 2
+Refer: 923 499 S 1 0 0 1 0 0 2
 EndChar

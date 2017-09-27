@@ -1,17 +1,17 @@
 StartChar: uni21C7
-Encoding: 8647 8647 841
+Encoding: 8647 8647 825
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 481 8592 S 1 0 0 1 0 57 2
-Refer: 481 8592 N 1 0 0 1 0 -313 2
-Validated: 98309
+Refer: 469 8592 S 1 0 0 1 0 57 2
+Refer: 469 8592 N 1 0 0 1 0 -313 2
+Validated: 32773
 Layer: 2
-Refer: 481 8592 S 1 0 0 1 0 57 2
-Refer: 481 8592 N 1 0 0 1 0 -313 2
+Refer: 469 8592 S 1 0 0 1 0 57 2
+Refer: 469 8592 N 1 0 0 1 0 -313 2
 Layer: 3
-Refer: 481 8592 S 1 0 0 1 0 57 2
-Refer: 481 8592 N 1 0 0 1 0 -313 2
+Refer: 469 8592 S 1 0 0 1 0 57 2
+Refer: 469 8592 N 1 0 0 1 0 -313 2
 EndChar

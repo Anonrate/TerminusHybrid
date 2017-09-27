@@ -2,21 +2,39 @@ StartChar: edotaccent
 Encoding: 279 279 215
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!%M!It3$!It.M!!!Q!+8@f80FTWD0FU2D5Q!280E<d,3"-o,&,6,)zzz
 EndImage
 Fore
-Refer: 350 775 S 1 0 0 1 0 -341 2
 Refer: 70 101 N 1 0 0 1 0 0 2
-Validated: 98305
 Layer: 2
-Refer: 350 775 S 1 0 0 1 0 -341 2
+SplineSet
+484 1280 m 6
+ 541 1280 l 2
+ 555 1280 555 1280 555 1266 c 2
+ 555 1038 l 2
+ 555 1024 555 1024 541 1024 c 2
+ 484 1024 l 2
+ 470 1024 470 1024 470 1038 c 2
+ 470 1266 l 2
+ 470 1280 470 1280 484 1280 c 6
+EndSplineSet
 Refer: 70 101 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 350 775 S 1 0 0 1 0 -341 2
+SplineSet
+507 1280 m 258
+ 603 1280 l 258
+ 619 1280 619 1280 619 1264 c 262
+ 619 1040 l 258
+ 619 1024 619 1024 603 1024 c 258
+ 507 1024 l 258
+ 491 1024 491 1024 491 1040 c 258
+ 491 1264 l 258
+ 491 1280 491 1280 507 1280 c 258
+EndSplineSet
 Refer: 70 101 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

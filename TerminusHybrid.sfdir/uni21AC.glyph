@@ -1,14 +1,14 @@
 StartChar: uni21AC
-Encoding: 8620 8620 836
+Encoding: 8620 8620 820
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 483 8594 N 1 0 0 1 0 0 2
-Validated: 98305
+Refer: 471 8594 N 1 0 0 1 0 0 2
+Validated: 32769
 Layer: 2
-Refer: 483 8594 N 1 0 0 1 0 0 2
+Refer: 471 8594 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 483 8594 N 1 0 0 1 0 0 2
+Refer: 471 8594 N 1 0 0 1 0 0 2
 EndChar

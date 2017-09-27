@@ -1,12 +1,12 @@
 StartChar: Ghook
-Encoding: 403 403 866
+Encoding: 403 403 850
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 40 71 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Layer: 2
 Refer: 40 71 N 1 0 0 1 0 0 2
 Layer: 3

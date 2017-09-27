@@ -1,17 +1,17 @@
 StartChar: uni2034
-Encoding: 8244 8244 1040
+Encoding: 8244 8244 1024
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 423 8242 S 1 0 0 1 0 0 2
-Refer: 424 8243 N 1 0 0 1 0 0 2
-Validated: 98305
+Refer: 411 8242 S 1 0 0 1 0 0 2
+Refer: 412 8243 N 1 0 0 1 0 0 2
+Validated: 32769
 Layer: 2
-Refer: 423 8242 S 1 0 0 1 0 0 2
-Refer: 424 8243 N 1 0 0 1 0 0 2
+Refer: 411 8242 S 1 0 0 1 0 0 2
+Refer: 412 8243 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 423 8242 S 1 0 0 1 0 0 2
-Refer: 424 8243 N 1 0 0 1 0 0 2
+Refer: 411 8242 S 1 0 0 1 0 0 2
+Refer: 412 8243 N 1 0 0 1 0 0 2
 EndChar

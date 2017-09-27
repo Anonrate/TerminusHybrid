@@ -1,13 +1,13 @@
 StartChar: uni21AD
-Encoding: 8621 8621 837
+Encoding: 8621 8621 821
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 485 8596 N 1 0 0 1 0 0 2
+Refer: 473 8596 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 485 8596 N 1 0 0 1 0 0 2
+Refer: 473 8596 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 485 8596 N 1 0 0 1 0 0 2
+Refer: 473 8596 N 1 0 0 1 0 0 2
 EndChar

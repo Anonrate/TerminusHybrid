@@ -1,12 +1,12 @@
 StartChar: cedillacmb
-Encoding: 807 807 1033
+Encoding: 807 807 1017
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 13 44 N 1 0 0 1 0 -256 2
-Validated: 98305
+Validated: 32769
 Layer: 2
 Refer: 13 44 N 1 0 0 1 0 -256 2
 Layer: 3

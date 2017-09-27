@@ -1,9 +1,9 @@
 StartChar: aemacron
-Encoding: 483 483 785
+Encoding: 483 483 769
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 166 230 S 1 0 0 1 -139 -85 2

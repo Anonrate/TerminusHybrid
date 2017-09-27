@@ -1,8 +1,8 @@
 StartChar: qp
-Encoding: 569 569 1030
+Encoding: 569 569 1014
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 81 112 N 1 0 0 1 640 0 2

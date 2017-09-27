@@ -1,8 +1,8 @@
 StartChar: db
-Encoding: 568 568 1029
+Encoding: 568 568 1013
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 67 98 S 1 0 0 1 640 0 2

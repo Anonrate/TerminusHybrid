@@ -2,7 +2,7 @@ StartChar: tcommaaccent
 Encoding: 355 355 329
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
@@ -10,14 +10,14 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 !+5fBz
 EndImage
 Fore
-Refer: 1033 807 S 1 0 0 1 171 -85 2
+Refer: 1017 807 S 1 0 0 1 171 -85 2
 Refer: 85 116 N 1 0 0 1 0 0 2
-Validated: 4292609
+Validated: 32769
 Layer: 2
-Refer: 1033 807 S 1 0 0 1 171 -85 2
+Refer: 1017 807 S 1 0 0 1 171 -85 2
 Refer: 85 116 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 1033 807 S 1 0 0 1 171 -85 2
+Refer: 1017 807 S 1 0 0 1 171 -85 2
 Refer: 85 116 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

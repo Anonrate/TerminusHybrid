@@ -1,5 +1,5 @@
 StartChar: second
-Encoding: 8243 8243 424
+Encoding: 8243 8243 412
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,14 +9,14 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"z!!"!X*,lm:(gn1g(gn1g(gm=Dzzzzzzzzzz
 EndImage
 Fore
-Refer: 423 8242 S 1 0 0 1 171 0 2
-Refer: 423 8242 N 1 0 0 1 -171 0 2
-Validated: 98305
+Refer: 411 8242 S 1 0 0 1 171 0 2
+Refer: 411 8242 N 1 0 0 1 -171 0 2
+Validated: 32769
 Layer: 2
-Refer: 423 8242 S 1 0 0 1 171 0 2
-Refer: 423 8242 N 1 0 0 1 -171 0 2
+Refer: 411 8242 S 1 0 0 1 171 0 2
+Refer: 411 8242 N 1 0 0 1 -171 0 2
 Layer: 3
-Refer: 423 8242 S 1 0 0 1 171 0 2
-Refer: 423 8242 N 1 0 0 1 -171 0 2
+Refer: 411 8242 S 1 0 0 1 171 0 2
+Refer: 411 8242 N 1 0 0 1 -171 0 2
 Colour: 808000
 EndChar

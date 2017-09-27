@@ -1,12 +1,12 @@
 StartChar: Oinvertedbreve
-Encoding: 526 526 891
+Encoding: 526 526 875
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Layer: 2
 Refer: 48 79 N 1 0 0 1 0 0 2
 Layer: 3

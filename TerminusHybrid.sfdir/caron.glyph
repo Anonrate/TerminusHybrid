@@ -2,14 +2,16 @@ StartChar: caron
 Encoding: 711 711 337
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: W
+HStem: 1360 192<438 586>
+DStem2: 464 1376 416 1584 0.707107 -0.707107<-247.487 -91.5703> 768 1584 608 1584 0.707107 0.707107<-202.586 -46.669>
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"%WD[2"2Fqfzzzzzzzzzzzzzz
 EndImage
 Fore
-Refer: 336 710 N -1 0 0 -1 981 2923 2
+Refer: 336 710 N -1 0 0 -1 1024 2960 2
 Validated: 98305
 Layer: 2
 Refer: 336 710 N -1 0 0 -1 981 2923 2

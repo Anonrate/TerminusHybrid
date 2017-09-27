@@ -1,8 +1,8 @@
 StartChar: dtail
-Encoding: 598 598 1008
+Encoding: 598 598 992
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 69 100 N 1 0 0 1 0 0 2

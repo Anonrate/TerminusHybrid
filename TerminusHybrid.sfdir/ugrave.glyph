@@ -2,20 +2,39 @@ StartChar: ugrave
 Encoding: 249 249 185
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!K/#64jV!Pe[8!!"\]0FTWD0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD-zzz
 EndImage
 Fore
-Refer: 343 768 S 1 0 0 1 128 -341 2
 Refer: 86 117 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 343 768 S 1 0 0 1 128 -341 2
+SplineSet
+583 1266 m 6
+ 754 1095 l 2
+ 768 1081 768 1081 754 1067 c 2
+ 725 1039 l 2
+ 711 1025 711 1025 697 1039 c 2
+ 526 1209 l 2
+ 512 1223 512 1223 526 1238 c 2
+ 555 1266 l 2
+ 569 1280 569 1280 583 1266 c 6
+EndSplineSet
 Refer: 86 117 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 343 768 S 1 0 0 1 128 -341 2
+SplineSet
+583 1266 m 6
+ 754 1095 l 2
+ 768 1081 768 1081 754 1067 c 2
+ 725 1039 l 2
+ 711 1025 711 1025 697 1039 c 2
+ 526 1209 l 2
+ 512 1223 512 1223 526 1238 c 2
+ 555 1266 l 2
+ 569 1280 569 1280 583 1266 c 6
+EndSplineSet
 Refer: 86 117 N 1 0 0 1 0 0 2
 Colour: 7300
 EndChar

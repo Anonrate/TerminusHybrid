@@ -1,8 +1,8 @@
 StartChar: uinvertedbreve
-Encoding: 535 535 865
+Encoding: 535 535 849
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 2

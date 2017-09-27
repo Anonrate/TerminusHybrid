@@ -1,5 +1,5 @@
 StartChar: arrowright
-Encoding: 8594 8594 483
+Encoding: 8594 8594 471
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,11 +9,11 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzz!!!#7!8mir!&sruJ,Xrs!#ttu!,qqr!5JR7zzzzz
 EndImage
 Fore
-Refer: 481 8592 S -1 0 0 -1 939 1280 2
-Validated: 98305
+Refer: 469 8592 S -1 0 0 -1 939 1280 2
+Validated: 32769
 Layer: 2
-Refer: 481 8592 S -1 0 0 -1 939 1280 2
+Refer: 469 8592 S -1 0 0 -1 939 1280 2
 Layer: 3
-Refer: 481 8592 S -1 0 0 -1 939 1280 2
+Refer: 469 8592 S -1 0 0 -1 939 1280 2
 Colour: 8080
 EndChar
