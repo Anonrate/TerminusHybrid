@@ -1,0 +1,17 @@
+StartChar: uni219E
+Encoding: 8606 8606 825
+Width: 1024
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 4
+Fore
+Refer: 481 8592 N 1 0 0 1 256 0 2
+Refer: 481 8592 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 481 8592 N 1 0 0 1 256 0 2
+Refer: 481 8592 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 481 8592 N 1 0 0 1 256 0 2
+Refer: 481 8592 N 1 0 0 1 0 0 2
+EndChar

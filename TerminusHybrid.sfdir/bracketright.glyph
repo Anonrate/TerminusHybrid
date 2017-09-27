@@ -1,0 +1,21 @@
+StartChar: bracketright
+Encoding: 93 93 62
+Width: 1024
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 128<320 640> 1152 128<320 640>
+VStem: 320 448<0 128 1152 1280> 640 128<128 1152>
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!Pf&)[Fq!+5e7!+5e7!+5e7!+5e7!+5e7!+5e7!+5e7!+6>q&)[Efzzz
+EndImage
+Fore
+Refer: 60 91 S -1 0 0 -1 1024 1280 2
+Layer: 2
+Refer: 60 91 S -1 0 0 -1 1024 1280 2
+Layer: 3
+Refer: 60 91 S -1 0 0 -1 1024 1280 2
+Colour: 8000
+EndChar

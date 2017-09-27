@@ -1,0 +1,23 @@
+StartChar: Gbreve
+Encoding: 286 286 222
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"$nr)D#N,^"!!!Q!+8@f80FTWD0E<d,0E<d,0`3X&0FTWD0FTWD0FTWD3#j%8&+BQ!
+zzz
+EndImage
+Fore
+Refer: 349 774 S 1 0 0 1 0 0 2
+Refer: 40 71 N 1 0 0 1 0 0 2
+Validated: 98305
+Layer: 2
+Refer: 349 774 S 1 0 0 1 0 0 2
+Refer: 40 71 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 349 774 S 1 0 0 1 0 0 2
+Refer: 40 71 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

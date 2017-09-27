@@ -1,5 +1,5 @@
 StartChar: arrowupdn
-Encoding: 8597 8597 487
+Encoding: 8597 8597 486
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -10,10 +10,10 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!%M"2G0"&+CUL3Lhg_!It3$!It3$!It3$0oS,_*OlXL#N,^"!It.Mzzz
 EndImage
 Fore
-Refer: 482 8592 S 0 1 -1 0 1109 0 2
-Refer: 482 8592 N 0 -1 1 0 -171 1280 2
+Refer: 481 8592 S 0 1 -1 0 1109 0 2
+Refer: 481 8592 N 0 -1 1 0 -171 1280 2
 Layer: 2
-Refer: 482 8592 S 0 1 -1 0 1109 0 2
-Refer: 482 8592 N 0 -1 1 0 -171 1280 2
+Refer: 481 8592 S 0 1 -1 0 1109 0 2
+Refer: 481 8592 N 0 -1 1 0 -171 1280 2
 Colour: 8080
 EndChar

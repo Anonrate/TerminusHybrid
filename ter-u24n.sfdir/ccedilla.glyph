@@ -1,6 +1,6 @@
 StartChar: ccedilla
 Encoding: 231 231 167
-Width: 1024
+Width: 1025
 VWidth: 0
 Flags: MW
 LayerCount: 3
@@ -9,10 +9,10 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!!Q!+8@f80FTW80E<d,0E<d,0E<d83#j%8&+BUM!It9&!rrN*z
 EndImage
 Fore
-Refer: 1035 807 S 1 0 0 1 0 0 2
+Refer: 1033 807 S 1 0 0 1 9 0 2
 Refer: 68 99 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 1035 807 S 1 0 0 1 0 0 2
+Refer: 1033 807 S 1 0 0 1 0 0 2
 Refer: 68 99 N 1 0 0 1 0 0 2
 Colour: 7300
 EndChar

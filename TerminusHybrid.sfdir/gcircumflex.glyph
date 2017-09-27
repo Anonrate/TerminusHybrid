@@ -1,0 +1,23 @@
+StartChar: gcircumflex
+Encoding: 285 285 221
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!%M"2G0"%WDCJ!!!Q-+8e),0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD9!"8iI
++8?rIz
+EndImage
+Fore
+Refer: 345 770 S 1 0 0 1 43 -341 2
+Refer: 72 103 N 1 0 0 1 0 0 2
+Validated: 98305
+Layer: 2
+Refer: 345 770 S 1 0 0 1 43 -341 2
+Refer: 72 103 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 345 770 S 1 0 0 1 43 -341 2
+Refer: 72 103 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

@@ -1,0 +1,24 @@
+StartChar: quotedbl
+Encoding: 34 34 3
+Width: 1024
+VWidth: 0
+Flags: HW
+HStem: 1024 384<256 384 640 768>
+VStem: 256 128<1024 1408> 640 128<1024 1408>
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"z!!!E]$nr)D$nr)D$nqY]zzzzzzzzzzz
+EndImage
+Fore
+Refer: 8 39 S 1 0 0 1 192 0 2
+Refer: 8 39 N 1 0 0 1 -192 0 2
+Validated: 98305
+Layer: 2
+Refer: 8 39 S 1 0 0 1 213 0 2
+Refer: 8 39 N 1 0 0 1 -128 0 2
+Layer: 3
+Refer: 8 39 S 1 0 0 1 192 0 2
+Refer: 8 39 N 1 0 0 1 -192 0 2
+Colour: 8000
+EndChar

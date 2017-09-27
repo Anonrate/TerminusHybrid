@@ -1,0 +1,22 @@
+StartChar: amacron
+Encoding: 257 257 193
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zzz!!!Q!&+BQ!!!",1+8>gU!"8i9&,[OI3".JL0FTWD3"-o,&,ZD-zzz
+EndImage
+Fore
+Refer: 347 772 S 1 0 0 1 0 -341 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+Validated: 98305
+Layer: 2
+Refer: 347 772 S 1 0 0 1 0 -341 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 347 772 S 1 0 0 1 0 -341 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

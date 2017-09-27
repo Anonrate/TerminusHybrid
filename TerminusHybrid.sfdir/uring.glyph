@@ -1,0 +1,21 @@
+StartChar: uring
+Encoding: 367 367 303
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!,:#%.XC#%.PK!!"\]0FTWD0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD-zzz
+EndImage
+Fore
+Refer: 352 778 S 1 0 0 1 0 -341 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 352 778 S 1 0 0 1 0 -341 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 352 778 S 1 0 0 1 0 -341 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

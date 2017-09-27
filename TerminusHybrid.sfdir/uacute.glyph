@@ -1,0 +1,21 @@
+StartChar: uacute
+Encoding: 250 250 186
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!"<!8mmn"+U@O!!"\]0FTWD0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD-zzz
+EndImage
+Fore
+Refer: 344 769 S 1 0 0 1 128 -341 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 344 769 S 1 0 0 1 128 -341 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 344 769 S 1 0 0 1 128 -341 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Colour: 7300
+EndChar

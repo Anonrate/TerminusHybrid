@@ -1,0 +1,22 @@
+StartChar: dcaron
+Encoding: 271 271 207
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"%WD[2"2Fqf!!!!-!"8i9!"8i9!"9D9+8e),0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD-
+zzz
+EndImage
+Fore
+Refer: 354 780 S 1 0 0 1 0 0 2
+Refer: 69 100 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 354 780 S 1 0 0 1 0 0 2
+Refer: 69 100 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 354 780 S 1 0 0 1 0 0 2
+Refer: 69 100 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

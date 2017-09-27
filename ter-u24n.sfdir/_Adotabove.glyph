@@ -1,12 +1,12 @@
 StartChar: Adotabove
-Encoding: 550 550 775
+Encoding: 550 550 773
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 3
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Layer: 2
 Refer: 34 65 N 1 0 0 1 0 0 2
 EndChar

@@ -1,0 +1,18 @@
+StartChar: dotaccent
+Encoding: 729 729 339
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"!It3$!It3$zzzzzzzzzzzzzz
+EndImage
+Fore
+Refer: 15 46 N 1 0 0 1 43 1365 2
+Validated: 98305
+Layer: 2
+Refer: 15 46 N 1 0 0 1 43 1365 2
+Layer: 3
+Refer: 15 46 N 1 0 0 1 43 1365 2
+EndChar
