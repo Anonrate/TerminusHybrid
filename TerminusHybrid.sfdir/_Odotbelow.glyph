@@ -10,6 +10,7 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 !It3$z
 EndImage
 Fore
-Validated: 1
-Colour: 4c00
+Refer: 339 729 S 1 0 0 1 0 -1664 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+Colour: 6600
 EndChar
