@@ -1,9 +1,10 @@
 StartChar: Abreveacute
 Encoding: 7854 7854 1275
-Width: 2048
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 4
 Fore
-Validated: 1
+Refer: 34 65 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar
