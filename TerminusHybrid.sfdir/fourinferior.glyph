@@ -1,0 +1,19 @@
+StartChar: fourinferior
+Encoding: 8324 8324 434
+Width: 1024
+VWidth: 0
+Flags: HMW
+LayerCount: 4
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zzzzzzzz!!!!Q!,qr-!Up2q#;?WA&+C,!!&+C,zz
+EndImage
+Fore
+Refer: 418 8308 S 1 0 0 1 0 -853 2
+Validated: 98305
+Layer: 2
+Refer: 418 8308 S 1 0 0 1 0 -853 2
+Layer: 3
+Refer: 418 8308 S 1 0 0 1 0 -853 2
+Colour: 800080
+EndChar
