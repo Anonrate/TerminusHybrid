@@ -2,6 +2,7 @@ StartChar: IJ
 Encoding: 306 306 242
 Width: 1024
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 4
 Back
