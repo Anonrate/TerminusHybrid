@@ -1,17 +1,17 @@
 StartChar: uni219F
-Encoding: 8607 8607 811
+Encoding: 8607 8607 810
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 470 8593 N 1 0 0 1 0 -256 2
-Refer: 470 8593 N 1 0 0 1 0 0 2
+Refer: 469 8593 N 1 0 0 1 0 -256 2
+Refer: 469 8593 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 470 8593 N 1 0 0 1 0 -256 2
-Refer: 470 8593 N 1 0 0 1 0 0 2
+Refer: 469 8593 N 1 0 0 1 0 -256 2
+Refer: 469 8593 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 470 8593 N 1 0 0 1 0 -256 2
-Refer: 470 8593 N 1 0 0 1 0 0 2
+Refer: 469 8593 N 1 0 0 1 0 -256 2
+Refer: 469 8593 N 1 0 0 1 0 0 2
 EndChar

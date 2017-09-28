@@ -1,5 +1,5 @@
 StartChar: uni2094
-Encoding: 8340 8340 450
+Encoding: 8340 8340 449
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,11 +9,11 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzzzzzz&&9:F!&+C,+7LBA(bcd\&)[].zz
 EndImage
 Fore
-Refer: 447 8337 S -1 0 0 -1 1024 341 2
+Refer: 446 8337 S -1 0 0 -1 1024 341 2
 Validated: 32769
 Layer: 2
-Refer: 447 8337 S -1 0 0 -1 1024 341 2
+Refer: 446 8337 S -1 0 0 -1 1024 341 2
 Layer: 3
-Refer: 447 8337 S -1 0 0 -1 1024 341 2
+Refer: 446 8337 S -1 0 0 -1 1024 341 2
 Colour: 800080
 EndChar

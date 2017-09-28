@@ -1,12 +1,13 @@
 StartChar: Udieresiscaron
-Encoding: 473 473 794
+Encoding: 473 473 793
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
+Refer: 337 711 S 1 0 0 1 0 0 2
+Refer: 104 168 N 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 54 85 N 1 0 0 1 0 0 2
 Layer: 3

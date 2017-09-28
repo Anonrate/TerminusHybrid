@@ -1,14 +1,14 @@
 StartChar: uni21A1
-Encoding: 8609 8609 812
+Encoding: 8609 8609 811
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 811 8607 N -1 0 0 -1 939 1280 2
+Refer: 810 8607 N -1 0 0 -1 939 1280 2
 Layer: 2
-Refer: 811 8607 N -1 0 0 -1 939 1280 2
+Refer: 810 8607 N -1 0 0 -1 939 1280 2
 Layer: 3
-Refer: 811 8607 N -1 0 0 -1 939 1280 2
+Refer: 810 8607 N -1 0 0 -1 939 1280 2
 EndChar

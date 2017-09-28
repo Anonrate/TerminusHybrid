@@ -1,5 +1,5 @@
 StartChar: union
-Encoding: 8746 8746 512
+Encoding: 8746 8746 511
 Width: 1024
 VWidth: 0
 Flags: MW

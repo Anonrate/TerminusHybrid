@@ -10,8 +10,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 "+UIR"onW'
 EndImage
 Fore
+Refer: 120 184 S 1 0 0 1 0 0 2
 Refer: 44 75 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 44 75 N 1 0 0 1 0 0 2
 Layer: 3

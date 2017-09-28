@@ -2,7 +2,7 @@ StartChar: percent
 Encoding: 37 37 6
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<136 248> 1260 20G<712.5 824.5>
 DStem2: 135 16 263 16 0.411215 0.911538<15.0229 1406.93>
 LayerCount: 4
@@ -11,8 +11,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!"&W58Z111GD%$*aeu`!5JVc!It7P!rrN*"oo)$%JUg.)43/R0^o&Bzzz
 EndImage
 Fore
-Refer: 1025 730 S 1 0 0 1 128 -1280 2
-Refer: 1025 730 N 1 0 0 1 -192 -384 2
+Refer: 1021 730 S 1 0 0 1 128 -1280 2
+Refer: 1021 730 N 1 0 0 1 -192 -384 2
 Refer: 16 47 N 1 0 0 1 0 0 2
 Layer: 2
 SplineSet
@@ -79,8 +79,8 @@ SplineSet
  910 1280 910 1280 896 1266 c 2,64,-1
 EndSplineSet
 Layer: 3
-Refer: 1025 730 S 1 0 0 1 128 -1280 2
-Refer: 1025 730 N 1 0 0 1 -192 -384 2
+Refer: 1021 730 S 1 0 0 1 128 -1280 2
+Refer: 1021 730 N 1 0 0 1 -192 -384 2
 Refer: 16 47 N 1 0 0 1 0 0 2
 Colour: 8000
 EndChar

@@ -1,12 +1,12 @@
 StartChar: jcaron
-Encoding: 496 496 947
+Encoding: 496 496 946
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 75 106 S 1 0 0 1 0 0 2
-Validated: 32769
+Refer: 332 567 S 1 0 0 1 0 0 2
+Refer: 337 711 N 1 0 0 1 0 0 2
 Layer: 2
 Refer: 75 106 S 1 0 0 1 0 0 2
 Layer: 3

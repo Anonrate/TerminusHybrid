@@ -1,12 +1,12 @@
 StartChar: Rinvertedbreve
-Encoding: 530 530 886
+Encoding: 530 530 885
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
+Refer: 338 728 S -1 0 0 -1 1024 2944 2
 Refer: 51 82 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 51 82 N 1 0 0 1 0 0 2
 Layer: 3

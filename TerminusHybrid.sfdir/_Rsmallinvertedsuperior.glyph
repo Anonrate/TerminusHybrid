@@ -1,14 +1,13 @@
 StartChar: Rsmallinvertedsuperior
-Encoding: 694 694 976
+Encoding: 694 694 975
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 930 641 N 1 0 0 1 0 0 2
-Validated: 32769
+Refer: 929 641 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 930 641 N 1 0 0 1 0 0 2
+Refer: 929 641 N 1 0 0 1 0 0 2
 Layer: 3
-Refer: 930 641 N 1 0 0 1 0 0 2
+Refer: 929 641 N 1 0 0 1 0 0 2
 EndChar

@@ -1,12 +1,12 @@
 StartChar: hcaron
-Encoding: 543 543 938
+Encoding: 543 543 937
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
+Refer: 337 711 S 1 0 0 1 0 0 2
 Refer: 73 104 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 73 104 N 1 0 0 1 0 0 2
 Layer: 3

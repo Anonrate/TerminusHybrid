@@ -1,16 +1,16 @@
 StartChar: Dzcaron
-Encoding: 453 453 763
+Encoding: 453 453 762
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Fore
-Refer: 316 382 S 1 0 0 1 85 0 2
-Refer: 765 498 N 1 0 0 1 43 0 2
+Refer: 337 711 S 1 0 0 1 0 0 2
+Refer: 764 498 N 1 0 0 1 43 0 2
 Layer: 2
 Refer: 316 382 S 1 0 0 1 85 0 2
-Refer: 765 498 N 1 0 0 1 43 0 2
+Refer: 764 498 N 1 0 0 1 43 0 2
 Layer: 3
 Refer: 316 382 S 1 0 0 1 85 0 2
-Refer: 765 498 N 1 0 0 1 43 0 2
+Refer: 764 498 N 1 0 0 1 43 0 2
 EndChar

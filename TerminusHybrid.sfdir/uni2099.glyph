@@ -1,14 +1,14 @@
 StartChar: uni2099
-Encoding: 8345 8345 800
+Encoding: 8345 8345 799
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 430 8319 S 1 0 0 1 0 -853 2
+Refer: 429 8319 S 1 0 0 1 0 -853 2
 Validated: 32769
 Layer: 2
-Refer: 430 8319 S 1 0 0 1 0 -853 2
+Refer: 429 8319 S 1 0 0 1 0 -853 2
 Layer: 3
-Refer: 430 8319 S 1 0 0 1 0 -853 2
+Refer: 429 8319 S 1 0 0 1 0 -853 2
 EndChar

@@ -1,12 +1,13 @@
 StartChar: Aringacute
-Encoding: 506 506 754
+Encoding: 506 506 753
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
+Refer: 1021 730 S 1 0 0 1 0 0 2
+Refer: 1028 714 N 1 0 0 1 0 0 2
 Refer: 34 65 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 34 65 N 1 0 0 1 0 0 2
 Layer: 3

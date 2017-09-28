@@ -1,17 +1,16 @@
 StartChar: primemod
-Encoding: 697 697 1022
+Encoding: 697 697 1018
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 411 8242 S 1 0 0 1 171 0 2
-Refer: 411 8242 N 1 0 0 1 -171 0 2
-Validated: 32769
+Refer: 410 8242 S 1 0 0 1 171 0 2
+Refer: 410 8242 N 1 0 0 1 -171 0 2
 Layer: 2
-Refer: 411 8242 S 1 0 0 1 171 0 2
-Refer: 411 8242 N 1 0 0 1 -171 0 2
+Refer: 410 8242 S 1 0 0 1 171 0 2
+Refer: 410 8242 N 1 0 0 1 -171 0 2
 Layer: 3
-Refer: 411 8242 S 1 0 0 1 171 0 2
-Refer: 411 8242 N 1 0 0 1 -171 0 2
+Refer: 410 8242 S 1 0 0 1 171 0 2
+Refer: 410 8242 N 1 0 0 1 -171 0 2
 EndChar

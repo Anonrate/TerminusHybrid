@@ -1,5 +1,5 @@
 StartChar: guilsinglright
-Encoding: 8250 8250 414
+Encoding: 8250 8250 413
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,6 +9,6 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!!u=%KH_6"+UEf!8mir!,qqr!Peef#6556)uos=zzz
 EndImage
 Fore
-Validated: 1
+Refer: 412 8249 S -1 0 0 -1 944 896 2
 Colour: 808000
 EndChar

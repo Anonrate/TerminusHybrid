@@ -1,18 +1,18 @@
 StartChar: uni2089
-Encoding: 8329 8329 440
+Encoding: 8329 8329 439
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzzzzz!!!8^&+Bu]$nr)D&+Bhn!&+C,#N,j&zz
 EndImage
 Fore
-Refer: 424 8313 N 1 0 0 1 0 -853 2
+Refer: 423 8313 N 1 0 0 1 0 -853 2
 Layer: 2
-Refer: 424 8313 N 1 0 0 1 0 -853 2
+Refer: 423 8313 N 1 0 0 1 0 -853 2
 Layer: 3
-Refer: 424 8313 N 1 0 0 1 0 -853 2
+Refer: 423 8313 N 1 0 0 1 0 -853 2
 Colour: 800080
 EndChar

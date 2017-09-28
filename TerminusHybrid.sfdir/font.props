@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506532393
+ModificationTime: 1506573315
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -744,12 +744,13 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "Dimitar Toshkov Zhekov" "Terminus Mod
 GaspTable: 1 65535 2 0
 DesignSize: 120
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 112 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 Grid
