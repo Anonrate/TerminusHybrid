@@ -5,7 +5,7 @@ FamilyName: TerminusHY
 Weight: Regular
 Copyright: Copyright (C) 2016 Dimitar Toshkov Zhekov
 UComments: "2017-9-17: Created with FontForge (http://fontforge.org)"
-FontLog: "Renamed at 354 LATIN CAPITAL LETTER T WITH CEDILLA U+-0162 from Tcommaaccent to Tcedilla+AAoA-Renamed at 355 LATIN SMALL LETTER T WITH CEDILLA U+-0163 to tcedilla+AAoA-Renamed at 8710 INCREMENT U+-2206 from Delta to increment+AAoA-Renamed at 8486  OHM SIGN U+-2126 from Omega to Ohm+AAoA-Named every single Glyph according to propper convetions (Where applicalble)+AAoA-Glyphs (Upper and Lower case) 'M', 'W', 'V', 'X' and 'Y' are redesigned (Still keeping the same'ish' look).+AAoA-Added alot more arrows.+AAoA-Added a lot more support for Latin.+AAoA"
+FontLog: "Named every single Glyph according to propper convetions (Where applicalble)+AAoA-Glyphs (Upper and Lower case) 'M', 'W', 'V', 'X' and 'Y' are redesigned (Still keeping the same'ish' look).+AAoA-Added alot more arrows.+AAoA-Added a lot more support for Latin.+AAoA-Added more combining glyphs.+AAoA-Removed a lot of glpyhs that I'm not interested in working on right now.  Greek, Cryllic etc..  They were all removed for now.  Mainly only Latin glyphs were kept."
 Version: 004.046.3
 DefaultBaseFilename: trmnshybrd-rglr
 ItalicAngle: 0
@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506669588
+ModificationTime: 1506670243
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
