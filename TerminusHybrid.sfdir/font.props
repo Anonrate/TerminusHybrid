@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506644838
+ModificationTime: 1506669588
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -742,14 +742,14 @@ ShortTable: cvt  8
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Dimitar Toshkov Zhekov" "Terminus Moderinsed" "" "http://terminus-font.sourceforge.net/" "SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
-DesignSize: 120
+DesignSize: 160
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 490 14 6
+WinInfo: 154 14 6
 BeginPrivate: 0
 EndPrivate
 Grid

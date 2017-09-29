@@ -1,5 +1,5 @@
 StartChar: Umacron
-Encoding: 362 362 298
+Encoding: 362 362 297
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -10,8 +10,9 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 zzz
 EndImage
 Fore
-Refer: 1049 772 S 1 0 0 1 0 0 2
+Refer: 1047 772 N 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
+Validated: 98305
 Layer: 2
 SplineSet
 228 1536 m 6,0,-1

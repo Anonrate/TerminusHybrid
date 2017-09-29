@@ -1,11 +1,11 @@
 StartChar: hlinebelow
-Encoding: 7830 7830 1251
+Encoding: 7830 7830 1249
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1030 717 S 1 0 0 1 0 0 2
+Refer: 1083 817 S 1 0 0 1 0 0 2
 Refer: 73 104 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

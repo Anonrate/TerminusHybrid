@@ -1,10 +1,10 @@
 StartChar: uni032F
-Encoding: 815 815 1083
+Encoding: 815 815 1081
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1065 785 S 1 0 0 1 0 -1600 2
-Validated: 98305
+Refer: 1063 785 S 1 0 0 1 0 -1600 2
+Validated: 32769
 EndChar

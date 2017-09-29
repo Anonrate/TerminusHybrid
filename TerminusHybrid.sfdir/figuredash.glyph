@@ -1,5 +1,5 @@
 StartChar: figuredash
-Encoding: 8210 8210 391
+Encoding: 8210 8210 389
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -10,6 +10,6 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 EndImage
 Fore
 Refer: 14 45 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: 808000
 EndChar

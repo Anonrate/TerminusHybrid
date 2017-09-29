@@ -1,10 +1,10 @@
 StartChar: uni02F7
-Encoding: 759 759 1043
+Encoding: 759 759 1041
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 4
 Fore
-Refer: 341 732 S 1 0 0 1 0 -1664 2
-Validated: 98305
+Refer: 339 732 S 1 0 0 1 0 -1664 2
+Validated: 32769
 EndChar

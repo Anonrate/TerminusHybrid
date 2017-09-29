@@ -1,5 +1,5 @@
 StartChar: uni030C
-Encoding: 780 780 1061
+Encoding: 780 780 1059
 Width: 1024
 VWidth: 0
 Flags: W
@@ -23,4 +23,5 @@ SplineSet
  768 1600 768 1600 752 1584 c 2,22,-1
  544 1376 l 2,0,1
 EndSplineSet
+Validated: 3073
 EndChar

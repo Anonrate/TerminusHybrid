@@ -1,12 +1,12 @@
 StartChar: Ecedillabreve
-Encoding: 7708 7708 1143
+Encoding: 7708 7708 1141
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 120 184 S 1 0 0 1 0 0 2
-Refer: 338 728 N 1 0 0 1 0 0 2
+Refer: 1076 807 S 1 0 0 1 0 0 2
+Refer: 336 728 N 1 0 0 1 0 0 2
 Refer: 38 69 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

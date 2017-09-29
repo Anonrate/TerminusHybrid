@@ -1,5 +1,5 @@
 StartChar: circumflexcomb
-Encoding: 770 770 1047
+Encoding: 770 770 1045
 Width: 1024
 VWidth: 0
 Flags: W
@@ -23,4 +23,5 @@ SplineSet
  256 1360 256 1360 272 1376 c 6,22,-1
  480 1584 l 6,0,1
 EndSplineSet
+Validated: 3073
 EndChar

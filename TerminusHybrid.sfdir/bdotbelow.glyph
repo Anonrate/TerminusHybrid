@@ -1,11 +1,11 @@
 StartChar: bdotbelow
-Encoding: 7685 7685 1122
+Encoding: 7685 7685 1120
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 339 729 S 1 0 0 1 0 -1664 2
+Refer: 1072 803 S 1 0 0 1 0 0 2
 Refer: 67 98 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

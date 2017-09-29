@@ -1,5 +1,5 @@
 StartChar: parenrightsuperior
-Encoding: 8318 8318 428
+Encoding: 8318 8318 426
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -10,10 +10,11 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"z!rr@P!5JTM!5JTM!5JTM!5JVc!rr<$zzzzzzzzz
 EndImage
 Fore
-Refer: 427 8317 S -1 0 0 -1 1024 2240 2
+Refer: 425 8317 S -1 0 0 -1 1024 2240 2
+Validated: 98305
 Layer: 2
-Refer: 427 8317 S -1 0 0 -1 939 2133 2
+Refer: 425 8317 S -1 0 0 -1 939 2133 2
 Layer: 3
-Refer: 427 8317 S -1 0 0 -1 939 2133 2
+Refer: 425 8317 S -1 0 0 -1 939 2133 2
 Colour: 800080
 EndChar

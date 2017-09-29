@@ -1,11 +1,11 @@
 StartChar: uni0348
-Encoding: 840 840 1093
+Encoding: 840 840 1091
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1079 809 S 1 0 0 1 192 0 2
-Refer: 1079 809 N 1 0 0 1 -192 0 2
-Validated: 98305
+Refer: 1077 809 S 1 0 0 1 192 0 2
+Refer: 1077 809 N 1 0 0 1 -192 0 2
+Validated: 32769
 EndChar

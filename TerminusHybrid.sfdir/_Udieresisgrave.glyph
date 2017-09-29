@@ -1,14 +1,14 @@
 StartChar: Udieresisgrave
-Encoding: 475 475 794
+Encoding: 475 475 792
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 1027 715 S 1 0 0 1 0 0 2
+Refer: 1025 715 S 1 0 0 1 0 0 2
 Refer: 104 168 N 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
-Validated: 98309
+Validated: 32773
 Layer: 2
 Refer: 54 85 N 1 0 0 1 0 0 2
 Layer: 3

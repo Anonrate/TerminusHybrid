@@ -1,5 +1,5 @@
 StartChar: overline
-Encoding: 8254 8254 415
+Encoding: 8254 8254 413
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -10,6 +10,6 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 EndImage
 Fore
 Refer: 64 95 S 1 0 0 1 0 1600 2
-Validated: 98305
+Validated: 32769
 Colour: 808000
 EndChar

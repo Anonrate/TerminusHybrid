@@ -1,11 +1,12 @@
 StartChar: Ucircumflexbelow
-Encoding: 7798 7798 1219
+Encoding: 7798 7798 1217
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1081 813 S 1 0 0 1 0 0 2
+Refer: 1079 813 S 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
+Validated: 98305
 Colour: 6600
 EndChar

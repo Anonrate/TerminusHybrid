@@ -1,11 +1,12 @@
 StartChar: wdotbelow
-Encoding: 7817 7817 1238
+Encoding: 7817 7817 1236
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1074 803 S 1 0 0 1 0 0 2
+Refer: 1072 803 S 1 0 0 1 0 0 2
 Refer: 88 119 N 1 0 0 1 0 0 2
+Validated: 98305
 Colour: 6600
 EndChar

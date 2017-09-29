@@ -1,10 +1,11 @@
 StartChar: xdieresis
-Encoding: 7821 7821 1242
+Encoding: 7821 7821 1240
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
 Refer: 89 120 N 1 0 0 1 0 0 2
+Validated: 98305
 Colour: 6600
 EndChar

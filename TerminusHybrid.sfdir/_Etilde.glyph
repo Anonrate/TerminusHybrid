@@ -1,8 +1,8 @@
 StartChar: Etilde
-Encoding: 7868 7868 363
+Encoding: 7868 7868 361
 Width: 1024
 VWidth: 0
-Flags: HMW
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
@@ -10,8 +10,7 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 zzz
 EndImage
 Fore
-Refer: 341 732 S 1 0 0 1 0 0 2
+Refer: 1046 771 S 1 0 0 1 0 0 2
 Refer: 38 69 N 1 0 0 1 0 0 2
-Validated: 98305
 Colour: 6600
 EndChar

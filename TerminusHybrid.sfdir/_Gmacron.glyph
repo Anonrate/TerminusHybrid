@@ -1,10 +1,11 @@
 StartChar: Gmacron
-Encoding: 7712 7712 1147
+Encoding: 7712 7712 1145
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
 Refer: 40 71 N 1 0 0 1 0 0 2
+Validated: 98305
 Colour: 6600
 EndChar

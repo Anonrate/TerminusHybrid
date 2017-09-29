@@ -1,10 +1,11 @@
 StartChar: sdotaccent
-Encoding: 7777 7777 1200
+Encoding: 7777 7777 1198
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
 Refer: 84 115 N 1 0 0 1 0 0 2
+Validated: 98305
 Colour: 6600
 EndChar

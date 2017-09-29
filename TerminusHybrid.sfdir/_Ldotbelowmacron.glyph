@@ -1,11 +1,11 @@
 StartChar: Ldotbelowmacron
-Encoding: 7736 7736 1167
+Encoding: 7736 7736 1165
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1074 803 S 1 0 0 1 0 0 2
+Refer: 1072 803 S 1 0 0 1 0 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

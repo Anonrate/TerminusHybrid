@@ -1,10 +1,10 @@
 StartChar: acutelowmod
-Encoding: 719 719 1033
+Encoding: 719 719 1031
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1027 715 S 1 0 0 1 0 -1664 2
-Validated: 98305
+Refer: 1025 715 S 1 0 0 1 0 -1664 2
+Validated: 32769
 EndChar

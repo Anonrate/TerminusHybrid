@@ -1,5 +1,5 @@
 StartChar: arrowup
-Encoding: 8593 8593 469
+Encoding: 8593 8593 467
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,8 +9,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!%M"2G0"&+CUL3Lhg_!It3$!It3$!It3$!It3$!It3$!It3$!It.Mzzz
 EndImage
 Fore
-Refer: 468 8592 N 0 -1 1 0 -128 1168 2
-Validated: 98305
+Refer: 466 8592 N 0 -1 1 0 -128 1168 2
+Validated: 32769
 Layer: 2
 SplineSet
 469 1280 m 25,0,-1

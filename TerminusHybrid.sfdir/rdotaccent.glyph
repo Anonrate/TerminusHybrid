@@ -1,5 +1,5 @@
 StartChar: rdotaccent
-Encoding: 7769 7769 1192
+Encoding: 7769 7769 1190
 Width: 1024
 VWidth: 0
 Flags: W
@@ -7,5 +7,6 @@ LayerCount: 4
 Fore
 Refer: 119 183 S 1 0 0 1 0 0 2
 Refer: 83 114 N 1 0 0 1 0 0 2
+Validated: 98309
 Colour: 6600
 EndChar

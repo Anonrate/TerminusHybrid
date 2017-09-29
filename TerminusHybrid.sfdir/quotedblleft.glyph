@@ -1,5 +1,5 @@
 StartChar: quotedblleft
-Encoding: 8220 8220 401
+Encoding: 8220 8220 399
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,8 +9,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"z!!!3?"rIb&$nr)D$nqY]zzzzzzzzzzz
 EndImage
 Fore
-Refer: 397 8216 N 1 0 0 1 192 0 2
-Refer: 397 8216 N 1 0 0 1 -192 0 2
-Validated: 98305
+Refer: 395 8216 N 1 0 0 1 192 0 2
+Refer: 395 8216 N 1 0 0 1 -192 0 2
+Validated: 32769
 Colour: 808000
 EndChar

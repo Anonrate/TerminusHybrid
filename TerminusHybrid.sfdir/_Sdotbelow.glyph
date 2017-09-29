@@ -1,11 +1,11 @@
 StartChar: Sdotbelow
-Encoding: 7778 7778 1201
+Encoding: 7778 7778 1199
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1074 803 S 1 0 0 1 0 0 2
+Refer: 1072 803 S 1 0 0 1 0 0 2
 Refer: 52 83 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

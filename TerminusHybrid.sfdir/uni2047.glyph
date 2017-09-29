@@ -1,10 +1,10 @@
 StartChar: uni2047
-Encoding: 8263 8263 1054
+Encoding: 8263 8263 1052
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
 Refer: 32 63 S 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar

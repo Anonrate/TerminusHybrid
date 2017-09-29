@@ -1,5 +1,5 @@
 StartChar: uni201F
-Encoding: 8223 8223 404
+Encoding: 8223 8223 402
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -9,8 +9,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"z!!!jD(gn1g(gmb+$nqY]zzzzzzzzzzz
 EndImage
 Fore
-Refer: 400 8219 S 1 0 0 1 128 0 2
-Refer: 400 8219 N 1 0 0 1 -256 0 2
-Validated: 98305
+Refer: 398 8219 S 1 0 0 1 128 0 2
+Refer: 398 8219 N 1 0 0 1 -256 0 2
+Validated: 32769
 Colour: 808000
 EndChar

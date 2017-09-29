@@ -1,10 +1,10 @@
 StartChar: macronlowmod
-Encoding: 717 717 1030
+Encoding: 717 717 1028
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1029 713 S 1 0 0 1 0 -1664 2
-Validated: 98305
+Refer: 1027 713 S 1 0 0 1 0 -1664 2
+Validated: 32769
 EndChar

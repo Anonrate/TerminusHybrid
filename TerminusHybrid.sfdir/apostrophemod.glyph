@@ -1,5 +1,5 @@
 StartChar: apostrophemod
-Encoding: 700 700 334
+Encoding: 700 700 332
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -22,6 +22,7 @@ SplineSet
  448 1584 l 258,14,15
  448 1600 448 1600 464 1600 c 258,0,-1
 EndSplineSet
+Validated: 3073
 Layer: 2
 Refer: 13 44 S 1 0 0 1 0 1365 2
 Layer: 3

@@ -1,14 +1,14 @@
 StartChar: uni02AE
-Encoding: 686 686 983
+Encoding: 686 686 981
 Width: 1024
 VWidth: 0
 Flags: MW
 LayerCount: 4
 Fore
-Refer: 931 614 S -1 0 0 -1 939 1280 2
+Refer: 929 614 S -1 0 0 -1 939 1280 2
 Validated: 32769
 Layer: 2
-Refer: 931 614 S -1 0 0 -1 939 1280 2
+Refer: 929 614 S -1 0 0 -1 939 1280 2
 Layer: 3
-Refer: 931 614 S -1 0 0 -1 939 1280 2
+Refer: 929 614 S -1 0 0 -1 939 1280 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: tcaron
-Encoding: 357 357 293
+Encoding: 357 357 292
 Width: 1024
 VWidth: 0
 Flags: MW
@@ -10,8 +10,9 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 zzz
 EndImage
 Fore
-Refer: 1061 780 S 1 0 0 1 -64 0 2
+Refer: 1059 780 S 1 0 0 1 -64 0 2
 Refer: 85 116 N 1 0 0 1 0 0 2
+Validated: 98305
 Layer: 2
 SplineSet
 547 1380 m 2,0,1

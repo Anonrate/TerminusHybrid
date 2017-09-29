@@ -1,11 +1,12 @@
 StartChar: ocircumflexgrave
-Encoding: 7891 7891 1304
+Encoding: 7891 7891 1302
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1045 768 S 1 0 0 1 0 -320 2
+Refer: 1043 768 S 1 0 0 1 0 -320 2
 Refer: 80 111 N 1 0 0 1 0 0 2
+Validated: 98305
 Colour: 6600
 EndChar

@@ -1,11 +1,11 @@
 StartChar: kdotbelow
-Encoding: 7731 7731 1166
+Encoding: 7731 7731 1164
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 4
 Fore
-Refer: 1074 803 S 1 0 0 1 0 0 2
+Refer: 1072 803 S 1 0 0 1 0 0 2
 Refer: 76 107 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar
