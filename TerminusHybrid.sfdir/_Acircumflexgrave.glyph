@@ -2,7 +2,7 @@ StartChar: Acircumflexgrave
 Encoding: 7846 7846 1265
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 1045 770 N 1 0 0 1 0 -64 2

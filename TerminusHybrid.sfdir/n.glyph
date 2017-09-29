@@ -2,9 +2,7 @@ StartChar: n
 Encoding: 110 110 79
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 768 128<256 272 672 746>
-VStem: 768 128<0 16 672 734>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

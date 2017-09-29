@@ -2,9 +2,7 @@ StartChar: circumflex
 Encoding: 710 710 334
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 1408 192<438 586>
-DStem2: 256 1376 416 1376 0.707107 0.707107<46.669 202.586> 560 1584 608 1376 0.707107 -0.707107<91.5703 247.487>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1

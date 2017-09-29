@@ -2,8 +2,7 @@ StartChar: hyphen
 Encoding: 45 45 14
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 576 128<128 896>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1

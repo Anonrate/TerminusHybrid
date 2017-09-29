@@ -2,7 +2,7 @@ StartChar: bhook
 Encoding: 595 595 1007
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 67 98 N 1 0 0 1 0 0 2

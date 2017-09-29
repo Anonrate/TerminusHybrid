@@ -2,7 +2,7 @@ StartChar: Dcommaaccent
 Encoding: 7696 7696 1129
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 1075 806 S 1 0 0 1 0 0 2

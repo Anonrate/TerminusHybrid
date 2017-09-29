@@ -2,10 +2,7 @@ StartChar: dollar
 Encoding: 36 36 5
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 64 128<278 448 576 746> 576 128<278 448 576 746> 1088 128<278 448 576 746>
-VStem: 128 128<214 320 726 1066> 448 128<-128 64 192 576 704 1088 1216 1408> 768 128<226 542 960 1054>
-CounterMasks: 1 fc
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1

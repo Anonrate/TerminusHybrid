@@ -2,10 +2,7 @@ StartChar: two
 Encoding: 50 50 19
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 128<320.004 896> 1152 128<278 746>
-VStem: 128 192<128 202> 128 128<832 1130> 768 128<772 1118>
-DStem2: 192 224 336 176 0.707107 0.707107<34.2974 849.235>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

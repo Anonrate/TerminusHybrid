@@ -2,8 +2,7 @@ StartChar: gravemodifier
 Encoding: 715 715 1025
 Width: 1024
 VWidth: 0
-Flags: W
-DStem2: 384 1632 288 1536 0.707107 -0.707107<-22.6274 339.411>
+Flags: MW
 LayerCount: 4
 Fore
 SplineSet

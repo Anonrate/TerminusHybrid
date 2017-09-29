@@ -2,7 +2,7 @@ StartChar: gmacron
 Encoding: 7713 7713 1146
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 72 103 N 1 0 0 1 0 0 2

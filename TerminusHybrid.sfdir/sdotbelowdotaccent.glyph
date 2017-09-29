@@ -2,7 +2,7 @@ StartChar: sdotbelowdotaccent
 Encoding: 7785 7785 1206
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 119 183 N 1 0 0 1 0 0 2

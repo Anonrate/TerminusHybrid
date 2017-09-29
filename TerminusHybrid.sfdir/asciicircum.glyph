@@ -2,8 +2,7 @@ StartChar: asciicircum
 Encoding: 94 94 63
 Width: 1024
 VWidth: 0
-Flags: W
-DStem2: 176 1120 272 1024 0.707107 0.707107<-22.6274 339.411> 544 1424 528 1248 0.707107 -0.707107<90.5097 452.548>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 SVTCA[x-axis]

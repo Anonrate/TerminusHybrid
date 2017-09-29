@@ -2,9 +2,7 @@ StartChar: colon
 Encoding: 58 58 27
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 256<448 576> 640 256<448 576>
-VStem: 448 128<0 256 640 896>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

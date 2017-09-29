@@ -2,7 +2,7 @@ StartChar: circumflexcomb
 Encoding: 770 770 1045
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 4
 Fore
 SplineSet

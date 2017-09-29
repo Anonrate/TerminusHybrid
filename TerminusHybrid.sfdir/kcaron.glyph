@@ -2,7 +2,7 @@ StartChar: kcaron
 Encoding: 489 489 1003
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 1059 780 S 1 0 0 1 0 0 2

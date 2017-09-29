@@ -2,9 +2,7 @@ StartChar: quotesingle
 Encoding: 39 39 8
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 1024 384<448 576>
-VStem: 448 128<1024 1408>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1

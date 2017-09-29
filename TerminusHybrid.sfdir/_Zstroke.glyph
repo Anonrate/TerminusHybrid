@@ -2,7 +2,7 @@ StartChar: Zstroke
 Encoding: 437 437 977
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 59 90 N 1 0 0 1 0 0 2

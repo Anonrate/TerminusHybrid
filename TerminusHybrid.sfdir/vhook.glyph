@@ -2,7 +2,7 @@ StartChar: vhook
 Encoding: 651 651 995
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 87 118 N 1 0 0 1 0 0 2

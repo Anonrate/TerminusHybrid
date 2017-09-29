@@ -2,7 +2,7 @@ StartChar: Vtilde
 Encoding: 7804 7804 1223
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 55 86 N 1 0 0 1 0 0 2

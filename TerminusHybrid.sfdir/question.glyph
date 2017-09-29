@@ -2,11 +2,7 @@ StartChar: question
 Encoding: 63 63 32
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 256<448 576> 1152 128<278 746>
-VStem: 128 128<832 1130> 448 128<0 256 384 544.5> 768 128<882.5 1118>
-DStem2: 560 688 672 608 0.707107 0.707107<-153.133 311.127>
-CounterMasks: 1 38
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

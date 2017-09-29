@@ -3,9 +3,7 @@ Encoding: 93 93 62
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: 0 128<320 640> 1152 128<320 640>
-VStem: 320 448<0 128 1152 1280> 640 128<128 1152>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

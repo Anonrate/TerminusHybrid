@@ -2,7 +2,7 @@ StartChar: uni032F
 Encoding: 815 815 1081
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 1063 785 S 1 0 0 1 0 -1600 2

@@ -2,7 +2,7 @@ StartChar: hv
 Encoding: 405 405 999
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 87 118 S 1 0 0 1 43 0 2

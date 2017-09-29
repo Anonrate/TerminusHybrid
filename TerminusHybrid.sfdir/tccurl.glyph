@@ -2,7 +2,7 @@ StartChar: tccurl
 Encoding: 680 680 960
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 68 99 S 1 0 0 1 128 0 2

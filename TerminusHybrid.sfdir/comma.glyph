@@ -2,8 +2,7 @@ StartChar: comma
 Encoding: 44 44 13
 Width: 1024
 VWidth: 0
-Flags: W
-VStem: 448 128<32 256>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

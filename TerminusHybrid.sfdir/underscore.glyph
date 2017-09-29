@@ -2,8 +2,7 @@ StartChar: underscore
 Encoding: 95 95 64
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: -192 128<128 896>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

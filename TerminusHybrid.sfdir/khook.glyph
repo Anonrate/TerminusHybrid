@@ -2,7 +2,7 @@ StartChar: khook
 Encoding: 409 409 901
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 76 107 N 1 0 0 1 0 0 2

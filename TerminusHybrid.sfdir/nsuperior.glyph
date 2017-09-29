@@ -3,8 +3,6 @@ Encoding: 8319 8319 427
 Width: 1024
 VWidth: 0
 Flags: MW
-HStem: 768 128<256 272 672 746>
-VStem: 768 128<0 16 672 734>
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

@@ -2,7 +2,7 @@ StartChar: slongdotaccent
 Encoding: 7835 7835 1254
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 119 183 S 1 0 0 1 0 0 2

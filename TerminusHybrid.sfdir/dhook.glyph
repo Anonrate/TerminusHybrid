@@ -2,7 +2,7 @@ StartChar: dhook
 Encoding: 599 599 990
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 69 100 N 1 0 0 1 0 0 2

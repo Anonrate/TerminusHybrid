@@ -2,7 +2,7 @@ StartChar: Adblgrave
 Encoding: 512 512 752
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 1062 783 N 1 0 0 1 0 0 2

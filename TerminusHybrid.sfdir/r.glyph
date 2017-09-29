@@ -2,10 +2,7 @@ StartChar: r
 Encoding: 114 114 83
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 768 128<470.5 576 880 896>
-VStem: 128 128<0 16 480 556.5 769.32 784 880 896>
-DStem2: 352 800 288 544 0.707107 0.707107<-84.8473 134.339>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

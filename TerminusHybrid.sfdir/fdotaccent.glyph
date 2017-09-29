@@ -2,7 +2,7 @@ StartChar: fdotaccent
 Encoding: 7711 7711 1144
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 71 102 N 1 0 0 1 0 0 2

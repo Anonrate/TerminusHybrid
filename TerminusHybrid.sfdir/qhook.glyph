@@ -2,7 +2,7 @@ StartChar: qhook
 Encoding: 672 672 1012
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 82 113 N 1 0 0 1 0 0 2

@@ -2,7 +2,7 @@ StartChar: oi
 Encoding: 419 419 830
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 2

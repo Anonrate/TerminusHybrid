@@ -2,7 +2,7 @@ StartChar: ts
 Encoding: 678 678 987
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 84 115 S 1 0 0 1 128 0 2

@@ -2,7 +2,7 @@ StartChar: macroncomb
 Encoding: 772 772 1047
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 4
 Fore
 Refer: 111 175 S 1 0 0 1 0 0 2

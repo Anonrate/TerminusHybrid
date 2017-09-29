@@ -2,7 +2,7 @@ StartChar: fn
 Encoding: 681 681 994
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 79 110 S 1 0 0 1 128 0 2

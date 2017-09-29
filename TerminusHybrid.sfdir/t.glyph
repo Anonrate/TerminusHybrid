@@ -2,9 +2,7 @@ StartChar: t
 Encoding: 116 116 85
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 128<534 896> 768 128<128 384 512 768> 1260 20G<392 504>
-VStem: 384 128<150 768 896 1280>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

@@ -2,7 +2,7 @@ StartChar: ainvertedbreve
 Encoding: 515 515 769
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 1063 785 N 1 0 0 1 0 -320 2

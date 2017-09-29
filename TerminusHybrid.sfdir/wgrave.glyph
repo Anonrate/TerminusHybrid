@@ -2,7 +2,7 @@ StartChar: wgrave
 Encoding: 7809 7809 1228
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 1038 756 S 1 0 0 1 0 0 2

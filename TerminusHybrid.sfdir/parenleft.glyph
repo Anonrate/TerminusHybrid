@@ -2,9 +2,7 @@ StartChar: parenleft
 Encoding: 40 40 9
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 128<518.875 704> 1152 128<518.875 704>
-VStem: 320 128<198.875 1080.81>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

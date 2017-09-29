@@ -2,10 +2,7 @@ StartChar: braceleft
 Encoding: 123 123 92
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 128<534 768> 576 128<192 384> 1152 128<534 768>
-VStem: 384 128<150 559 721 1130.44>
-CounterMasks: 1 e0
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

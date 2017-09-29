@@ -2,9 +2,7 @@ StartChar: period
 Encoding: 46 46 15
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 0 256<448 576>
-VStem: 448 128<0 256>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

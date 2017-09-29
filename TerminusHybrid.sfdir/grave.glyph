@@ -2,8 +2,7 @@ StartChar: grave
 Encoding: 96 96 65
 Width: 1024
 VWidth: 0
-Flags: W
-DStem2: 384 1632 288 1536 0.707107 -0.707107<-22.6274 339.411>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 SVTCA[x-axis]

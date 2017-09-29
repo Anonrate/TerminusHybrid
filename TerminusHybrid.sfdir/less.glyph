@@ -2,8 +2,7 @@ StartChar: less
 Encoding: 60 60 29
 Width: 1024
 VWidth: 0
-Flags: W
-DStem2: 144 656 336 656 0.707107 0.707107<113.137 905.097> 864 96 768 0 0.707107 -0.707107<-769.332 22.6274>
+Flags: MW
 TtInstrs:
 SVTCA[y-axis]
 SVTCA[x-axis]

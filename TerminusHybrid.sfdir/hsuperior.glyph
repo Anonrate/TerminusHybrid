@@ -2,7 +2,7 @@ StartChar: hsuperior
 Encoding: 688 688 983
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 73 104 N 1 0 0 1 0 0 2

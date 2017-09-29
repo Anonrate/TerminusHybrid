@@ -2,9 +2,7 @@ StartChar: caron
 Encoding: 711 711 335
 Width: 1024
 VWidth: 0
-Flags: W
-HStem: 1360 192<438 586>
-DStem2: 464 1376 416 1584 0.707107 -0.707107<-247.487 -91.5703> 768 1584 608 1584 0.707107 0.707107<-202.586 -46.669>
+Flags: MW
 LayerCount: 4
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0

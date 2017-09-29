@@ -2,7 +2,7 @@ StartChar: istroke
 Encoding: 616 616 915
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 74 105 N 1 0 0 1 0 0 2

@@ -2,7 +2,7 @@ StartChar: chook
 Encoding: 392 392 787
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 68 99 N 1 0 0 1 0 0 2

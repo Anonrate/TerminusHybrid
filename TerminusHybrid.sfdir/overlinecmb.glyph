@@ -2,7 +2,7 @@ StartChar: overlinecmb
 Encoding: 773 773 1048
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 64 95 N 1 0 0 1 0 1376 2

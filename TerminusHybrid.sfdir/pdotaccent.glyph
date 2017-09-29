@@ -2,7 +2,7 @@ StartChar: pdotaccent
 Encoding: 7767 7767 1188
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
 Fore
 Refer: 119 183 S 1 0 0 1 0 0 2
