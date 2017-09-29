@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1505683602
-ModificationTime: 1506623918
+ModificationTime: 1506644838
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -749,7 +749,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 7685 29 13
+WinInfo: 490 14 6
 BeginPrivate: 0
 EndPrivate
 Grid

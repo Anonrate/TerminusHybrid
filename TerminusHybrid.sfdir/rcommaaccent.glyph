@@ -9,9 +9,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!"bO1]0-249.>@0E<d,0E<d,0E<d,0E<d,0E;(Q0E<d,Dua8G^]4?7
 EndImage
 Fore
-Refer: 120 184 S 1 0 0 1 -320 0 2
+Refer: 1077 806 S 1 0 0 1 -320 0 2
 Refer: 83 114 N 1 0 0 1 0 0 2
-Validated: 98305
 Layer: 2
 SplineSet
 100 -85 m 6,0,-1
@@ -43,5 +42,6 @@ SplineSet
  107 -85 107 -85 123 -85 c 258,0,-1
 EndSplineSet
 Refer: 83 114 N 1 0 0 1 0 0 2
+Comment: "Name states that a U+-00B8 CEDILLA is used which corelates to the stated equivilance of combining U+-0072 LATIN SMALL LETTER R and U+-0327 COMBINING CEDILLA in v10 of the Unicode Standard, but the image displayed shows a U+-0326 COMBINING COMMA BELOW."
 Colour: 6600
 EndChar

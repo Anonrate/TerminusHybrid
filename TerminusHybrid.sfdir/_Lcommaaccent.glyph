@@ -10,9 +10,8 @@ Image: 16 32 0 2 2 0 0 1664 64 64 0
 "+UIR"onW'
 EndImage
 Fore
-Refer: 120 184 S 1 0 0 1 0 0 2
+Refer: 1077 806 S 1 0 0 1 0 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
-Validated: 98305
 Layer: 2
 SplineSet
 441 -85 m 6,0,-1
@@ -44,5 +43,6 @@ SplineSet
  448 -85 448 -85 464 -85 c 258,0,-1
 EndSplineSet
 Refer: 45 76 N 1 0 0 1 0 0 2
+Comment: "Name states that a U+-00B8 CEDILLA is used which corelates to the stated equivilance of combining U+-004C LATIN CAPITAL LETTER L and U+-0327 COMBINING CEDILLA in v10 of the Unicode Standard, but the image displayed shows a U+-0326 COMBINING COMMA BELOW."
 Colour: 6600
 EndChar
