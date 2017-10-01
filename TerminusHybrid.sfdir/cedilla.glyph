@@ -2,11 +2,124 @@ StartChar: cedilla
 Encoding: 184 184 120
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: -20 20G<456 568>
+VStem: 448 128<-172 0>
+DStem2: 320 -272 416 -368 0.707107 0.707107<-22.6274 214.914>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 1
+ 0
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 20
+MDAP[rnd]
+PUSHB_1
+ 17
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 21
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 13
+SRP0
+PUSHB_1
+ 16
+MDRP[grey]
+PUSHB_2
+ 8
+ 4
+MIRP[rp0,min,black]
+PUSHB_1
+ 5
+MDRP[grey]
+PUSHB_4
+ 6
+ 8
+ 5
+ 19
+CALL
+PUSHB_1
+ 13
+SRP0
+PUSHB_4
+ 15
+ 13
+ 16
+ 19
+CALL
+PUSHB_3
+ 15
+ 13
+ 16
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+PUSHB_3
+ 6
+ 8
+ 5
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+PUSHB_4
+ 6
+ 8
+ 13
+ 15
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_4
+ 6
+ 8
+ 13
+ 15
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzzzzzzzzzz!!!%M!It9&!rrN*z
+Image: 4 6 0 1 2 0 320 0 64 64 0
+=]nmXJ:K=-E+%Th
 EndImage
 Fore
 SplineSet
@@ -24,35 +137,22 @@ SplineSet
  448 -16 l 258,18,19
  448 0 448 0 464 0 c 258,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
 SplineSet
-441 0 m 6,0,-1
- 498 0 l 6,1,2
- 512 0 512 0 512 -14 c 6,3,-1
- 512 -128 l 2,4,5
- 512 -228 512 -228 412 -327 c 0,6,7
- 398 -341 398 -341 384 -327 c 2,8,-1
- 356 -299 l 2,9,10
- 342 -285 342 -285 356 -270 c 0,11,12
- 427 -199 427 -199 427 -128 c 2,13,-1
- 427 -14 l 6,14,15
- 427 0 427 0 441 0 c 6,0,-1
-EndSplineSet
-Layer: 3
-SplineSet
-464 0 m 262,0,-1
- 560 0 l 262,1,2
- 576 0 576 0 576 -16 c 262,3,-1
+464 0 m 258,0,-1
+ 560 0 l 258,1,2
+ 576 0 576 0 576 -16 c 258,3,-1
  576 -64 l 258,4,5
- 576 -192 576 -192 448 -320 c 256,6,7
- 432 -336 432 -336 416 -320 c 258,8,-1
- 352 -256 l 258,9,10
- 336 -240 336 -240 352 -224 c 258,11,12
- 384 -192 l 258,13,14
- 448 -128 448 -128 448 -64 c 258,15,-1
- 448 -16 l 262,16,17
- 448 0 448 0 464 0 c 262,0,-1
+ 576 -208 576 -208 432 -352 c 2,6,7
+ 416 -368 l 258,8,9
+ 400 -384 400 -384 384 -368 c 258,10,-1
+ 320 -304 l 258,11,12
+ 304 -288 304 -288 320 -272 c 258,13,14
+ 336 -256 l 2,15,16
+ 448 -144 448 -144 448 -32 c 258,17,-1
+ 448 -16 l 258,18,19
+ 448 0 448 0 464 0 c 258,0,-1
 EndSplineSet
 Colour: 6600
 EndChar

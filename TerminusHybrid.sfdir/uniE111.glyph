@@ -2,8 +2,12 @@ StartChar: uniE111
 Encoding: 57617 57617 1549
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
 Back
-Refer: 1513 57581 S 1 0 0 1 0 0 2
+Image: 1 1 0 1 2 0 0 64 64 64 0
+=]nmXJ:IV"
+EndImage
+Fore
+Validated: 1
 EndChar

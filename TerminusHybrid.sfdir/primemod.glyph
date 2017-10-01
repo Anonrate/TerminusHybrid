@@ -3,12 +3,12 @@ Encoding: 697 697 1016
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
-Layer: 2
-Refer: 408 8242 S 1 0 0 1 171 0 2
-Refer: 408 8242 N 1 0 0 1 -171 0 2
-Layer: 3
-Refer: 408 8242 S 1 0 0 1 171 0 2
-Refer: 408 8242 N 1 0 0 1 -171 0 2
+LayerCount: 3
+Back
+Image: 1 1 0 1 2 0 0 64 64 64 0
+=]nmXJ:IV"
+EndImage
+Fore
+Validated: 1
 Colour: ff6600
 EndChar

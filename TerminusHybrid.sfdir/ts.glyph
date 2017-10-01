@@ -3,15 +3,17 @@ Encoding: 678 678 987
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 17 20 0 3 2 0 -64 1280 64 64 0
+=]nmXJ:J%.!"8i-$ig89!!!E-!"8i-s8E#urr<Q3J.;U1%KHJ>!!!Q/!"Jr.$j2"g!ItX\J.Da4
+#QFc+rVuou
+EndImage
 Fore
-Refer: 84 115 S 1 0 0 1 128 0 2
-Refer: 85 116 N 1 0 0 1 -171 0 2
+Refer: 84 115 N 1 0 0 1 128 0 2
+Refer: 85 116 S 1 0 0 1 -107 0 2
 Validated: 32773
 Layer: 2
-Refer: 84 115 S 1 0 0 1 128 0 2
-Refer: 85 116 N 1 0 0 1 -171 0 2
-Layer: 3
 Refer: 84 115 S 1 0 0 1 128 0 2
 Refer: 85 116 N 1 0 0 1 -171 0 2
 Colour: ff0000

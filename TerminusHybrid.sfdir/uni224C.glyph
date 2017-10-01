@@ -2,9 +2,18 @@ StartChar: uni224C
 Encoding: 8780 8780 1507
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 14 0 2 2 0 128 1088 64 64 0
+=]nmXJ:PPq`pi[UHnYO#!!*&gs6p!gz!!*&gs6p!g
+EndImage
 Fore
+Refer: 1534 57602 N 1 0 0 1 0 0 2
+Refer: 1530 57598 N 1 0 0 1 0 0 2
+Refer: 1540 57608 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1534 57602 N 1 0 0 1 0 0 2
 Refer: 1530 57598 N 1 0 0 1 0 0 2
 Refer: 1540 57608 N 1 0 0 1 0 0 2

@@ -3,45 +3,17 @@ Encoding: 342 342 278
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!#7Q5PQoP0FTWD0FTWD0FTWD0H<=P5O^T31Oq3q0]4X(0K:a+0FRp]!It3$
-"+UIR"onW'
+Image: 12 26 0 2 2 0 128 1280 64 64 0
+=]nmXJ:R[8s5:\3^bEPX^bEPX^bEPX^i9>3s1mCic2blb_goS=^u3"I^b>`g"oni-%KIIK#QOi)
 EndImage
 Fore
 Refer: 1061 806 S 1 0 0 1 0 0 2
 Refer: 51 82 N 1 0 0 1 0 0 2
+Validated: 32769
 Layer: 2
-SplineSet
-441 -85 m 6,0,-1
- 498 -85 l 6,1,2
- 512 -85 512 -85 512 -99 c 6,3,-1
- 512 -213 l 6,4,5
- 512 -313 512 -313 412 -412 c 4,6,7
- 398 -426 398 -426 384 -412 c 6,8,-1
- 356 -384 l 6,9,10
- 342 -370 342 -370 356 -355 c 4,11,12
- 427 -284 427 -284 427 -213 c 6,13,-1
- 427 -99 l 6,14,15
- 427 -85 427 -85 441 -85 c 6,0,-1
-EndSplineSet
-Refer: 51 82 N 1 0 0 1 0 0 2
-Layer: 3
-SplineSet
-464 -85 m 258,0,-1
- 560 -85 l 258,1,2
- 576 -85 576 -85 576 -101 c 258,3,-1
- 576 -213 l 258,4,5
- 576 -341 576 -341 448 -469 c 256,6,7
- 432 -485 432 -485 416 -469 c 258,8,-1
- 352 -405 l 258,9,10
- 336 -389 336 -389 352 -373 c 258,11,-1
- 384 -341 l 258,12,13
- 448 -277 448 -277 448 -213 c 258,14,-1
- 448 -101 l 258,15,16
- 448 -85 448 -85 464 -85 c 258,0,-1
-EndSplineSet
+Refer: 1061 806 S 1 0 0 1 0 0 2
 Refer: 51 82 N 1 0 0 1 0 0 2
 Comment: "Name states that a U+-00B8 CEDILLA is used which corelates to the stated equivilance of combining U+-0052 LATIN CAPITAL LETTER R and U+-0327 COMBINING CEDILLA in v10 of the Unicode Standard, but the image displayed shows a U+-0326 COMBINING COMMA BELOW."
 Colour: 6600

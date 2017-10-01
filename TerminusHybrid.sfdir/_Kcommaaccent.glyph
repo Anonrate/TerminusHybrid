@@ -3,18 +3,17 @@ Encoding: 310 310 246
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!"\]0H;c+0Q8`(0u,Sq2ZQ#A49.JD4odMA1Oq3q0]4X(0K:a+0FRp]!It3$
-"+UIR"onW'
+Image: 12 26 0 2 2 0 128 1280 64 64 0
+=]nmXJ:PEh^i7*I_8*s=`rOBbg]7*Ln,VqXp]0(Lc2blb_goS=^u3"I^b>`g"oni-%KIIK#QOi)
 EndImage
 Fore
 Refer: 1061 806 N 1 0 0 1 0 0 2
 Refer: 44 75 N 1 0 0 1 0 0 2
+Validated: 32769
 Layer: 2
-Refer: 44 75 N 1 0 0 1 0 0 2
-Layer: 3
+Refer: 1061 806 N 1 0 0 1 0 0 2
 Refer: 44 75 N 1 0 0 1 0 0 2
 Comment: "Name states that a U+-00B8 CEDILLA is used which corelates to the stated equivilance of combining U+-004B LATIN CAPITAL LETTER K and U+-0327 COMBINING CEDILLA in v10 of the Unicode Standard, but the image displayed shows a U+-0326 COMBINING COMMA BELOW."
 Colour: 6600

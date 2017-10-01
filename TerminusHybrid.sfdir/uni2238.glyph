@@ -2,9 +2,17 @@ StartChar: uni2238
 Encoding: 8760 8760 1501
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 5 0 2 2 0 128 896 64 64 0
+=]nmXJ:Ih("onW's7$'X
+EndImage
 Fore
+Refer: 1514 57582 S 1 0 0 1 0 0 2
+Refer: 1530 57598 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1514 57582 S 1 0 0 1 0 0 2
 Refer: 1530 57598 N 1 0 0 1 0 0 2
 EndChar

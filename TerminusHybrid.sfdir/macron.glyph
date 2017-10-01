@@ -2,28 +2,70 @@ StartChar: macron
 Encoding: 175 175 111
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 1408 128<256 768>
+VStem: 256 512<1408 1536>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_2
+ 9
+ 1
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"!!!Q!&+BQ!zzzzzzzzzzzzzz
+Image: 8 2 0 1 2 0 256 1536 64 64 0
+=]nmXJ:R\"
 EndImage
 Fore
 SplineSet
-272 1536 m 262,0,-1
- 752 1536 l 262,1,2
- 768 1536 768 1536 768 1520 c 262,3,-1
- 768 1424 l 262,4,5
- 768 1408 768 1408 752 1408 c 262,6,-1
- 272 1408 l 262,7,8
- 256 1408 256 1408 256 1424 c 262,9,-1
- 256 1520 l 262,10,11
- 256 1536 256 1536 272 1536 c 262,0,-1
+272 1536 m 258,0,-1
+ 752 1536 l 258,1,2
+ 768 1536 768 1536 768 1520 c 258,3,-1
+ 768 1424 l 258,4,5
+ 768 1408 768 1408 752 1408 c 258,6,-1
+ 272 1408 l 258,7,8
+ 256 1408 256 1408 256 1424 c 258,9,-1
+ 256 1520 l 258,10,11
+ 256 1536 256 1536 272 1536 c 258,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
-Refer: 109 173 N 1 0 0 1 0 853 2
-Layer: 3
-Refer: 109 173 N 1 0 0 1 0 853 2
+SplineSet
+272 1536 m 258,0,-1
+ 752 1536 l 258,1,2
+ 768 1536 768 1536 768 1520 c 258,3,-1
+ 768 1424 l 258,4,5
+ 768 1408 768 1408 752 1408 c 258,6,-1
+ 272 1408 l 258,7,8
+ 256 1408 256 1408 256 1424 c 258,9,-1
+ 256 1520 l 258,10,11
+ 256 1536 256 1536 272 1536 c 258,0,-1
+EndSplineSet
 Colour: 6600
 EndChar

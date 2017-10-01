@@ -2,8 +2,15 @@ StartChar: uni2224
 Encoding: 8740 8740 1510
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 2 20 0 1 2 0 448 1280 64 64 0
+=]nmXJ:PGN^qdb$^qdb$^qdb$^qdb$^q]pM
+EndImage
 Fore
+Refer: 1511 8739 S 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1511 8739 S 1 0 0 1 0 0 2
 EndChar

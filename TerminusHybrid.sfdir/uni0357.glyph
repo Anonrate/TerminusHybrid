@@ -2,9 +2,16 @@ StartChar: uni0357
 Encoding: 855 855 1348
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 3 5 0 1 2 0 512 1600 64 64 0
+=]nmXJ:QQc?sqmm
+EndImage
 Fore
+Refer: 1349 849 S -1 0 0 -1 1024 2880 2
+Validated: 32769
+Layer: 2
 Refer: 1349 849 S -1 0 0 -1 1024 2880 2
 Colour: 6666
 EndChar

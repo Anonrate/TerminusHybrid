@@ -2,9 +2,16 @@ StartChar: uni0319
 Encoding: 793 793 1336
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 6 6 0 1 2 0 128 0 64 64 0
+=]nmXJ:PGNr;=@G
+EndImage
 Fore
+Refer: 1345 797 S 0 -1 1 0 528 312 2
+Validated: 32769
+Layer: 2
 Refer: 1345 797 S 0 -1 1 0 528 312 2
 Colour: 6666
 EndChar

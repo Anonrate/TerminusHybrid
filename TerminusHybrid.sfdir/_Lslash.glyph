@@ -4,17 +4,16 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!"\Q0E<d,0E<d,0E<d,1B9<549.>@DufA-0E<d,0E<d,0E=?85PtK]zzz
+Image: 14 20 0 2 2 0 0 1280 64 64 0
+=]nmXJ:K<R0E<d,0E<d,0E<j.2ZQ#A49.>@DufA-Du_Ql0E<d,0E=?85PtK]
 EndImage
 Fore
 Refer: 1332 823 N 1 0 0 1 -256 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 45 76 N 1 0 0 1 0 0 2
-Layer: 3
+Refer: 1332 823 N 1 0 0 1 -256 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

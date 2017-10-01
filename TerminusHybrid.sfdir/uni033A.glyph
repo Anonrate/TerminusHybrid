@@ -2,6 +2,9 @@ StartChar: uni033A
 Encoding: 826 826 1419
 Width: 0
 VWidth: 0
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Fore
+Validated: 1
 Colour: 6666
 EndChar

@@ -2,9 +2,60 @@ StartChar: macronbelowcmb
 Encoding: 817 817 1069
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: -256 128<256 768>
+VStem: 256 512<-256 -128>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_2
+ 9
+ 1
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Back
+Image: 8 2 0 1 2 0 256 -128 64 64 0
+=]nmXJ:R\"
+EndImage
 Fore
+SplineSet
+272 -128 m 262,0,-1
+ 752 -128 l 262,1,2
+ 768 -128 768 -128 768 -144 c 262,3,-1
+ 768 -240 l 262,4,5
+ 768 -256 768 -256 752 -256 c 262,6,-1
+ 272 -256 l 262,7,8
+ 256 -256 256 -256 256 -240 c 262,9,-1
+ 256 -144 l 262,10,11
+ 256 -128 256 -128 272 -128 c 262,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
 SplineSet
 272 -128 m 262,0,-1
  752 -128 l 262,1,2

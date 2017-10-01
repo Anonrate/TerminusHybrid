@@ -2,11 +2,34 @@ StartChar: horizontalbar
 Encoding: 8213 8213 392
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 576 128<64 896>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 10
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzzzzzJ,Ffozzzzzzzz
+Image: 13 2 0 2 2 0 64 704 64 64 0
+=]nmXJ:R[ps7cQo
 EndImage
 Fore
 SplineSet
@@ -20,30 +43,18 @@ SplineSet
  80 576 l 258,10,11
  64 576 64 576 64 592 c 258,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
 SplineSet
-85 612 m 2,0,-1
- 85 668 l 2,1,2
- 85 682 85 682 100 683 c 2,3,-1
- 924 683 l 6,4,5
- 938 683 938 683 939 668 c 6,6,-1
- 939 612 l 6,7,8
- 939 598 939 598 924 597 c 6,9,-1
- 100 597 l 2,10,11
- 85 598 85 598 85 612 c 2,0,-1
-EndSplineSet
-Layer: 3
-SplineSet
-85 612 m 2,0,-1
- 85 668 l 2,1,2
- 85 682 85 682 100 683 c 2,3,-1
- 924 683 l 6,4,5
- 938 683 938 683 939 668 c 6,6,-1
- 939 612 l 6,7,8
- 939 598 939 598 924 597 c 6,9,-1
- 100 597 l 2,10,11
- 85 598 85 598 85 612 c 2,0,-1
+64 592 m 258,0,-1
+ 64 688 l 258,1,2
+ 64 704 64 704 80 704 c 258,3,-1
+ 880 704 l 258,4,5
+ 896 704 896 704 896 688 c 258,6,-1
+ 896 592 l 258,7,8
+ 896 576 896 576 880 576 c 258,9,-1
+ 80 576 l 258,10,11
+ 64 576 64 576 64 592 c 258,0,-1
 EndSplineSet
 Colour: 808000
 EndChar

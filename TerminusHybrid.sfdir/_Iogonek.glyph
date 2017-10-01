@@ -3,18 +3,17 @@ Encoding: 302 302 238
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!!8^#N,W5!It3$!It3$!It3$!It3$!It3$!It3$!It3$!ItF5#N,W5"+UIR
-"5j4<z
+Image: 6 25 0 1 2 0 320 1280 64 64 0
+=]nmXJ:RRq0JG170JG170JG170JG17r;:q]@!m>%
 EndImage
 Fore
 Refer: 1337 808 N 1 0 0 1 0 0 2
 Refer: 42 73 N 1 0 0 1 0 0 2
+Validated: 32773
 Layer: 2
-Refer: 42 73 N 1 0 0 1 0 0 2
-Layer: 3
+Refer: 1337 808 N 1 0 0 1 0 0 2
 Refer: 42 73 N 1 0 0 1 0 0 2
 Comment: "Half of the head(?) on the U+-0328 COMBINING OKKONEK was taken off to blend in more adequetly."
 Colour: 6600

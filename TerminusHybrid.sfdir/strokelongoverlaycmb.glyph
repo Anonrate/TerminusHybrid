@@ -3,8 +3,48 @@ Encoding: 822 822 1331
 Width: 1024
 VWidth: 0
 Flags: W
-LayerCount: 5
+HStem: 960 128<64 960>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Back
+Image: 14 2 0 2 2 0 64 1088 64 64 0
+=]nmXJ:R[ts82is
+EndImage
 Fore
+SplineSet
+80 1088 m 258,0,-1
+ 944 1088 l 258,1,2
+ 960 1088 960 1088 960 1072 c 258,3,-1
+ 960 976 l 258,4,5
+ 960 960 960 960 944 960 c 258,6,-1
+ 80 960 l 258,7,8
+ 64 960 64 960 64 976 c 258,9,-1
+ 64 1072 l 258,10,11
+ 64 1088 64 1088 80 1088 c 258,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
 SplineSet
 80 1088 m 258,0,-1
  944 1088 l 258,1,2

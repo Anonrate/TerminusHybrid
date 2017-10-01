@@ -3,12 +3,14 @@ Encoding: 8649 8649 824
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 15 16 0 2 2 0 0 1024 64 64 0
+=]nmXJ:IW-!,qot!$)%<s8E"G!-eKg!.=hGs8E!<!&sst!+5d,
+EndImage
 Fore
 Refer: 822 8647 N -1 0 0 -1 1024 1024 2
 Validated: 32773
 Layer: 2
-Refer: 822 8647 N -1 0 0 -1 1024 1024 2
-Layer: 3
 Refer: 822 8647 N -1 0 0 -1 1024 1024 2
 EndChar

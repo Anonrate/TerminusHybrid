@@ -3,40 +3,17 @@ Encoding: 218 218 154
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"!,qqr!Peef!!"\]0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD3#j%8&+BQ!
-zzz
+Image: 12 25 0 2 2 0 128 1600 64 64 0
+=]nmXJ:IZN"+UUV%KHV3^bEPX^bEPX^bEPX^bEPX^bEPX^bEPX^bEPX^bEPX^bF\cJ)EQ,
 EndImage
 Fore
 Refer: 1030 769 S 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
+Validated: 32769
 Layer: 2
-SplineSet
-655 1607 m 2,0,1
- 669 1621 669 1621 683 1607 c 2,2,-1
- 711 1579 l 2,3,4
- 725 1565 725 1565 711 1550 c 2,5,-1
- 541 1380 l 2,6,7
- 527 1366 527 1366 512 1380 c 2,8,-1
- 484 1408 l 2,9,10
- 470 1422 470 1422 484 1436 c 2,11,-1
- 655 1607 l 2,0,1
-EndSplineSet
-Refer: 54 85 N 1 0 0 1 0 0 2
-Layer: 3
-SplineSet
-655 1607 m 2,0,1
- 669 1621 669 1621 683 1607 c 2,2,-1
- 711 1579 l 2,3,4
- 725 1565 725 1565 711 1550 c 2,5,-1
- 541 1380 l 2,6,7
- 527 1366 527 1366 512 1380 c 2,8,-1
- 484 1408 l 2,9,10
- 470 1422 470 1422 484 1436 c 2,11,-1
- 655 1607 l 2,0,1
-EndSplineSet
+Refer: 1030 769 S 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

@@ -3,8 +3,15 @@ Encoding: 769 769 1030
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 5 5 0 1 2 0 384 1600 64 64 0
+=]nmXJ:JIrE8Wt]
+EndImage
 Fore
+Refer: 116 180 S 1 0 0 1 0 16 2
+Validated: 32769
+Layer: 2
 Refer: 116 180 S 1 0 0 1 0 16 2
 Colour: 6666
 EndChar

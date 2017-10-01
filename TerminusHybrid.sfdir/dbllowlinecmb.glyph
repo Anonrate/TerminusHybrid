@@ -3,8 +3,16 @@ Encoding: 819 819 1071
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 12 6 0 2 2 0 128 0 64 64 0
+=]nmXJ:R[hs6p!g!!*&gs6p!g
+EndImage
 Fore
+Refer: 1070 818 S 1 0 0 1 0 -256 2
+Refer: 1070 818 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1070 818 S 1 0 0 1 0 -256 2
 Refer: 1070 818 N 1 0 0 1 0 0 2
 Colour: 6666

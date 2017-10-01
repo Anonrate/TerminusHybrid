@@ -4,12 +4,13 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 11 19 0 2 2 0 64 1408 64 64 0
+=]nmXJ:Ih("oni-"oni-"oni-"oq+Xk2:F@5JUXAn)/BI5JS@k%fce6
+EndImage
 Fore
 Refer: 808 8607 N -1 0 0 -1 939 1280 2
-Validated: 32773
 Layer: 2
-Refer: 808 8607 N -1 0 0 -1 939 1280 2
-Layer: 3
 Refer: 808 8607 N -1 0 0 -1 939 1280 2
 EndChar

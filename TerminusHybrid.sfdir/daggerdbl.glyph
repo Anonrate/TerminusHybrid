@@ -4,14 +4,16 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!!%M!It3$!Iu9e+8>ke!It3$!It3$!It3$!Iu9e+8>ke!It3$!It.Mzzz
+Image: 10 20 0 2 2 0 192 1280 64 64 0
+=]nmXJ:J%.$ig\9$ip=Cs1f$C$ig\9$ig\9$ig\9$ip=Cs1f$C$ig\9$ig8-
 EndImage
 Fore
 Refer: 403 8224 N -1 0 0 -1 1024 1280 2
 Refer: 403 8224 N 1 0 0 1 0 0 2
-Validated: 32773
+Layer: 2
+Refer: 403 8224 N -1 0 0 -1 1024 1280 2
+Refer: 403 8224 N 1 0 0 1 0 0 2
 Colour: 808000
 EndChar

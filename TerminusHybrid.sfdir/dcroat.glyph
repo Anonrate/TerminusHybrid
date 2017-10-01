@@ -4,17 +4,16 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!!!-!"8o.!WN-.!"9D9+8e),0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD-zzz
+Image: 15 20 0 2 2 0 128 1280 64 64 0
+=]nmXJ:IVR!&+ZW#Q=]W!&-Y,J+2AM^bEPX^bEPX^bEPX^bEPXi%TZM5O\XQ
 EndImage
 Fore
 Refer: 1330 821 N 1 0 0 1 224 0 2
 Refer: 69 100 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 69 100 N 1 0 0 1 0 0 2
-Layer: 3
+Refer: 1330 821 N 1 0 0 1 224 0 2
 Refer: 69 100 N 1 0 0 1 0 0 2
 Comment: "I'v been using U+-304 COMBINING MACRON for strokes.  In background image, it shows that the stroke is longer, but so far that is just in this particular glyph."
 Colour: 6600

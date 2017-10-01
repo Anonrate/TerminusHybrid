@@ -3,17 +3,15 @@ Encoding: 8217 8217 396
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"z!!!%M!It3$!It7P!rr<$zzzzzzzzzzz
+Image: 3 6 0 1 2 0 384 1408 64 64 0
+=]nmXJ:M$8?sqp.
 EndImage
 Fore
 Refer: 395 8216 N -1 0 0 -1 1024 2432 2
 Validated: 32769
 Layer: 2
-Refer: 395 8216 S -1 0 0 -1 932 2468 2
-Layer: 3
-Refer: 395 8216 S -1 0 0 -1 932 2468 2
+Refer: 395 8216 N -1 0 0 -1 1024 2432 2
 Colour: 808000
 EndChar

@@ -4,17 +4,16 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!#7]5PtP4!It3$!It3$!It3$&+C,!!It3$!It3$!It3$!It3$!It.Mzzz
+Image: 12 20 0 2 2 0 128 1280 64 64 0
+=]nmXJ:R[hs6p3m"oni-"oni-"oni-J)Gh7"oni-"oni-"oni-"oni-"onW'
 EndImage
 Fore
 Refer: 1330 821 N 1 0 0 1 0 -448 2
 Refer: 53 84 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 53 84 N 1 0 0 1 0 0 2
-Layer: 3
+Refer: 1330 821 N 1 0 0 1 0 -448 2
 Refer: 53 84 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

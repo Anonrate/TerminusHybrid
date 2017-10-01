@@ -2,8 +2,107 @@ StartChar: uni209C
 Encoding: 8348 8348 799
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: -171 86<512.125 768> 341 86<256 426.966 512 683>
+VStem: 427 85<-83.9221 341 427 768>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 26
+MDAP[rnd]
+PUSHB_1
+ 19
+MDRP[min,rnd,black]
+PUSHB_1
+ 33
+MDAP[rnd]
+PUSHB_1
+ 12
+SHP[rp1]
+PUSHB_1
+ 38
+MDRP[min,rnd,black]
+PUSHB_1
+ 6
+SHP[rp2]
+PUSHB_3
+ 38
+ 33
+ 10
+CALL
+PUSHB_4
+ 64
+ 38
+ 0
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 44
+MDAP[rnd]
+PUSHB_1
+ 29
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 41
+SHP[rp2]
+PUSHB_1
+ 16
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SHP[rp2]
+PUSHB_3
+ 16
+ 29
+ 10
+CALL
+PUSHB_4
+ 64
+ 16
+ 9
+ 9
+CALL
+PUSHB_4
+ 64
+ 16
+ 23
+ 9
+CALL
+PUSHB_3
+ 29
+ 16
+ 10
+CALL
+PUSHB_4
+ 64
+ 29
+ 35
+ 9
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_1
+ 45
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+PUSHB_2
+ 33
+ 19
+SRP1
+SRP2
+PUSHB_1
+ 29
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Back
+Image: 8 15 0 1 2 0 256 768 64 64 0
+=]nmXJ:J1B&.fEPrX]VP&.fBp%fcS0
+EndImage
 Fore
 SplineSet
 441 768 m 2,0,-1
@@ -38,42 +137,8 @@ SplineSet
  427 754 l 2,42,43
  427 768 427 768 441 768 c 2,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
-SplineSet
-441 768 m 2,0,-1
- 498 768 l 2,1,2
- 512 768 512 768 512 754 c 2,3,-1
- 512 441 l 2,4,5
- 512 427 512 427 526 427 c 2,6,-1
- 668 427 l 2,7,8
- 682 427 682 427 683 412 c 2,9,-1
- 683 356 l 2,10,11
- 683 342 683 342 668 341 c 2,12,-1
- 526 341 l 2,13,14
- 512 341 512 341 512 327 c 2,15,-1
- 512 -43 l 2,16,17
- 512 -57 512 -57 526 -71 c 128,-1,18
- 540 -85 540 -85 555 -85 c 2,19,-1
- 754 -85 l 2,20,21
- 768 -85 768 -85 768 -100 c 2,22,-1
- 768 -156 l 2,23,24
- 768 -170 768 -170 754 -171 c 2,25,-1
- 555 -171 l 2,26,27
- 512 -171 512 -171 469.5 -128 c 128,-1,28
- 427 -85 427 -85 427 -43 c 2,29,-1
- 427 327 l 2,30,31
- 427 341 427 341 412 341 c 2,32,-1
- 270 341 l 2,33,34
- 256 341 256 341 256 356 c 2,35,-1
- 256 412 l 2,36,37
- 256 426 256 426 270 427 c 2,38,-1
- 412 427 l 2,39,40
- 426 427 426 427 427 441 c 2,41,-1
- 427 754 l 2,42,43
- 427 768 427 768 441 768 c 2,0,-1
-EndSplineSet
-Layer: 3
 SplineSet
 441 768 m 2,0,-1
  498 768 l 2,1,2

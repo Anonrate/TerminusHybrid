@@ -2,9 +2,16 @@ StartChar: uni01C0
 Encoding: 448 448 1365
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 2 20 0 1 2 0 448 1280 64 64 0
+=]nmXJ:PGN^qdb$^qdb$^qdb$^qdb$^q]pM
+EndImage
 Fore
+Refer: 93 124 S 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 93 124 S 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

@@ -2,9 +2,94 @@ StartChar: vrachycomb
 Encoding: 774 774 1035
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 1344 128<384 640>
+VStem: 256 128<1472 1600> 640 128<1472 1600>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 21
+MDAP[rnd]
+PUSHB_1
+ 6
+MDRP[min,rnd,black]
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_3
+ 6
+ 21
+ 10
+CALL
+PUSHB_4
+ 64
+ 6
+ 0
+ 9
+CALL
+PUSHB_1
+ 13
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 27
+MDAP[rnd]
+PUSHB_1
+ 24
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_3
+ 24
+ 10
+ 16
+CALL
+PUSHB_1
+ 17
+MDRP[min,rnd,black]
+PUSHB_1
+ 17
+SRP0
+PUSHB_1
+ 28
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Back
+Image: 8 4 0 1 2 0 256 1600 64 64 0
+=]nmXJ:PPTIQRT1
+EndImage
 Fore
+SplineSet
+272 1600 m 2,0,-1
+ 368 1600 l 2,1,2
+ 384 1600 384 1600 384 1584 c 2,3,-1
+ 384 1488 l 2,4,5
+ 384 1472 384 1472 400 1472 c 2,6,7
+ 624 1472 l 2,8,9
+ 640 1472 640 1472 640 1488 c 2,10,-1
+ 640 1584 l 2,11,12
+ 640 1600 640 1600 656 1600 c 2,13,-1
+ 752 1600 l 2,14,15
+ 768 1600 768 1600 768 1584 c 2,16,-1
+ 768 1536 l 2,17,18
+ 768 1472 768 1472 704 1408 c 128,-1,19
+ 640 1344 640 1344 576 1344 c 2,20,-1
+ 448 1344 l 2,21,22
+ 384 1344 384 1344 320 1408 c 128,-1,23
+ 256 1472 256 1472 256 1536 c 2,24,-1
+ 256 1584 l 2,25,26
+ 256 1600 256 1600 272 1600 c 2,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
 SplineSet
 272 1600 m 2,0,-1
  368 1600 l 2,1,2

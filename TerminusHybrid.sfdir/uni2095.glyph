@@ -2,11 +2,96 @@ StartChar: uni2095
 Encoding: 8341 8341 448
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 427 85<341 654>
+VStem: 256 85<-171 427 512 768> 683 85<-171 398>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_3
+ 8
+ 3
+ 10
+CALL
+PUSHB_4
+ 64
+ 8
+ 11
+ 9
+CALL
+PUSHB_1
+ 5
+SHP[rp2]
+PUSHB_3
+ 3
+ 8
+ 10
+CALL
+PUSHB_4
+ 64
+ 3
+ 0
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 11
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 10
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+SHP[rp2]
+PUSHB_1
+ 10
+SRP0
+PUSHB_3
+ 11
+ 7
+ 16
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 7
+ 10
+SRP1
+SRP2
+PUSHB_1
+ 3
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 3
+ 8
+SRP1
+SRP2
+PUSHB_1
+ 4
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzzzzz(]YBQ(]YBQ+2AuV(bcd\(bcd\(bcd\(bcd\zz
+Image: 8 15 0 1 2 0 256 768 64 64 0
+=]nmXJ:N0#J:RWOJUrB'JUrB'JH,ZM
 EndImage
 Fore
 SplineSet
@@ -24,24 +109,8 @@ SplineSet
  256 -171 l 25,11,-1
  256 768 l 29,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
-SplineSet
-256 768 m 29,0,-1
- 341 768 l 25,1,-1
- 341 512 l 25,2,-1
- 683 512 l 25,3,-1
- 768 427 l 25,4,-1
- 768 -171 l 25,5,-1
- 683 -171 l 25,6,-1
- 683 398 l 25,7,-1
- 654 427 l 25,8,-1
- 341 427 l 25,9,-1
- 341 -171 l 25,10,-1
- 256 -171 l 25,11,-1
- 256 768 l 29,0,-1
-EndSplineSet
-Layer: 3
 SplineSet
 256 768 m 29,0,-1
  341 768 l 25,1,-1

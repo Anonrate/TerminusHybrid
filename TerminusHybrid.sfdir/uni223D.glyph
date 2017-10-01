@@ -2,8 +2,15 @@ StartChar: uni223D
 Encoding: 8765 8765 1496
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 3 0 2 2 0 128 768 64 64 0
+=]nmXJ:PPq`pi[U
+EndImage
 Fore
+Refer: 1526 57594 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1526 57594 N 1 0 0 1 0 0 2
 EndChar

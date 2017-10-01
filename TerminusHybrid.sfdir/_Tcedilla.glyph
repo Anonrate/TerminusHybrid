@@ -3,46 +3,17 @@ Encoding: 354 354 290
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!#7]5PtP4!It3$!It3$!It3$!It3$!It3$!It3$!It3$!It3$!It0c!5JWN
-!It7Pz
+Image: 12 26 0 2 2 0 128 1280 64 64 0
+=]nmXJ:R[hs6p3m"oni-"oni-"oni-"oni-"oni-"oni-"oni-"oni-"on`*!rrQ+"oo,5"98E%
 EndImage
 Fore
 Refer: 1062 807 N 1 0 0 1 64 0 2
 Refer: 53 84 N 1 0 0 1 0 0 2
 Validated: 32773
 Layer: 2
-SplineSet
-484 0 m 6,0,-1
- 541 0 l 6,1,2
- 555 0 555 0 555 -14 c 6,3,-1
- 555 -128 l 6,4,5
- 555 -228 555 -228 455 -327 c 4,6,7
- 441 -341 441 -341 427 -327 c 6,8,-1
- 399 -299 l 6,9,10
- 385 -285 385 -285 399 -270 c 4,11,12
- 470 -199 470 -199 470 -128 c 6,13,-1
- 470 -14 l 6,14,15
- 470 0 470 0 484 0 c 6,0,-1
-EndSplineSet
-Refer: 53 84 N 1 0 0 1 0 0 2
-Layer: 3
-SplineSet
-507 0 m 258,0,-1
- 603 0 l 258,1,2
- 619 0 619 0 619 -16 c 258,3,-1
- 619 -128 l 258,4,5
- 619 -256 619 -256 491 -384 c 256,6,7
- 475 -400 475 -400 459 -384 c 258,8,-1
- 395 -320 l 258,9,10
- 379 -304 379 -304 395 -288 c 258,11,-1
- 427 -256 l 258,12,13
- 491 -192 491 -192 491 -128 c 258,14,-1
- 491 -16 l 258,15,16
- 491 0 491 0 507 0 c 258,0,-1
-EndSplineSet
+Refer: 1062 807 N 1 0 0 1 64 0 2
 Refer: 53 84 N 1 0 0 1 0 0 2
 Comment: "* FontForge states that U+-0162 is named +ACIA-Tcommaaccent+ACIA.  Version 10 of the Unicode Standard states and shows that U+-0162 is in fact actually Tcedilla."
 Colour: 6600

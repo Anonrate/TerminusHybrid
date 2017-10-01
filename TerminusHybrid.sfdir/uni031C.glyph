@@ -3,8 +3,85 @@ Encoding: 796 796 1344
 Width: 1024
 VWidth: 0
 Flags: W
-LayerCount: 5
+HStem: -384 64<452 512> -128 64<452 512>
+VStem: 320 128<-319 -129>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 11
+ 0
+ 0
+CALL
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_1
+ 2
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 24
+MDAP[rnd]
+PUSHB_1
+ 18
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_3
+ 7
+ 18
+ 10
+CALL
+PUSHB_4
+ 64
+ 7
+ 13
+ 9
+CALL
+PUSHB_1
+ 0
+SHP[rp2]
+PUSHB_1
+ 7
+SRP0
+PUSHB_1
+ 25
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Back
+Image: 3 5 0 1 2 0 320 -64 64 64 0
+=]nmXJ:QRn^qek.
+EndImage
 Fore
+SplineSet
+512 -64 m 265,0,-1
+ 512 -128 l 273,1,-1
+ 496 -128 l 258,2,3
+ 480 -128 480 -128 464 -144 c 256,4,5
+ 448 -160 448 -160 448 -176 c 258,6,-1
+ 448 -272 l 258,7,8
+ 448 -288 448 -288 464 -304 c 256,9,10
+ 480 -320 480 -320 496 -320 c 258,11,-1
+ 512 -320 l 265,12,-1
+ 512 -384 l 273,13,-1
+ 416 -384 l 258,14,15
+ 384 -384 384 -384 352 -352 c 256,16,17
+ 320 -320 320 -320 320 -288 c 258,18,-1
+ 320 -160 l 258,19,20
+ 320 -128 320 -128 352 -96 c 256,21,22
+ 384 -64 384 -64 416 -64 c 258,23,-1
+ 512 -64 l 265,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
 SplineSet
 512 -64 m 265,0,-1
  512 -128 l 273,1,-1

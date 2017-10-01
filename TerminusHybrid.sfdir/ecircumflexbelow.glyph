@@ -3,8 +3,16 @@ Encoding: 7705 7705 1124
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 12 18 0 2 2 0 128 896 64 64 0
+=]nmXJ:Kl"J)K7(^bEPX^bGfXs7!f(^];.Mi%TZM5O\XQ"oo/6)1V\e
+EndImage
 Fore
+Refer: 1065 813 S 1 0 0 1 0 0 2
+Refer: 70 101 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1065 813 S 1 0 0 1 0 0 2
 Refer: 70 101 N 1 0 0 1 0 0 2
 Colour: 6600

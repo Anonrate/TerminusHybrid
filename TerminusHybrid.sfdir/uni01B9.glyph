@@ -2,9 +2,16 @@ StartChar: uni01B9
 Encoding: 441 441 1359
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 20 0 2 2 0 128 960 64 64 0
+=]nmXJ:R[hs6st-GQ9i+*WQ]N#66u=It6GW^];.M^];.M^bEPXi,F2(5JR7!
+EndImage
 Fore
+Refer: 1358 440 N 1 0 0 1 0 -320 2
+Validated: 32769
+Layer: 2
 Refer: 1358 440 N 1 0 0 1 0 -320 2
 Colour: 6600
 EndChar

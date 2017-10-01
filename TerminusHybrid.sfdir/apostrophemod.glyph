@@ -3,14 +3,12 @@ Encoding: 700 700 332
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"!It3$"+UIR"onW'zzzzzzzzzzzzz
+Image: 1 1 0 1 2 0 0 64 64 64 0
+=]nmXJ:IV"
 EndImage
-Layer: 2
-Refer: 13 44 S 1 0 0 1 0 1365 2
-Layer: 3
-Refer: 13 44 S 1 0 0 1 0 1365 2
+Fore
+Validated: 1
 Colour: ff6600
 EndChar

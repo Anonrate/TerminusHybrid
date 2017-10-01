@@ -2,8 +2,15 @@ StartChar: congruent
 Encoding: 8773 8773 1491
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 3 0 2 2 0 128 1088 64 64 0
+=]nmXJ:N#$p+XMU
+EndImage
 Fore
+Refer: 1529 57597 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1529 57597 N 1 0 0 1 0 0 2
 EndChar

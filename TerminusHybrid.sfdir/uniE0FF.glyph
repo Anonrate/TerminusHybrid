@@ -2,10 +2,15 @@ StartChar: uniE0FF
 Encoding: 57599 57599 1531
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
 Back
-Refer: 1513 57581 S 1 0 0 1 0 0 2
+Image: 12 2 0 2 2 0 128 896 64 64 0
+=]nmXJ:R[hs6p!g
+EndImage
 Fore
+Refer: 1530 57598 N 1 0 0 1 0 192 2
+Validated: 32769
+Layer: 2
 Refer: 1530 57598 N 1 0 0 1 0 192 2
 EndChar

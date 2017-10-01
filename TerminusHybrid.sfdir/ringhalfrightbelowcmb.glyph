@@ -2,9 +2,16 @@ StartChar: ringhalfrightbelowcmb
 Encoding: 825 825 1338
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 3 5 0 1 2 0 512 -64 64 64 0
+=]nmXJ:QQc?sqmm
+EndImage
 Fore
+Refer: 1344 796 S -1 0 0 -1 1024 -448 2
+Validated: 32769
+Layer: 2
 Refer: 1344 796 S -1 0 0 -1 1024 -448 2
 Colour: 6666
 EndChar

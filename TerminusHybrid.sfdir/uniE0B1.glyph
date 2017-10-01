@@ -2,8 +2,105 @@ StartChar: uniE0B1
 Encoding: 57521 57521 744
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+DStem2: 16 1648 16 1520 0.707107 -0.707107<23.6881 1335.02> 880 624 16 -368 0.707107 0.707107<-1288.7 22.6274>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 19
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 6
+SRP0
+PUSHB_1
+ 7
+MDRP[grey]
+PUSHB_2
+ 1
+ 11
+MIRP[rp0,min,black]
+PUSHB_1
+ 0
+MDRP[grey]
+PUSHW_3
+ -11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 10
+SRP0
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHB_2
+ 15
+ 11
+MIRP[rp0,min,black]
+PUSHB_1
+ 16
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_8
+ 0
+ 1
+ 6
+ 7
+ 9
+ 10
+ 15
+ 16
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 0
+ 1
+ 6
+ 7
+ 9
+ 10
+ 15
+ 16
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:N.M^]<9mDu_it)upHK#64jV!Pe]n!,qot!#ttK!!`K/!"JuK!&sst!8mmn"+UUV%KIIK
@@ -25,26 +122,22 @@ SplineSet
  992 672 l 262,16,17
  1024 640 1024 640 992 608 c 262,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
 SplineSet
-1024 597 m 29,0,-1
- 0 -427 l 25,1,-1
- 0 -341 l 25,2,-1
- 939 597 l 25,3,-1
- 0 1536 l 25,4,-1
- 0 1621 l 25,5,-1
- 1024 597 l 29,0,-1
-EndSplineSet
-Layer: 3
-SplineSet
-1024 597 m 29,0,-1
- 0 -427 l 25,1,-1
- 0 -341 l 25,2,-1
- 939 597 l 25,3,-1
- 0 1536 l 25,4,-1
- 0 1621 l 25,5,-1
- 1024 597 l 29,0,-1
+992 608 m 262,0,-1
+ 16 -368 l 262,1,2
+ 0 -384 0 -384 0 -368 c 262,3,-1
+ 0 -272 l 262,4,5
+ 0 -256 0 -256 16 -240 c 262,6,-1
+ 880 624 l 262,7,8
+ 896 640 896 640 880 656 c 262,9,-1
+ 16 1520 l 262,10,11
+ 0 1536 0 1536 0 1552 c 262,12,-1
+ 0 1648 l 262,13,14
+ 0 1664 0 1664 16 1648 c 262,15,-1
+ 992 672 l 262,16,17
+ 1024 640 1024 640 992 608 c 262,0,-1
 EndSplineSet
 Colour: ff00ff
 EndChar

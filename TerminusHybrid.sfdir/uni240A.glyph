@@ -3,10 +3,10 @@ Encoding: 9226 9226 560
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!$C,?iXR7?iXR7?iXR7It3$!z"8i9!!rrE'"7QE^!rrE'!rr<$zzz
+Image: 1 1 0 1 2 0 0 64 64 64 0
+=]nmXJ:IV"
 EndImage
 Fore
 Validated: 1

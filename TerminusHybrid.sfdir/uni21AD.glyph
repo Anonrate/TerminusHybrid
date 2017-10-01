@@ -3,12 +3,13 @@ Encoding: 8621 8621 818
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 16 10 0 2 2 0 64 960 64 64 0
+=]nmXJ:J%^*&ontE";pJs8R$J3#int$nqY]
+EndImage
 Fore
-Refer: 470 8596 N 1 0 0 1 0 0 2
-Validated: 32773
+Refer: 470 8596 S 0.704735 0 0 0.822443 23.4485 385.136 2
 Layer: 2
-Refer: 470 8596 N 1 0 0 1 0 0 2
-Layer: 3
 Refer: 470 8596 N 1 0 0 1 0 0 2
 EndChar

@@ -3,43 +3,61 @@ Encoding: 57581 57581 1513
 Width: 1024
 VWidth: 0
 Flags: W
-LayerCount: 5
+HStem: 576 128<448 576>
+VStem: 448 128<576 704>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-SplineSet
-256 1664 m 29
- 256 -384 l 1309
-128 1664 m 29
- 128 -384 l 1309
-576 1664 m 29
- 576 -384 l 1309
-896 1664 m 29
- 896 -384 l 1309
-0 576 m 285
- 1024 576 l 1309
-0 512 m 285
- 1024 512 l 1309
-0 704 m 285
- 1024 704 l 1309
-0 768 m 285
- 1024 768 l 1309
-0 640 m 285
- 1024 640 l 1309
-0 384 m 285
- 1024 384 l 1309
-0 896 m 285
- 1024 896 l 1309
-448 1664 m 29
- 448 -384 l 1309
-640 1664 m 29
- 640 -384 l 1309
-512 1664 m 29
- 512 -384 l 1309
-384 1664 m 29
- 384 -384 l 1309
-768 1664 m 29
- 768 -384 l 1309
-EndSplineSet
+Image: 2 2 0 1 2 0 448 704 64 64 0
+=]nmXJ:PGN
+EndImage
 Fore
+SplineSet
+464 704 m 2,0,-1
+ 560 704 l 2,1,2
+ 576 704 576 704 576 688 c 2,3,-1
+ 576 592 l 2,4,5
+ 576 576 576 576 560 576 c 2,6,-1
+ 464 576 l 2,7,8
+ 448 576 448 576 448 592 c 2,9,-1
+ 448 688 l 2,10,11
+ 448 704 448 704 464 704 c 2,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
 SplineSet
 464 704 m 2,0,-1
  560 704 l 2,1,2

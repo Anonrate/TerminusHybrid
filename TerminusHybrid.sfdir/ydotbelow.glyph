@@ -3,7 +3,11 @@ Encoding: 7925 7925 1320
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 14 20 0 2 2 0 128 896 64 64 0
+=]nmXJ:PEh^bEPX^bEPX^bEPX^bEPX^bEPXi%TZM5O\Y,!&+ClJ)Gh#!"8i-
+EndImage
 Fore
 SplineSet
 912 -256 m 262,0,-1
@@ -18,5 +22,18 @@ SplineSet
 EndSplineSet
 Refer: 90 121 N 1 0 0 1 0 0 2
 Validated: 35841
+Layer: 2
+SplineSet
+912 -256 m 262,0,-1
+ 1008 -256 l 262,1,2
+ 1024 -256 1024 -256 1024 -272 c 262,3,-1
+ 1024 -368 l 258,4,5
+ 1024 -384 1024 -384 1008 -384 c 258,6,-1
+ 912 -384 l 258,7,8
+ 896 -384 896 -384 896 -368 c 258,9,-1
+ 896 -272 l 262,10,11
+ 896 -256 896 -256 912 -256 c 262,0,-1
+EndSplineSet
+Refer: 90 121 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

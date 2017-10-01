@@ -3,11 +3,10 @@ Encoding: 9508 9508 597
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IZN!It3$!It3$!It3$!It3$!It3$!It3$!It3$s+(-"!It3$!It3$!It3$!It3$!It3$
-!It3$!It3$!It.M
+Image: 1 1 0 1 2 0 0 64 64 64 0
+=]nmXJ:IV"
 EndImage
 Fore
 Validated: 1

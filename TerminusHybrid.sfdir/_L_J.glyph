@@ -3,15 +3,16 @@ Encoding: 455 455 886
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 14 20 0 2 2 0 128 1280 64 64 0
+=]nmXJ:PH5_#1u%^bEPX^bEPX^bEPX^bEPX^bEPX^bF\#i%X(Cn8SEss6p!g
+EndImage
 Fore
 Refer: 43 74 S 1 0 0 1 43 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
 Validated: 32773
 Layer: 2
-Refer: 43 74 S 1 0 0 1 43 0 2
-Refer: 45 76 N 1 0 0 1 0 0 2
-Layer: 3
 Refer: 43 74 S 1 0 0 1 43 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
 Colour: ff0000

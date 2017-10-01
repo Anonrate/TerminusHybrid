@@ -2,11 +2,142 @@ StartChar: arrowleft
 Encoding: 8592 8592 466
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 576 128<288 1024>
+DStem2: 288 576 32 640 0.707107 -0.707107<0 271.529> 32 640 288 704 0.707107 0.707107<226.274 497.803>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_1
+ 6
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 9
+MDAP[rnd]
+PUSHB_1
+ 2
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 7
+SHP[rp2]
+PUSHB_1
+ 10
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 1
+ 2
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 2
+ 1
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 1
+SRP0
+PUSHB_1
+ 0
+MDRP[grey]
+SFVTCA[x-axis]
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 3
+MDRP[grey]
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 8
+ 7
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 7
+ 8
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ -11585
+ -11585
+ 21
+CALL
+SPVFS
+PUSHB_2
+ 0
+ 1
+SFVTL[parallel]
+PUSHB_1
+ 8
+SRP0
+PUSHB_1
+ 0
+MDRP[grey]
+SFVTCA[x-axis]
+PUSHB_1
+ 7
+SRP0
+PUSHB_1
+ 6
+MDRP[grey]
+SPVTCA[x-axis]
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_3
+ 0
+ 3
+ 6
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzz!!!*$#6556)uqquJ,Xrs2ujou%KH_6!rr<$zzzzz
+Image: 15 10 0 2 2 0 64 960 64 64 0
+=]nmXJ:J%.)uqquDufq;s8Hs;2ujou$ig8-
 EndImage
 Fore
 SplineSet
@@ -21,32 +152,19 @@ SplineSet
  384 288 l 29,8,-1
  32 640 l 25,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
 SplineSet
-0 640 m 25,0,-1
- 327 967 l 25,1,-1
- 327 839 l 25,2,-1
- 171 683 l 25,3,-1
- 768 683 l 25,4,-1
- 768 597 l 25,5,-1
- 171 597 l 25,6,-1
- 327 441 l 25,7,-1
- 327 313 l 25,8,-1
- 0 640 l 25,0,-1
-EndSplineSet
-Layer: 3
-SplineSet
-0 640 m 25,0,-1
- 327 967 l 25,1,-1
- 327 839 l 25,2,-1
- 171 683 l 25,3,-1
- 768 683 l 25,4,-1
- 768 597 l 25,5,-1
- 171 597 l 25,6,-1
- 327 441 l 25,7,-1
- 327 313 l 25,8,-1
- 0 640 l 25,0,-1
+32 640 m 25,0,-1
+ 384 992 l 25,1,-1
+ 480 896 l 25,2,-1
+ 288 704 l 25,3,-1
+ 1024 704 l 25,4,-1
+ 1024 576 l 25,5,-1
+ 288 576 l 25,6,-1
+ 480 384 l 25,7,-1
+ 384 288 l 29,8,-1
+ 32 640 l 25,0,-1
 EndSplineSet
 Colour: 8080
 EndChar

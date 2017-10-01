@@ -2,7 +2,8 @@ StartChar: nsmallrightleg
 Encoding: 544 544 1013
 Width: 144
 VWidth: 0
-LayerCount: 5
+Flags: MW
+LayerCount: 3
 Fore
 Validated: 1
 Comment: "The naming convetion for this is probably wrong as I just put the words together myself."

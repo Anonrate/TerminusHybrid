@@ -2,9 +2,17 @@ StartChar: uni2242
 Encoding: 8770 8770 1494
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 7 0 2 2 0 128 896 64 64 0
+=]nmXJ:R[hs6p!g!!%C#p+XMU
+EndImage
 Fore
+Refer: 1528 57596 S 1 0 0 1 0 0 2
+Refer: 1531 57599 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
 Refer: 1528 57596 S 1 0 0 1 0 0 2
 Refer: 1531 57599 N 1 0 0 1 0 0 2
 EndChar

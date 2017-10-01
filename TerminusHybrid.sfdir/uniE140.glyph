@@ -2,7 +2,9 @@ StartChar: uniE140
 Encoding: 57664 57664 1596
 Width: 2048
 VWidth: 0
-LayerCount: 5
+LayerCount: 3
 Back
 Refer: 1513 57581 S 1 0 0 1 0 0 2
+Fore
+Validated: 1
 EndChar

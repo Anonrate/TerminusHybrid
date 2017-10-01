@@ -2,9 +2,16 @@ StartChar: uni01BA
 Encoding: 442 442 1378
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 12 20 0 2 2 0 128 960 64 64 0
+=]nmXJ:R[hs6p$H!T4'q#Cm<b%KITd+5d-<!&+C,!&+C,^bEPXi,F2(5JR7!
+EndImage
 Fore
+Refer: 324 439 S 1 0 0 1 0 -320 2
+Validated: 32769
+Layer: 2
 Refer: 324 439 S 1 0 0 1 0 -320 2
 Colour: 6600
 EndChar

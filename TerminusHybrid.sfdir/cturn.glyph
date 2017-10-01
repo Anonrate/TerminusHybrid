@@ -3,14 +3,16 @@ Encoding: 596 596 1020
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzzz!!!Q!+8@f80FRpi!"8i9!"8i9!":Oi3#j%8&+BQ!zzz
+Image: 12 14 0 2 2 0 128 896 64 64 0
+=]nmXJ:Kl"J)K7(^b>aB!&+C,!&+C,!&22Bi,F2(5JR7!
 EndImage
 Fore
 Refer: 68 99 S -1 0 0 -1 1024 896 2
 Validated: 32769
+Layer: 2
+Refer: 68 99 S -1 0 0 -1 1024 896 2
 Comment: "U+-0063 LATIN SMALL LETTER C rotated 180 degrees"
 Colour: 6600
 EndChar

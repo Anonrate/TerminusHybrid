@@ -2,7 +2,9 @@ StartChar: slash
 Encoding: 47 47 16
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: W
+HStem: 0 21G<136 248> 1260 20G<712.5 824.5>
+DStem2: 135 16 263 16 0.411215 0.911538<15.0229 1406.93>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -71,10 +73,10 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!!!9!#P\i!&+C\!+5fB!5JVc!It7P!rrN*"oo&3$ih+E(]Z5i0E;(Qzzz
+Image: 11 20 0 2 2 0 128 1280 64 64 0
+=]nmXJ:IW-!5JTM!It3$!It7P!rrN*"oo&3$ih+E(]Z5i0E<d,?iXR7^]4?7
 EndImage
 Fore
 SplineSet
@@ -90,18 +92,6 @@ SplineSet
 EndSplineSet
 Validated: 19457
 Layer: 2
-SplineSet
-811 1180 m 2,0,-1
- 299 14 l 2,1,2
- 293 0 293 0 284 0 c 2,3,-1
- 228 0 l 6,4,5
- 206.852487136 -2.27373675443e-13 206.852487136 -2.27373675443e-13 213 14 c 2,6,-1
- 725 1180 l 6,7,8
- 732 1195 732 1195 740 1195 c 2,9,-1
- 796 1195 l 2,10,11
- 818 1195 818 1195 811 1180 c 2,0,-1
-EndSplineSet
-Layer: 3
 SplineSet
 720 1280 m 258,0,-1
  816 1280 l 258,1,2

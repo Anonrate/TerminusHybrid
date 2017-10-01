@@ -2,9 +2,16 @@ StartChar: uni031E
 Encoding: 798 798 1346
 Width: 1024
 VWidth: 0
-Flags: W
-LayerCount: 5
+Flags: MW
+LayerCount: 3
+Back
+Image: 6 6 0 1 2 0 320 0 64 64 0
+=]nmXJ:RRq0JG17
+EndImage
 Fore
+Refer: 1345 797 S -1 0 0 -1 1024 -400 2
+Validated: 32769
+Layer: 2
 Refer: 1345 797 S -1 0 0 -1 1024 -400 2
 Colour: 6666
 EndChar

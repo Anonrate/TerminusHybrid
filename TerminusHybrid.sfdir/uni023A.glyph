@@ -4,13 +4,16 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 16 20 0 2 2 0 0 1280 64 64 0
+=]nmXJ:J1"+8@f:0FoiI0H;c/0RPS@1!Dl[5Q!\R4:F1XE")4EE""E/0FRp]
+EndImage
 Fore
 Refer: 1333 824 S 1 0 0 1 0 0 2
 Refer: 34 65 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 34 65 N 1 0 0 1 0 0 2
-Layer: 3
+Refer: 1333 824 S 1 0 0 1 0 0 2
 Refer: 34 65 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

@@ -2,11 +2,182 @@ StartChar: uni2096
 Encoding: 8342 8342 449
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 85 86<341 370>
+VStem: 256 85<-171 85 171 768>
+DStem2: 370 171 484 171 0.707107 0.707107<80.6102 482.247> 484 171 455 85 0.705863 -0.708348<40.4479 402.344>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_1
+ 10
+MDAP[rnd]
+PUSHB_1
+ 9
+SHP[rp1]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_3
+ 10
+ 3
+ 10
+CALL
+PUSHB_4
+ 64
+ 10
+ 12
+ 9
+CALL
+PUSHB_3
+ 3
+ 10
+ 10
+CALL
+PUSHB_4
+ 64
+ 3
+ 0
+ 9
+CALL
+PUSHB_1
+ 4
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 13
+MDAP[rnd]
+PUSHB_1
+ 12
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 11
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+SHP[rp2]
+PUSHB_1
+ 11
+SRP0
+PUSHB_3
+ 12
+ 5
+ 16
+CALL
+PUSHB_1
+ 7
+SHP[rp2]
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 4
+ 5
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 5
+ 4
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTCA[x-axis]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 3
+MDRP[grey]
+SFVTPV
+PUSHB_1
+ 5
+SRP0
+PUSHB_1
+ 6
+MDRP[grey]
+PUSHB_1
+ 38
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 8
+ 7
+MDAP[no-rnd]
+MDRP[min,black]
+SVTCA[y-axis]
+PUSHB_2
+ 7
+ 8
+MDAP[no-rnd]
+MDRP[min,black]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ -11606
+ -11565
+ 21
+CALL
+SPVFS
+SFVTCA[x-axis]
+PUSHB_1
+ 8
+SRP0
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHB_2
+ 6
+ 5
+SFVTL[parallel]
+PUSHB_1
+ 7
+SRP0
+PUSHB_1
+ 6
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_1
+ 6
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_3
+ 3
+ 6
+ 9
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzzzzz$ig\9$ig\9$oeZ7%,_T1%tG1@%DWD1$ucV7zz
+Image: 8 15 0 1 2 0 256 768 64 64 0
+=]nmXJ:N0#J:N3&KSY`Zpl'r[J,fQL
 EndImage
 Fore
 SplineSet
@@ -25,25 +196,8 @@ SplineSet
  256 -171 l 25,12,-1
  256 768 l 25,0,-1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 Layer: 2
-SplineSet
-256 768 m 25,0,-1
- 341 768 l 25,1,-1
- 341 171 l 25,2,-1
- 370 171 l 25,3,-1
- 711 512 l 25,4,-1
- 768 455 l 25,5,-1
- 484 171 l 25,6,-1
- 768 -114 l 25,7,-1
- 711 -171 l 25,8,-1
- 455 85 l 29,9,-1
- 341 85 l 25,10,-1
- 341 -171 l 25,11,-1
- 256 -171 l 25,12,-1
- 256 768 l 25,0,-1
-EndSplineSet
-Layer: 3
 SplineSet
 256 768 m 25,0,-1
  341 768 l 25,1,-1

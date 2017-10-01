@@ -4,15 +4,15 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 19 10 0 3 2 0 64 960 64 64 0
+=]nmXJ:J'D!$/iT4+I<T!!*'!i;`i8G5qV)J,gV*!"?XC
+EndImage
 Fore
-Refer: 466 8592 N 1 0 0 1 256 0 2
+Refer: 466 8592 S 1 0 0 1 -14 417 2
 Refer: 466 8592 N 1 0 0 1 0 0 2
-Validated: 32773
 Layer: 2
-Refer: 466 8592 N 1 0 0 1 256 0 2
-Refer: 466 8592 N 1 0 0 1 0 0 2
-Layer: 3
 Refer: 466 8592 N 1 0 0 1 256 0 2
 Refer: 466 8592 N 1 0 0 1 0 0 2
 EndChar

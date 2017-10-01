@@ -2,13 +2,84 @@ StartChar: logicalnot
 Encoding: 172 172 108
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 768 128<128 768>
+VStem: 768 128<384 768>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 2
+ 0
+CALL
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_3
+ 13
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 13
+ 7
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_3
+ 9
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 9
+ 15
+ 9
+CALL
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 19
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zzzzz!!#7]5PtKi!"8i9!"8i9!"8i-zzzzzz
+Image: 12 8 0 2 2 0 128 896 64 64 0
+=]nmXJ:R[hs6p"B!&+C,!&+C,!&+BQ
 EndImage
 Fore
+SplineSet
+144 896 m 258,0,-1
+ 880 896 l 258,1,2
+ 896 896 896 896 896 880 c 258,3,-1
+ 896 400 l 258,4,5
+ 896 384 896 384 880 384 c 258,6,-1
+ 784 384 l 258,7,8
+ 768 384 768 384 768 400 c 258,9,-1
+ 768 752 l 258,10,11
+ 768 768 768 768 752 768 c 258,12,-1
+ 144 768 l 258,13,14
+ 128 768 128 768 128 784 c 258,15,-1
+ 128 880 l 258,16,17
+ 128 896 128 896 144 896 c 258,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
 SplineSet
 144 896 m 258,0,-1
  880 896 l 258,1,2

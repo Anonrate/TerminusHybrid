@@ -3,20 +3,19 @@ Encoding: 189 189 125
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1664 64 64 0
-=]nmXJ:IV"zz!!!i92un1-(_.B&(cW@O(uQ:I"+UUV%X]8q36#pW?jm#P!&+D%!<)ruzzz
+Image: 16 26 0 2 2 0 0 1728 64 64 0
+=]nmXJ:JI:(]ZMqGQ;sg(]YBS(^Clf(`XSVIW0bo!Peg:#QG:s*5abRE!P;25TBb`!,qr<!<3$!
 EndImage
 Fore
 Refer: 1333 824 N 1 0 0 1 0 192 2
 Refer: 114 178 N 1 0 0 1 256 -736 2
 Refer: 121 185 N 1 0 0 1 -256 160 2
+Validated: 32769
 Layer: 2
-Refer: 114 178 S 1 0 0 1 0 -796 2
-Refer: 121 185 N 1 0 0 1 0 0 2
-Layer: 3
-Refer: 114 178 S 1 0 0 1 0 -796 2
-Refer: 121 185 N 1 0 0 1 0 0 2
+Refer: 1333 824 N 1 0 0 1 0 192 2
+Refer: 114 178 N 1 0 0 1 256 -736 2
+Refer: 121 185 N 1 0 0 1 -256 160 2
 Colour: 6600
 EndChar

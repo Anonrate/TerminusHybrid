@@ -3,9 +3,14 @@ Encoding: 7911 7911 1306
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 5
+LayerCount: 3
+Back
+Image: 12 14 0 2 2 0 128 896 64 64 0
+=]nmXJ:PEh^bEPX^bEPX^bEPX^bEPX^bEPXi%TZM5O\XQ
+EndImage
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 2
-Validated: 32769
+Layer: 2
+Refer: 86 117 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

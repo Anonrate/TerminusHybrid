@@ -2,8 +2,46 @@ StartChar: minusmod
 Encoding: 727 727 954
 Width: 1024
 VWidth: 0
-Flags: MW
-LayerCount: 5
+Flags: W
+HStem: 576 128<320 704>
+VStem: 320 384<576 704>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 10
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 7
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Back
+Image: 6 2 0 1 2 0 320 704 64 64 0
+=]nmXJ:RRq
+EndImage
 Fore
 SplineSet
 320 592 m 262,0,-1
@@ -16,9 +54,18 @@ SplineSet
  336 576 l 262,10,11
  320 576 320 576 320 592 c 262,0,-1
 EndSplineSet
+Validated: 19457
 Layer: 2
-Refer: 14 45 N 1 0 0 1 0 0 2
-Layer: 3
-Refer: 14 45 N 1 0 0 1 0 0 2
+SplineSet
+320 592 m 262,0,-1
+ 320 688 l 262,1,2
+ 320 704 320 704 336 704 c 262,3,-1
+ 688 704 l 258,4,5
+ 704 704 704 704 704 688 c 258,6,-1
+ 704 592 l 258,7,8
+ 704 576 704 576 688 576 c 258,9,-1
+ 336 576 l 262,10,11
+ 320 576 320 576 320 592 c 262,0,-1
+EndSplineSet
 Colour: ff6600
 EndChar
