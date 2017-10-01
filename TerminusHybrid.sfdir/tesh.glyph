@@ -2,8 +2,8 @@ StartChar: tesh
 Encoding: 679 679 959
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 71 102 S 1 0 0 1 171 0 2
 Refer: 85 116 N 1 0 0 1 -171 0 2
@@ -14,4 +14,5 @@ Refer: 85 116 N 1 0 0 1 -171 0 2
 Layer: 3
 Refer: 71 102 S 1 0 0 1 171 0 2
 Refer: 85 116 N 1 0 0 1 -171 0 2
+Colour: ff0000
 EndChar

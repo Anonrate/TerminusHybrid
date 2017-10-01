@@ -2,16 +2,16 @@ StartChar: wcircumflex
 Encoding: 373 373 308
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!%M"2G0"%WDCJ!!"\]0FTWD0FT[p0oRiG0oRiG0oRiG3Lh2d&+BQ!zzz
 EndImage
 Fore
-Refer: 1045 770 S 1 0 0 1 0 -320 2
+Refer: 1031 770 S 1 0 0 1 0 -320 2
 Refer: 88 119 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Layer: 2
 SplineSet
 477 1202 m 2,0,1

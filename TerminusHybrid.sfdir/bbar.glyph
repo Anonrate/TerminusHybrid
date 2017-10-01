@@ -2,13 +2,15 @@ StartChar: bbar
 Encoding: 384 384 851
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 5
 Fore
+Refer: 1330 821 S 1 0 0 1 -224 0 2
 Refer: 67 98 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 67 98 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 67 98 N 1 0 0 1 0 0 2
+Colour: 6600
 EndChar

@@ -1,11 +1,11 @@
 StartChar: Ecircumflexacute
-Encoding: 7870 7870 1285
+Encoding: 7870 7870 1271
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: 6600
 EndChar

@@ -127,7 +127,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!#7]5PtL$!&sst!8mmn"+UUV%KIIK2ul2@5PtK]zzz
@@ -212,5 +212,5 @@ SplineSet
  128 768 128 768 128 784 c 2,0,-1
 EndSplineSet
 Comment: "The top right and bottom left don't +ACIA-Exactly+ACIA follow my conventions for shaping.  Refer to U+-0032 DIGIT TWO for similarity."
-Colour: 8000
+Colour: 6600
 EndChar

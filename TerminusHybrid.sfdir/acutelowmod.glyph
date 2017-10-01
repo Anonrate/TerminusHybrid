@@ -1,10 +1,8 @@
 StartChar: acutelowmod
-Encoding: 719 719 1031
+Encoding: 719 719 1028
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
-Fore
-Refer: 1025 715 S 1 0 0 1 0 -1664 2
-Validated: 32769
+Flags: MW
+LayerCount: 5
+Colour: ff6600
 EndChar

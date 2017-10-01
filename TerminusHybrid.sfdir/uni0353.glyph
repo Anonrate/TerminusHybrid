@@ -1,10 +1,10 @@
 StartChar: uni0353
-Encoding: 851 851 1092
+Encoding: 851 851 1078
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1087 829 N 1 0 0 1 0 0 2
-Validated: 32769
+Refer: 1073 829 N 1 0 0 1 0 0 2
+Colour: 6666
 EndChar

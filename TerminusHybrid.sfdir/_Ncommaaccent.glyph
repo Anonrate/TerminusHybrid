@@ -2,17 +2,16 @@ StartChar: Ncommaaccent
 Encoding: 325 325 261
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!"\]0FTWD0FTWD3".nX4q'@Y1Q4'40^LK@0K_$/0FTWD0FTWD0FRp]!It3$
 "+UIR"onW'
 EndImage
 Fore
-Refer: 1075 806 S 1 0 0 1 0 0 2
+Refer: 1061 806 S 1 0 0 1 0 0 2
 Refer: 47 78 N 1 0 0 1 0 0 2
-Validated: 98305
 Layer: 2
 SplineSet
 441 -85 m 6,0,-1

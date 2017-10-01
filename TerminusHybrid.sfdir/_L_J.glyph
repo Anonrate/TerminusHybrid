@@ -2,8 +2,8 @@ StartChar: LJ
 Encoding: 455 455 886
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 43 74 S 1 0 0 1 43 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
@@ -14,4 +14,5 @@ Refer: 45 76 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 43 74 S 1 0 0 1 43 0 2
 Refer: 45 76 N 1 0 0 1 0 0 2
+Colour: ff0000
 EndChar

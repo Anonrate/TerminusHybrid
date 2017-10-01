@@ -210,7 +210,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!"\]0FTWD(`4),(`3Z8$nr)D#%.XC"2G#S"2Fm:zzz
@@ -287,5 +287,5 @@ SplineSet
  512 -16 512 -16 480 16 c 258,0,-1
 EndSplineSet
 Comment: "U+-0078 LATIN SMALL LETTER X, U+-0056 LATIN CAPITAL LETTER V, U+-0058 LATIN CAPITAL LETTER X, U+-0059 LATIN CAPITAL LETTER Y and partially U+-004D LATIN CAPITAL LETTER M are heavily based off this Glyph."
-Colour: 8000
+Colour: 6600
 EndChar

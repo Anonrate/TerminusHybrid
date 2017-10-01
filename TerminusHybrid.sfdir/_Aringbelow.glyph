@@ -1,11 +1,11 @@
 StartChar: Aringbelow
-Encoding: 7680 7680 1115
+Encoding: 7680 7680 1101
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1074 805 S 1 0 0 1 0 0 2
+Refer: 1060 805 S 1 0 0 1 0 0 2
 Refer: 34 65 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

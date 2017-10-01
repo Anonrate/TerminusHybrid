@@ -3,26 +3,11 @@ Encoding: 701 701 333
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"!It3$!Pe]N!+5d,zzzzzzzzzzzzz
 EndImage
-Fore
-SplineSet
-560 1600 m 258,0,1
- 576 1600 576 1600 576 1584 c 258,2,-1
- 576 1568 l 258,3,4
- 576 1472 576 1472 672 1376 c 256,5,6
- 688 1360 688 1360 672 1344 c 258,7,-1
- 608 1280 l 258,8,9
- 592 1264 592 1264 576 1280 c 256,10,11
- 448 1408 448 1408 448 1536 c 258,12,-1
- 448 1584 l 258,13,14
- 448 1600 448 1600 464 1600 c 258,15,-1
- 560 1600 l 258,0,1
-EndSplineSet
-Validated: 3073
 Layer: 2
 SplineSet
 498 1621 m 6,0,1
@@ -51,4 +36,5 @@ SplineSet
  427 1621 427 1621 441 1621 c 6,15,-1
  498 1621 l 6,0,1
 EndSplineSet
+Colour: ff6600
 EndChar

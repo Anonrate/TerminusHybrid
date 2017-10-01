@@ -3,16 +3,14 @@ Encoding: 711 711 335
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"%WD[2"2Fqfzzzzzzzzzzzzzz
 EndImage
-Fore
-Refer: 334 710 N -1 0 0 -1 1024 2960 2
-Validated: 32769
 Layer: 2
 Refer: 334 710 N -1 0 0 -1 981 2923 2
 Layer: 3
 Refer: 334 710 N -1 0 0 -1 981 2923 2
+Colour: ff6600
 EndChar

@@ -1,9 +1,9 @@
 StartChar: uni030C
-Encoding: 780 780 1059
+Encoding: 780 780 1045
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
 SplineSet
 544 1376 m 2,0,1
@@ -24,4 +24,5 @@ SplineSet
  544 1376 l 2,0,1
 EndSplineSet
 Validated: 3073
+Colour: 6666
 EndChar

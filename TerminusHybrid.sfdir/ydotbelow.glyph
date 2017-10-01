@@ -1,9 +1,9 @@
 StartChar: ydotbelow
-Encoding: 7925 7925 1334
+Encoding: 7925 7925 1320
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 SplineSet
 912 -256 m 262,0,-1
@@ -17,6 +17,6 @@ SplineSet
  896 -256 896 -256 912 -256 c 262,0,-1
 EndSplineSet
 Refer: 90 121 N 1 0 0 1 0 0 2
-Validated: 101377
+Validated: 35841
 Colour: 6600
 EndChar

@@ -1,0 +1,20 @@
+StartChar: strokeshortoverlaycmb
+Encoding: 821 821 1330
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 5
+Fore
+SplineSet
+240 1152 m 258,0,-1
+ 784 1152 l 258,1,2
+ 800 1152 800 1152 800 1136 c 258,3,-1
+ 800 1040 l 258,4,5
+ 800 1024 800 1024 784 1024 c 258,6,-1
+ 240 1024 l 258,7,8
+ 224 1024 224 1024 224 1040 c 258,9,-1
+ 224 1136 l 258,10,11
+ 224 1152 224 1152 240 1152 c 258,0,-1
+EndSplineSet
+Colour: 6666
+EndChar

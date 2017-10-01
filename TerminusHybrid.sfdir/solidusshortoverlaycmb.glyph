@@ -1,0 +1,20 @@
+StartChar: solidusshortoverlaycmb
+Encoding: 823 823 1332
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 5
+Fore
+SplineSet
+272 496 m 258,0,-1
+ 656 880 l 258,1,2
+ 672 896 672 896 688 880 c 258,3,-1
+ 752 816 l 258,4,5
+ 768 800 768 800 752 784 c 258,6,-1
+ 368 400 l 258,7,8
+ 352 384 352 384 336 400 c 258,9,-1
+ 272 464 l 258,10,11
+ 256 480 256 480 272 496 c 258,0,-1
+EndSplineSet
+Colour: 6666
+EndChar

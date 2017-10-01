@@ -2,8 +2,8 @@ StartChar: schwa
 Encoding: 601 601 917
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!",15PQoP!"8i9!";*i5Q!2D0FTWD3#j%8&+BQ!zzz
@@ -16,4 +16,5 @@ Refer: 70 101 S -1 0 0 -1 939 939 2
 Layer: 3
 Refer: 70 101 S -1 0 0 -1 939 939 2
 Comment: "U+-0065 LATIN SMALL LETTER E rotated 180 degrees"
+Colour: 6600
 EndChar

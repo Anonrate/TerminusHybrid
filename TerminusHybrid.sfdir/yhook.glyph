@@ -2,13 +2,14 @@ StartChar: yhook
 Encoding: 436 436 931
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
+Refer: 1341 777 N 1 0 0 1 448 -384 2
 Refer: 90 121 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 90 121 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 90 121 N 1 0 0 1 0 0 2
+Colour: 6600
 EndChar

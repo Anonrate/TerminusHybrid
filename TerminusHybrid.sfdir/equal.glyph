@@ -3,7 +3,7 @@ Encoding: 61 61 30
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!#7]5PtK]z!!#7]5PtK]zzzzzz
@@ -18,5 +18,5 @@ Refer: 14 45 N 1 0 0 1 0 171 2
 Layer: 3
 Refer: 14 45 S 1 0 0 1 0 -192 2
 Refer: 14 45 N 1 0 0 1 0 192 2
-Colour: 8000
+Colour: 6600
 EndChar

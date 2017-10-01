@@ -1,11 +1,11 @@
 StartChar: Rlinebelow
-Encoding: 7774 7774 1195
+Encoding: 7774 7774 1181
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1083 817 S 1 0 0 1 0 0 2
+Refer: 1069 817 S 1 0 0 1 0 0 2
 Refer: 51 82 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

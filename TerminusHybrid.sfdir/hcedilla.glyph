@@ -1,11 +1,11 @@
 StartChar: hcedilla
-Encoding: 7721 7721 1154
+Encoding: 7721 7721 1140
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1076 807 S 1 0 0 1 0 0 2
+Refer: 1062 807 S 1 0 0 1 0 0 2
 Refer: 73 104 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

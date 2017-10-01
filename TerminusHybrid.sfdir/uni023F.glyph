@@ -2,8 +2,8 @@ StartChar: uni023F
 Encoding: 575 575 918
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 84 115 N 1 0 0 1 0 0 2
 Validated: 32769
@@ -11,4 +11,5 @@ Layer: 2
 Refer: 84 115 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 84 115 N 1 0 0 1 0 0 2
+Colour: 6600
 EndChar

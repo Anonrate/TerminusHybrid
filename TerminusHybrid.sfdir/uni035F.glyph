@@ -1,10 +1,11 @@
 StartChar: uni035F
-Encoding: 863 863 1099
+Encoding: 863 863 1085
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
-Refer: 1083 817 S 1 0 0 1 0 -256 2
-Refer: 1083 817 N 1 0 0 1 0 0 2
+Refer: 1069 817 S 1 0 0 1 0 -256 2
+Refer: 1069 817 N 1 0 0 1 0 0 2
+Colour: 6666
 EndChar

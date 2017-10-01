@@ -2,16 +2,15 @@ StartChar: uacute
 Encoding: 250 250 186
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!"<!8mmn"+U@O!!"\]0FTWD0FTWD0FTWD0FTWD0FTWD3"-o,&,ZD-zzz
 EndImage
 Fore
-Refer: 1044 769 S 1 0 0 1 0 -320 2
+Refer: 1030 769 S 1 0 0 1 0 -320 2
 Refer: 86 117 N 1 0 0 1 0 0 2
-Validated: 98305
 Layer: 2
 SplineSet
 740 1266 m 2,0,1
@@ -38,5 +37,5 @@ SplineSet
  740 1266 l 2,0,1
 EndSplineSet
 Refer: 86 117 N 1 0 0 1 0 0 2
-Colour: 7300
+Colour: 6600
 EndChar

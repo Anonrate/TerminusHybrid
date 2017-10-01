@@ -1,10 +1,10 @@
 StartChar: uni0311
-Encoding: 785 785 1063
+Encoding: 785 785 1049
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
-Refer: 1049 774 S -1 0 0 -1 1024 2944 2
-Validated: 32769
+Refer: 1035 774 N -1 0 0 -1 1024 2944 2
+Colour: 6666
 EndChar

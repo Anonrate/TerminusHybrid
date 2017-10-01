@@ -2,18 +2,19 @@ StartChar: oslash
 Encoding: 248 248 184
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!!Q'+9"5>0K_%:0^LO<1Q47$4q'O^3#mGCn*g;Wzzz
 EndImage
 Fore
+Refer: 1333 824 N 1 0 0 1 0 -192 2
 Refer: 80 111 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 80 111 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 80 111 N 1 0 0 1 0 0 2
-Colour: 7300
+Colour: 6600
 EndChar

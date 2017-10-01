@@ -1,12 +1,11 @@
 StartChar: Zdotbelow
-Encoding: 7826 7826 1245
+Encoding: 7826 7826 1231
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1072 803 S 1 0 0 1 0 0 2
+Refer: 1058 803 S 1 0 0 1 0 0 2
 Refer: 59 90 N 1 0 0 1 0 0 2
-Validated: 98305
 Colour: 6600
 EndChar

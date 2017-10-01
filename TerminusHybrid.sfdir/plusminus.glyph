@@ -2,8 +2,8 @@ StartChar: plusminus
 Encoding: 177 177 113
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzz!!!%M!It3$!It3$5Q!bD!It3$!It3$!It.M!!#7]5PtK]zzz
@@ -18,5 +18,5 @@ Refer: 14 45 N 1 0 0 1 0 -597 2
 Layer: 3
 Refer: 12 43 S 1 0 0 1 0 0 2
 Refer: 14 45 N 1 0 0 1 0 -597 2
-Colour: 7300
+Colour: 6600
 EndChar

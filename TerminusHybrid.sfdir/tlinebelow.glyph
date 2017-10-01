@@ -1,11 +1,11 @@
 StartChar: tlinebelow
-Encoding: 7791 7791 1210
+Encoding: 7791 7791 1196
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1083 817 S 1 0 0 1 0 0 2
+Refer: 1069 817 S 1 0 0 1 0 0 2
 Refer: 85 116 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

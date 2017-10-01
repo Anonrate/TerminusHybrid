@@ -3,15 +3,15 @@ Encoding: 238 238 174
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!%M"2G0"%WDCJ!!!7S#Cli*!It3$!It3$!It3$!It3$!ItF5#N,R^zzz
 EndImage
 Fore
-Refer: 1045 770 S 1 0 0 1 0 -320 2
+Refer: 1031 770 S 1 0 0 1 0 -320 2
 Refer: 241 305 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Layer: 2
 SplineSet
 477 1202 m 2,0,1
@@ -54,5 +54,5 @@ SplineSet
  477 1202 l 2,0,1
 EndSplineSet
 Refer: 241 305 S 1 0 0 1 0 0 2
-Colour: 7300
+Colour: 6600
 EndChar

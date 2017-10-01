@@ -125,7 +125,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!#7Q5PQoP0FTWD0FTWD0FTWD0H<=P5O^T31Oq3q0]4X(0K:a+0FRp]zzz
@@ -254,5 +254,5 @@ SplineSet
  144 0 l 258,61,62
  128 0 128 0 128 16 c 258,20,-1
 EndSplineSet
-Colour: 8000
+Colour: 6600
 EndChar

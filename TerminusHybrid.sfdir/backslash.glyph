@@ -4,7 +4,7 @@ Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!"\Q0E;pi(]XsE$igJ3"on`*!rr@P!It0c!5JSB!+5d\!&+Bi!#P\9zzz
@@ -46,5 +46,5 @@ SplineSet
  726 0 726 0 725 14 c 2,11,-1
  213 1180 l 2,0,1
 EndSplineSet
-Colour: 8000
+Colour: 6600
 EndChar

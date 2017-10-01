@@ -3,12 +3,12 @@ Encoding: 8804 8804 513
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!!Y!,qqr!Peef#6556)uprY%KH_6"+UEf!8mir!&srY!!#7]5PtK]zzz
 EndImage
 Fore
-Validated: 1
+Refer: 1536 57604 S 1 0 0 1 0 0 2
 Colour: 80bf
 EndChar

@@ -3,7 +3,7 @@ Encoding: 641 641 927
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
 SplineSet
 272 640 m 258,0,1
@@ -123,4 +123,5 @@ SplineSet
  128 0 128 0 128 14 c 2,47,-1
  128 1266 l 2,14,15
 EndSplineSet
+Colour: 6600
 EndChar

@@ -3,7 +3,7 @@ Encoding: 639 639 970
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
 SplineSet
 768 16 m 258,0,-1
@@ -81,4 +81,5 @@ SplineSet
  725 938 725 938 740 939 c 2,30,-1
  796 939 l 2,0,1
 EndSplineSet
+Colour: 6600
 EndChar

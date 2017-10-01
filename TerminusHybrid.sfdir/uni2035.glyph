@@ -1,9 +1,9 @@
 StartChar: uni2035
-Encoding: 8245 8245 1056
+Encoding: 8245 8245 1042
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
 SplineSet
 464 1408 m 2,0,-1

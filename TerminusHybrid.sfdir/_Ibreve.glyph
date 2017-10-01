@@ -2,17 +2,16 @@ StartChar: Ibreve
 Encoding: 300 300 236
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"$nr)D#N,^"!!!8^#N,W5!It3$!It3$!It3$!It3$!It3$!It3$!It3$!ItF5#N,R^
 zzz
 EndImage
 Fore
-Refer: 1049 774 S 1 0 0 1 0 0 2
+Refer: 1035 774 S 1 0 0 1 0 0 2
 Refer: 42 73 N 1 0 0 1 0 0 2
-Validated: 98305
 Layer: 2
 SplineSet
 228 1621 m 2,0,-1

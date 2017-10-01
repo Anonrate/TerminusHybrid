@@ -1,10 +1,11 @@
 StartChar: dotaccentcmb
-Encoding: 775 775 1050
+Encoding: 775 775 1036
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 337 729 N 1 0 0 1 0 0 2
 Validated: 32769
+Colour: 6666
 EndChar

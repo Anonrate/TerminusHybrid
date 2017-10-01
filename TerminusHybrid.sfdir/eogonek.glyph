@@ -2,18 +2,19 @@ StartChar: eogonek
 Encoding: 281 281 217
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!!Q!+8@f80FTWD0FU2D5Q!280E<d,3"-o,&,61@"+UIR"5j4<z
 EndImage
 Fore
+Refer: 1337 808 N 1 0 0 1 0 0 2
 Refer: 70 101 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 70 101 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 70 101 N 1 0 0 1 0 0 2
+Comment: "The U+-0328 COMBINING OGONEK here will look different from others as it has been modified by shortening the head(?)"
 Colour: 6600
 EndChar

@@ -1,11 +1,11 @@
 StartChar: uni030E
-Encoding: 782 782 1061
+Encoding: 782 782 1047
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
-Refer: 1032 712 S 1 0 0 1 192 0 2
-Refer: 1032 712 N 1 0 0 1 -192 0 2
-Validated: 32769
+Refer: 1046 781 N 1 0 0 1 192 0 2
+Refer: 1046 781 S 1 0 0 1 -192 0 2
+Colour: 6666
 EndChar

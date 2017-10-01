@@ -1,10 +1,20 @@
 StartChar: uni030D
-Encoding: 781 781 1060
+Encoding: 781 781 1046
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
-Refer: 1032 712 N 1 0 0 1 0 0 2
-Validated: 32769
+SplineSet
+448 1328 m 262,0,-1
+ 448 1648 l 258,1,2
+ 448 1664 448 1664 464 1664 c 258,3,-1
+ 560 1664 l 258,4,5
+ 576 1664 576 1664 576 1648 c 258,6,-1
+ 576 1328 l 262,7,8
+ 576 1312 576 1312 560 1312 c 262,9,-1
+ 464 1312 l 262,10,11
+ 448 1312 448 1312 448 1328 c 262,0,-1
+EndSplineSet
+Colour: 6666
 EndChar

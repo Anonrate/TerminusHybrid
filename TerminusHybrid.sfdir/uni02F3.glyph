@@ -1,10 +1,7 @@
 StartChar: uni02F3
-Encoding: 755 755 1037
-Width: 1024
+Encoding: 755 755 1478
+Width: 2048
 VWidth: 0
-Flags: MW
-LayerCount: 4
-Fore
-Refer: 1019 730 S 1 0 0 1 0 -1664 2
-Validated: 32769
+LayerCount: 5
+Colour: ff6600
 EndChar

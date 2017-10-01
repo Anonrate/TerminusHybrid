@@ -2,8 +2,8 @@ StartChar: nj
 Encoding: 460 460 943
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 79 110 S 1 0 0 1 43 0 2
 Refer: 75 106 N 1 0 0 1 43 0 2
@@ -14,4 +14,5 @@ Refer: 75 106 N 1 0 0 1 43 0 2
 Layer: 3
 Refer: 79 110 S 1 0 0 1 43 0 2
 Refer: 75 106 N 1 0 0 1 43 0 2
+Colour: ff0000
 EndChar

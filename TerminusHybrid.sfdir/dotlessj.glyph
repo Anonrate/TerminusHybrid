@@ -3,7 +3,7 @@ Encoding: 567 567 330
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zzzzz!!!"D!-eJ\!#P\Q!#P\Q!#P\Q!#P\Q!#P\Q!#QOi(`45P&+Bh^z
@@ -93,5 +93,5 @@ SplineSet
  512 924 l 2,32,33
  512 939 512 939 526 939 c 2,0,-1
 EndSplineSet
-Colour: 5900
+Colour: 6600
 EndChar

@@ -2,8 +2,8 @@ StartChar: fn
 Encoding: 681 681 994
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 79 110 S 1 0 0 1 128 0 2
 Refer: 71 102 N 1 0 0 1 -171 0 2
@@ -14,4 +14,5 @@ Refer: 71 102 N 1 0 0 1 -171 0 2
 Layer: 3
 Refer: 79 110 S 1 0 0 1 128 0 2
 Refer: 71 102 N 1 0 0 1 -171 0 2
+Colour: ff0000
 EndChar

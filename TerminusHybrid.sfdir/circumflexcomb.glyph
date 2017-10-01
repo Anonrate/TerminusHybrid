@@ -1,9 +1,9 @@
 StartChar: circumflexcomb
-Encoding: 770 770 1045
+Encoding: 770 770 1031
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
 SplineSet
 480 1584 m 6,0,1
@@ -24,4 +24,5 @@ SplineSet
  480 1584 l 6,0,1
 EndSplineSet
 Validated: 3073
+Colour: 6666
 EndChar

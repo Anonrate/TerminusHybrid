@@ -1,11 +1,11 @@
 StartChar: itildebelow
-Encoding: 7725 7725 1158
+Encoding: 7725 7725 1144
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 74 105 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: 6600
 EndChar

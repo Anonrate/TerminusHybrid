@@ -1,12 +1,12 @@
 StartChar: uni035A
-Encoding: 858 858 1095
+Encoding: 858 858 1081
 Width: 1024
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: MW
-LayerCount: 4
+LayerCount: 5
 Fore
-Refer: 1074 805 S 1 0 0 1 96 0 2
-Refer: 1074 805 S 1 0 0 1 -96 0 2
-Validated: 98309
+Refer: 1060 805 S 1 0 0 1 128 0 2
+Refer: 1060 805 N 1 0 0 1 -128 0 2
+Colour: 6666
 EndChar

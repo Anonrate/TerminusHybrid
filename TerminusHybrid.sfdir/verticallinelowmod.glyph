@@ -1,10 +1,8 @@
 StartChar: verticallinelowmod
-Encoding: 716 716 1029
+Encoding: 716 716 1026
 Width: 1024
 VWidth: 0
 Flags: MW
-LayerCount: 4
-Fore
-Refer: 1032 712 S 1 0 0 1 0 -1152 2
-Validated: 32769
+LayerCount: 5
+Colour: ff6600
 EndChar

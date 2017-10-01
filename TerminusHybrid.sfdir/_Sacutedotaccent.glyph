@@ -1,9 +1,9 @@
 StartChar: Sacutedotaccent
-Encoding: 7780 7780 1201
+Encoding: 7780 7780 1187
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 SplineSet
 464 1600 m 262,0,-1
@@ -16,8 +16,7 @@ SplineSet
  448 1584 l 262,10,11
  448 1600 448 1600 464 1600 c 262,0,-1
 EndSplineSet
-Refer: 1044 769 N 1 0 0 1 0 -128 2
+Refer: 1030 769 N 1 0 0 1 0 -128 2
 Refer: 52 83 N 1 0 0 1 0 0 2
-Validated: 101381
 Colour: 6600
 EndChar

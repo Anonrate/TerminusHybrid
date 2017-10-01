@@ -2,8 +2,8 @@ StartChar: dieresis
 Encoding: 168 168 104
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"$nr)D$nr)Dzzzzzzzzzzzzzz
@@ -18,5 +18,5 @@ Refer: 15 46 N 1 0 0 1 -171 1365 2
 Layer: 3
 Refer: 15 46 N 1 0 0 1 171 1365 2
 Refer: 15 46 N 1 0 0 1 -171 1365 2
-Colour: 7300
+Colour: 6600
 EndChar

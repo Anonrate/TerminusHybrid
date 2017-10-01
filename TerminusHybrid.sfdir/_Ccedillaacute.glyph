@@ -1,12 +1,11 @@
 StartChar: Ccedillaacute
-Encoding: 7688 7688 1123
+Encoding: 7688 7688 1109
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1076 807 S 1 0 0 1 0 0 2
-Refer: 1026 714 N 1 0 0 1 0 0 2
+Refer: 1062 807 S 1 0 0 1 0 0 2
 Refer: 36 67 N 1 0 0 1 0 0 2
 Colour: 6600
 EndChar

@@ -2,8 +2,8 @@ StartChar: HWAIR
 Encoding: 502 502 910
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 Refer: 41 72 N 1 0 0 1 0 0 2
 Validated: 32769
@@ -12,4 +12,5 @@ Refer: 41 72 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 41 72 N 1 0 0 1 0 0 2
 Comment: "This may be wrong."
+Colour: 6600
 EndChar

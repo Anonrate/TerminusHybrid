@@ -2,16 +2,12 @@ StartChar: hungarumlaut
 Encoding: 733 733 340
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"!R:e;#<334zzzzzzzzzzzzzz
 EndImage
-Fore
-Refer: 1026 714 N 1 0 0 1 176 0 2
-Refer: 1026 714 N 1 0 0 1 -144 0 2
-Validated: 32769
 Layer: 2
 SplineSet
 441 1607 m 2,0,1
@@ -54,4 +50,5 @@ SplineSet
  598 1422 598 1422 612 1436 c 2,23,-1
  783 1607 l 2,12,13
 EndSplineSet
+Colour: ff6600
 EndChar

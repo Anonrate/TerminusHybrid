@@ -1,12 +1,11 @@
 StartChar: Uhorngrave
-Encoding: 7914 7914 1323
+Encoding: 7914 7914 1309
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
-Refer: 1025 715 N 1 0 0 1 0 0 2
+Refer: 1029 768 S 1 0 0 1 0 0 2
 Refer: 54 85 N 1 0 0 1 0 0 2
-Validated: 98305
 Colour: 6600
 EndChar

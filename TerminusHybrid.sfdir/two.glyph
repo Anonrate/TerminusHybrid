@@ -133,7 +133,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!Q!+8@f80FTWD0FTWD!"8iI!&sst!8mmn"+UUV%KIIK2ul2@5PtK]zzz
@@ -249,5 +249,5 @@ SplineSet
  752 784 l 258,0,1
 EndSplineSet
 Comment: "Following my own conventions, I can't seem to get the bottom left of the '2' to look round.  But the current approach follows conventions.+AAoACgAA-UPDATE:  Not +ACIA-Exactly+ACIA following my own conventions, but I have managed to make the bottom left a bit more roundish."
-Colour: 8000
+Colour: 6600
 EndChar

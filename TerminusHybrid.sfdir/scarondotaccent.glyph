@@ -1,9 +1,9 @@
 StartChar: scarondotaccent
-Encoding: 7783 7783 1204
+Encoding: 7783 7783 1190
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Fore
 SplineSet
 464 1264 m 262,0,-1
@@ -16,8 +16,8 @@ SplineSet
  448 1248 l 262,10,11
  448 1264 448 1264 464 1264 c 262,0,-1
 EndSplineSet
-Refer: 1059 780 N 1 0 0 1 0 -448 2
+Refer: 1045 780 N 1 0 0 1 0 -448 2
 Refer: 84 115 N 1 0 0 1 0 0 2
-Validated: 101377
+Validated: 35841
 Colour: 6600
 EndChar

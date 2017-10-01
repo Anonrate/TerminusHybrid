@@ -2,8 +2,8 @@ StartChar: percent
 Encoding: 37 37 6
 Width: 1024
 VWidth: 0
-Flags: HMW
-LayerCount: 4
+Flags: MW
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!"&W58Z111GD%$*aeu`!5JVc!It7P!rrN*"oo)$%JUg.)43/R0^o&Bzzz
@@ -81,5 +81,5 @@ Layer: 3
 Refer: 1019 730 S 1 0 0 1 128 -1280 2
 Refer: 1019 730 N 1 0 0 1 -192 -384 2
 Refer: 16 47 N 1 0 0 1 0 0 2
-Colour: 8000
+Colour: 6600
 EndChar

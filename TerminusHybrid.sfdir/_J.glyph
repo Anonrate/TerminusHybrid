@@ -96,7 +96,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"zz!!!"J!.Fnb!#P\Q!#P\Q!#P\Q!#P\Q!#P\Q!#RC,0GlJ\3&i#L&)[Efzzz
@@ -202,5 +202,5 @@ SplineSet
  944 1280 l 258,50,51
  960 1280 960 1280 960 1264 c 258,0,-1
 EndSplineSet
-Colour: 8000
+Colour: 6600
 EndChar

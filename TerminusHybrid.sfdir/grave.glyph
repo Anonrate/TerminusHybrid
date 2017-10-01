@@ -3,84 +3,23 @@ Encoding: 96 96 65
 Width: 1024
 VWidth: 0
 Flags: MW
-TtInstrs:
-SVTCA[y-axis]
-SVTCA[x-axis]
-PUSHB_1
- 12
-MDAP[rnd]
-PUSHB_1
- 13
-MDRP[rp0,rnd,white]
-PUSHB_1
- 54
-SMD
-PUSHW_3
- -11585
- -11585
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 6
-SRP0
-PUSHB_1
- 5
-MDRP[grey]
-PUSHB_2
- 11
- 4
-MIRP[rp0,min,black]
-PUSHB_1
- 0
-MDRP[grey]
-SVTCA[y-axis]
-PUSHB_4
- 0
- 5
- 6
- 11
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-PUSHB_4
- 0
- 5
- 6
- 11
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
-LayerCount: 4
+LayerCount: 5
 Back
 Image: 16 32 0 2 2 0 0 1664 64 64 0
 =]nmXJ:IV"%KH_6"+UEfzzzzzzzzzzzzzz
 EndImage
 Fore
 SplineSet
-608 1408 m 262,0,1
- 624 1392 624 1392 608 1376 c 262,2,-1
- 544 1312 l 262,3,4
- 528 1296 528 1296 512 1312 c 262,5,-1
- 288 1536 l 262,6,7
- 272 1552 272 1552 288 1568 c 262,8,-1
- 352 1632 l 262,9,10
- 368 1648 368 1648 384 1632 c 262,11,-1
- 608 1408 l 262,0,1
+592 1408 m 262,0,1
+ 608 1392 608 1392 592 1376 c 262,2,-1
+ 528 1312 l 262,3,4
+ 512 1296 512 1296 496 1312 c 262,5,-1
+ 272 1536 l 262,6,7
+ 256 1552 256 1552 272 1568 c 262,8,-1
+ 336 1632 l 262,9,10
+ 352 1648 352 1648 368 1632 c 262,11,-1
+ 592 1408 l 262,0,1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 455 1607 m 6,0,-1
@@ -105,5 +44,5 @@ SplineSet
  427 1607 l 2,10,11
  441 1621 441 1621 455 1607 c 6,0,-1
 EndSplineSet
-Colour: 8000
+Colour: 6600
 EndChar
