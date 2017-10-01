@@ -1,0 +1,17 @@
+StartChar: lmiddletilde
+Encoding: 619 619 985
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 339 732 S 1 0 0 1 0 -896 2
+Refer: 77 108 N 1 0 0 1 0 0 2
+Validated: 5
+Layer: 2
+Refer: 77 108 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 77 108 N 1 0 0 1 0 0 2
+Comment: "TILDE is lowered to that of where the TILDE would be located for lowercase glpyhs.  16 * 20 at 2048 UPM"
+Colour: 6600
+EndChar

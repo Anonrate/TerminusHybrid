@@ -1,0 +1,16 @@
+StartChar: cturn
+Encoding: 596 596 1020
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zzzzz!!!Q!+8@f80FRpi!"8i9!"8i9!":Oi3#j%8&+BQ!zzz
+EndImage
+Fore
+Refer: 68 99 S -1 0 0 -1 1024 896 2
+Validated: 32769
+Comment: "U+-0063 LATIN SMALL LETTER C rotated 180 degrees"
+Colour: 6600
+EndChar

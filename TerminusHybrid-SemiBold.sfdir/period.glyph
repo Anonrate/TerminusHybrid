@@ -1,0 +1,90 @@
+StartChar: period
+Encoding: 46 46 15
+Width: 1024
+VWidth: 0
+Flags: MW
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 7
+ 1
+ 0
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_3
+ 7
+ 1
+ 0
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zzzzzzzzzz!!!%M!It3$!It.Mzzz
+EndImage
+Fore
+SplineSet
+464 256 m 258,0,-1
+ 560 256 l 258,1,2
+ 576 256 576 256 576 240 c 262,3,-1
+ 576 16 l 258,4,5
+ 576 0 576 0 560 0 c 258,6,-1
+ 464 0 l 258,7,8
+ 448 0 448 0 448 16 c 258,9,-1
+ 448 240 l 258,10,11
+ 448 256 448 256 464 256 c 258,0,-1
+EndSplineSet
+Validated: 19457
+Layer: 2
+SplineSet
+441 256 m 6,0,-1
+ 498 256 l 2,1,2
+ 512 256 512 256 512 242 c 2,3,-1
+ 512 14 l 2,4,5
+ 512 0 512 0 498 0 c 2,6,-1
+ 441 0 l 2,7,8
+ 427 0 427 0 427 14 c 2,9,-1
+ 427 242 l 2,10,11
+ 427 256 427 256 441 256 c 6,0,-1
+EndSplineSet
+Layer: 3
+SplineSet
+464 256 m 258,0,-1
+ 560 256 l 258,1,2
+ 576 256 576 256 576 240 c 262,3,-1
+ 576 16 l 258,4,5
+ 576 0 576 0 560 0 c 258,6,-1
+ 464 0 l 258,7,8
+ 448 0 448 0 448 16 c 258,9,-1
+ 448 240 l 258,10,11
+ 448 256 448 256 464 256 c 258,0,-1
+EndSplineSet
+Colour: 6600
+EndChar

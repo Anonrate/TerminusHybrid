@@ -1,0 +1,21 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 1058
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+SplineSet
+464 -64 m 258,0,-1
+ 560 -64 l 258,1,2
+ 576 -64 576 -64 576 -80 c 262,3,-1
+ 576 -304 l 258,4,5
+ 576 -320 576 -320 560 -320 c 258,6,-1
+ 464 -320 l 258,7,8
+ 448 -320 448 -320 448 -304 c 258,9,-1
+ 448 -80 l 258,10,11
+ 448 -64 448 -64 464 -64 c 258,0,-1
+EndSplineSet
+Validated: 1
+Colour: 6666
+EndChar

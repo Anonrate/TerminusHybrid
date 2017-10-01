@@ -1,0 +1,25 @@
+StartChar: minusmod
+Encoding: 727 727 954
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+SplineSet
+320 592 m 262,0,-1
+ 320 688 l 262,1,2
+ 320 704 320 704 336 704 c 262,3,-1
+ 688 704 l 258,4,5
+ 704 704 704 704 704 688 c 258,6,-1
+ 704 592 l 258,7,8
+ 704 576 704 576 688 576 c 258,9,-1
+ 336 576 l 262,10,11
+ 320 576 320 576 320 592 c 262,0,-1
+EndSplineSet
+Validated: 1
+Layer: 2
+Refer: 14 45 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 14 45 N 1 0 0 1 0 0 2
+Colour: ff6600
+EndChar

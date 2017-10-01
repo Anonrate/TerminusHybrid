@@ -1,0 +1,16 @@
+StartChar: daggerdbl
+Encoding: 8225 8225 404
+Width: 1024
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!%M!It3$!Iu9e+8>ke!It3$!It3$!It3$!Iu9e+8>ke!It3$!It.Mzzz
+EndImage
+Fore
+Refer: 403 8224 N -1 0 0 -1 1024 1280 2
+Refer: 403 8224 N 1 0 0 1 0 0 2
+Colour: 808000
+EndChar

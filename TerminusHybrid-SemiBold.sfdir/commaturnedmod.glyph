@@ -1,0 +1,18 @@
+StartChar: commaturnedmod
+Encoding: 699 699 331
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"!+5fB!Pe_d!It.Mzzzzzzzzzzzzz
+EndImage
+Fore
+Validated: 1
+Layer: 2
+Refer: 13 44 S -1 0 0 -1 939 1536 2
+Layer: 3
+Refer: 13 44 S -1 0 0 -1 939 1536 2
+Colour: ff6600
+EndChar

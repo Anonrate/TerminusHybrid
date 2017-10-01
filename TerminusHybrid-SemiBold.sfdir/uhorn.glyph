@@ -1,0 +1,15 @@
+StartChar: uhorn
+Encoding: 432 432 900
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 1343 795 S 1 0 0 1 8 -384 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 86 117 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

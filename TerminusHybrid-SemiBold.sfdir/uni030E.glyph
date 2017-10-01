@@ -1,0 +1,12 @@
+StartChar: uni030E
+Encoding: 782 782 1047
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 1046 781 N 1 0 0 1 192 0 2
+Refer: 1046 781 S 1 0 0 1 -192 0 2
+Validated: 1
+Colour: 6666
+EndChar

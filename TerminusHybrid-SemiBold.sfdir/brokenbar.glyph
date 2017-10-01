@@ -1,0 +1,16 @@
+StartChar: brokenbar
+Encoding: 166 166 102
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!%M!It3$!It3$!It3$!It.Mz!!!%M!It3$!It3$!It3$!It.Mzzz
+EndImage
+Fore
+Refer: 111 175 S 0 -1 1 0 -960 768 2
+Refer: 111 175 N 0 -1 1 0 -960 1536 2
+Validated: 32769
+Colour: 6600
+EndChar

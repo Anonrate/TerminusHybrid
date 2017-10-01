@@ -1,0 +1,23 @@
+StartChar: scarondotaccent
+Encoding: 7783 7783 1190
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+SplineSet
+464 1264 m 262
+ 560 1264 l 262
+ 576 1264 576 1264 576 1248 c 262
+ 576 1152 l 262
+ 576 1136 576 1136 560 1136 c 262
+ 464 1136 l 262
+ 448 1136 448 1136 448 1152 c 262
+ 448 1248 l 262
+ 448 1264 448 1264 464 1264 c 262
+EndSplineSet
+Refer: 1045 780 N 1 0 0 1 0 -448 2
+Refer: 84 115 N 1 0 0 1 0 0 2
+Validated: 35841
+Colour: 6600
+EndChar

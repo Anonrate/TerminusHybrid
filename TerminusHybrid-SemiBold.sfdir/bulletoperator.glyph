@@ -1,0 +1,29 @@
+StartChar: bulletoperator
+Encoding: 8729 8729 501
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zzzzzz"+UWl#J^S["+U@Ozzzzzzz
+EndImage
+Fore
+SplineSet
+608 800 m 256,0,1
+ 640 768 640 768 640 736 c 258,2,-1
+ 640 608 l 258,3,4
+ 640 576 640 576 608 544 c 256,5,6
+ 576 512 576 512 544 512 c 258,7,-1
+ 416 512 l 258,8,9
+ 384 512 384 512 352 544 c 256,10,11
+ 320 576 320 576 320 608 c 258,12,-1
+ 320 736 l 258,13,14
+ 320 768 320 768 352 800 c 256,15,16
+ 384 832 384 832 416 832 c 258,17,-1
+ 544 832 l 258,18,19
+ 576 832 576 832 608 800 c 256,0,1
+EndSplineSet
+Validated: 1
+Colour: 80bf
+EndChar

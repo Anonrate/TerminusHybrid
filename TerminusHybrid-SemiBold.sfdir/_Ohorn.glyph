@@ -1,0 +1,16 @@
+StartChar: Ohorn
+Encoding: 416 416 865
+Width: 1024
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 48 79 N 1 0 0 1 0 0 2
+Refer: 1343 795 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 48 79 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

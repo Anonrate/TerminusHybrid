@@ -1,0 +1,12 @@
+StartChar: uniE0F0
+Encoding: 57584 57584 1516
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 5
+Back
+Refer: 1513 57581 N 1 0 0 1 0 0 2
+Fore
+Refer: 1513 57581 N 1 0 0 1 320 192 2
+Validated: 1
+EndChar

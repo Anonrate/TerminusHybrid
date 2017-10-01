@@ -1,0 +1,43 @@
+StartChar: Umacron
+Encoding: 362 362 297
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"!!!Q!&+BQ!!!"\]0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD3#j%8&+BQ!
+zzz
+EndImage
+Fore
+Refer: 1033 772 N 1 0 0 1 0 0 2
+Refer: 54 85 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+SplineSet
+228 1536 m 6,0,-1
+ 796 1536 l 2,1,2
+ 810 1536 810 1536 811 1521 c 2,3,-1
+ 811 1465 l 2,4,5
+ 811 1451 811 1451 796 1450 c 2,6,-1
+ 228 1450 l 2,7,8
+ 214 1450 214 1450 213 1465 c 2,9,-1
+ 213 1521 l 2,10,11
+ 214 1536 214 1536 228 1536 c 6,0,-1
+EndSplineSet
+Refer: 54 85 N 1 0 0 1 0 0 2
+Layer: 3
+SplineSet
+228 1536 m 6,0,-1
+ 796 1536 l 2,1,2
+ 810 1536 810 1536 811 1521 c 2,3,-1
+ 811 1465 l 2,4,5
+ 811 1451 811 1451 796 1450 c 2,6,-1
+ 228 1450 l 2,7,8
+ 214 1450 214 1450 213 1465 c 2,9,-1
+ 213 1521 l 2,10,11
+ 214 1536 214 1536 228 1536 c 6,0,-1
+EndSplineSet
+Refer: 54 85 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

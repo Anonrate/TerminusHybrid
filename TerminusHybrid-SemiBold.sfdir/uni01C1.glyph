@@ -1,0 +1,12 @@
+StartChar: uni01C1
+Encoding: 449 449 1364
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 5
+Fore
+Refer: 1365 448 S 1 0 0 1 256 0 2
+Refer: 1365 448 N 1 0 0 1 -256 0 2
+Validated: 1
+Colour: 6600
+EndChar

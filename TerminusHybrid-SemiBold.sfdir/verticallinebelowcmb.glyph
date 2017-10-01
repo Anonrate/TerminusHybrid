@@ -1,0 +1,21 @@
+StartChar: verticallinebelowcmb
+Encoding: 809 809 1063
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+SplineSet
+448 -304 m 262,0,-1
+ 448 16 l 258,1,2
+ 448 32 448 32 464 32 c 258,3,-1
+ 560 32 l 258,4,5
+ 576 32 576 32 576 16 c 258,6,-1
+ 576 -304 l 262,7,8
+ 576 -320 576 -320 560 -320 c 262,9,-1
+ 464 -320 l 262,10,11
+ 448 -320 448 -320 448 -304 c 262,0,-1
+EndSplineSet
+Validated: 1
+Colour: 6666
+EndChar

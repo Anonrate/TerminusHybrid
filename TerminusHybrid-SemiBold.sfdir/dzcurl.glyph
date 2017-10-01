@@ -1,0 +1,14 @@
+StartChar: dzcurl
+Encoding: 677 677 992
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 920 499 S 1 0 0 1 0 0 2
+Layer: 2
+Refer: 920 499 S 1 0 0 1 0 0 2
+Layer: 3
+Refer: 920 499 S 1 0 0 1 0 0 2
+Colour: ff0000
+EndChar

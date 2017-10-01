@@ -1,0 +1,16 @@
+StartChar: Khook
+Encoding: 408 408 855
+Width: 1024
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 1354 740 S 1 0 0 1 320 0 2
+Refer: 44 75 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 44 75 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 44 75 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

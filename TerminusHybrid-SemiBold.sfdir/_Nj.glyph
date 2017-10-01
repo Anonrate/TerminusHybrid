@@ -1,0 +1,18 @@
+StartChar: Nj
+Encoding: 459 459 863
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 75 106 S 1 0 0 1 43 0 2
+Refer: 47 78 N 1 0 0 1 43 0 2
+Validated: 32773
+Layer: 2
+Refer: 75 106 S 1 0 0 1 43 0 2
+Refer: 47 78 N 1 0 0 1 43 0 2
+Layer: 3
+Refer: 75 106 S 1 0 0 1 43 0 2
+Refer: 47 78 N 1 0 0 1 43 0 2
+Colour: ff0000
+EndChar

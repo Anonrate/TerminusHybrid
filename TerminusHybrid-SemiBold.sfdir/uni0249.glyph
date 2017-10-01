@@ -1,0 +1,16 @@
+StartChar: uni0249
+Encoding: 585 585 965
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 75 106 N 1 0 0 1 0 0 2
+Refer: 1330 821 N 1 0 0 1 224 -448 2
+Validated: 5
+Layer: 2
+Refer: 85 116 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 85 116 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

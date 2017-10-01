@@ -1,0 +1,157 @@
+StartChar: asciicircum
+Encoding: 94 94 63
+Width: 1024
+VWidth: 0
+Flags: MW
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 19
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 14
+SRP0
+PUSHB_1
+ 15
+MDRP[grey]
+PUSHB_2
+ 9
+ 4
+MIRP[rp0,min,black]
+PUSHB_1
+ 8
+MDRP[grey]
+PUSHW_3
+ -11585
+ -11585
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 6
+SRP0
+PUSHB_1
+ 5
+MDRP[grey]
+PUSHB_2
+ 17
+ 4
+MIRP[rp0,min,black]
+PUSHB_1
+ 0
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_8
+ 0
+ 5
+ 6
+ 8
+ 9
+ 14
+ 15
+ 17
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 0
+ 5
+ 6
+ 8
+ 9
+ 14
+ 15
+ 17
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"z!!!%M"2G0"%WECI3#hnuzzzzzzzzzzz
+EndImage
+Fore
+SplineSet
+848 1120 m 258,0,1
+ 864 1104 864 1104 848 1088 c 258,2,-1
+ 784 1024 l 258,3,4
+ 768 1008 768 1008 752 1024 c 258,5,-1
+ 528 1248 l 258,6,7
+ 512 1264 512 1264 496 1248 c 258,8,-1
+ 272 1024 l 258,9,10
+ 256 1008 256 1008 240 1024 c 258,11,-1
+ 176 1088 l 258,12,13
+ 160 1104 160 1104 176 1120 c 258,14,-1
+ 480 1424 l 258,15,16
+ 512 1456 512 1456 544 1424 c 258,17,-1
+ 848 1120 l 258,0,1
+EndSplineSet
+Validated: 19457
+Layer: 2
+SplineSet
+526 1451 m 6,0,-1
+ 882 1095 l 2,1,2
+ 896 1081 896 1081 882 1067 c 2,3,-1
+ 853 1038 l 2,4,5
+ 839 1024 839 1024 825 1038 c 2,6,-1
+ 526 1337 l 2,7,8
+ 512 1351 512 1351 498 1337 c 2,9,-1
+ 199 1038 l 2,10,11
+ 185 1024 185 1024 171 1038 c 2,12,-1
+ 142 1067 l 2,13,14
+ 128 1081 128 1081 142 1095 c 2,15,-1
+ 498 1451 l 2,16,17
+ 512 1465 512 1465 526 1451 c 6,0,-1
+EndSplineSet
+Layer: 3
+SplineSet
+848 1120 m 258,0,1
+ 864 1104 864 1104 848 1088 c 258,2,-1
+ 784 1024 l 258,3,4
+ 768 1008 768 1008 752 1024 c 258,5,-1
+ 528 1248 l 258,6,7
+ 512 1264 512 1264 496 1248 c 258,8,-1
+ 272 1024 l 258,9,10
+ 256 1008 256 1008 240 1024 c 258,11,-1
+ 176 1088 l 258,12,13
+ 160 1104 160 1104 176 1120 c 258,14,-1
+ 480 1424 l 2,15,16
+ 512 1456 512 1456 544 1424 c 2,17,-1
+ 848 1120 l 258,0,1
+EndSplineSet
+Colour: 6600
+EndChar

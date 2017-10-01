@@ -1,0 +1,11 @@
+StartChar: uhorngrave
+Encoding: 7915 7915 1310
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Fore
+Refer: 1029 768 S 1 0 0 1 0 -320 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+Colour: 6600
+EndChar

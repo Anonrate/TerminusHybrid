@@ -1,0 +1,22 @@
+StartChar: arrowupdnbse
+Encoding: 8616 8616 474
+Width: 1024
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zz!!!%M"2G0"&+CUL3Lhg_!It3$!It3$0oS,_*OlXL#N,^"!J!E45PtK]zzz
+EndImage
+Fore
+Refer: 466 8592 N 0 1 -1 0 1109 85 2
+Refer: 810 8613 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 466 8592 N 0 1 -1 0 1109 85 2
+Refer: 810 8613 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 466 8592 N 0 1 -1 0 1109 85 2
+Refer: 810 8613 N 1 0 0 1 0 0 2
+Colour: 8080
+EndChar

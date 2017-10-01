@@ -1,0 +1,52 @@
+StartChar: arrowleft
+Encoding: 8592 8592 466
+Width: 1024
+VWidth: 0
+Flags: MW
+LayerCount: 5
+Back
+Image: 16 32 0 2 2 0 0 1664 64 64 0
+=]nmXJ:IV"zzzz!!!*$#6556)uqquJ,Xrs2ujou%KH_6!rr<$zzzzz
+EndImage
+Fore
+SplineSet
+32 640 m 25,0,-1
+ 384 992 l 25,1,-1
+ 480 896 l 25,2,-1
+ 288 704 l 25,3,-1
+ 1024 704 l 25,4,-1
+ 1024 576 l 25,5,-1
+ 288 576 l 25,6,-1
+ 480 384 l 25,7,-1
+ 384 288 l 29,8,-1
+ 32 640 l 25,0,-1
+EndSplineSet
+Validated: 3073
+Layer: 2
+SplineSet
+0 640 m 25,0,-1
+ 327 967 l 25,1,-1
+ 327 839 l 25,2,-1
+ 171 683 l 25,3,-1
+ 768 683 l 25,4,-1
+ 768 597 l 25,5,-1
+ 171 597 l 25,6,-1
+ 327 441 l 25,7,-1
+ 327 313 l 25,8,-1
+ 0 640 l 25,0,-1
+EndSplineSet
+Layer: 3
+SplineSet
+0 640 m 25,0,-1
+ 327 967 l 25,1,-1
+ 327 839 l 25,2,-1
+ 171 683 l 25,3,-1
+ 768 683 l 25,4,-1
+ 768 597 l 25,5,-1
+ 171 597 l 25,6,-1
+ 327 441 l 25,7,-1
+ 327 313 l 25,8,-1
+ 0 640 l 25,0,-1
+EndSplineSet
+Colour: 8080
+EndChar
